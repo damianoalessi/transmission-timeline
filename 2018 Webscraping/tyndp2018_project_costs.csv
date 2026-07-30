@@ -1,0 +1,361 @@
+investment_id,capex_meuro,uncertainty_pct,opex_meuro_per_year,project_url
+4,67.6,±10%,0.163,https://tyndp-data.netlify.app/tyndp2018/projects/projects/1
+474,7.4,±10%,0.056,https://tyndp-data.netlify.app/tyndp2018/projects/projects/1
+941,7.3,±10%,0.037,https://tyndp-data.netlify.app/tyndp2018/projects/projects/1
+2,28.5,±10%,0.065,https://tyndp-data.netlify.app/tyndp2018/projects/projects/1
+18,18.69,10%,0.49,https://tyndp-data.netlify.app/tyndp2018/projects/projects/4
+496,62.42,10%,0.208,https://tyndp-data.netlify.app/tyndp2018/projects/projects/4
+500,10.5,10%,0.055,https://tyndp-data.netlify.app/tyndp2018/projects/projects/4
+499,7.17,10%,0.17,https://tyndp-data.netlify.app/tyndp2018/projects/projects/4
+498,13.16,10%,0.17,https://tyndp-data.netlify.app/tyndp2018/projects/projects/4
+570,7.3,10%,0.11,https://tyndp-data.netlify.app/tyndp2018/projects/projects/13
+569,6.2,10%,0.09,https://tyndp-data.netlify.app/tyndp2018/projects/projects/13
+31,146.5,10%,2.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/13
+38,1750.0,11.4,10.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/16
+55,1260.0,,5.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/21
+60,140.0,5%,0.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/23
+62,685.0,,8.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/25
+614,155.0,10.0,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/26
+70,800.0,10.0,5.07,https://tyndp-data.netlify.app/tyndp2018/projects/projects/28
+1503,362.0,10.0,0.7,https://tyndp-data.netlify.app/tyndp2018/projects/projects/28
+624,70.0,10.0,0.335,https://tyndp-data.netlify.app/tyndp2018/projects/projects/28
+635,600.0,,3.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/29
+642,910.0,10.0,4.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/31
+90,220.0,,3.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/33
+1041,140.0,,2.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/33
+311,144.98,"-10%, +15%",0.0624,https://tyndp-data.netlify.app/tyndp2018/projects/projects/35
+315,171.89,"-10%, +15%",0.0104,https://tyndp-data.netlify.app/tyndp2018/projects/projects/35
+313,145.07,"-10%, +15%",0.0064,https://tyndp-data.netlify.app/tyndp2018/projects/projects/35
+141,349.0,,16.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/36
+142,1850.0,,15.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/37
+144,536.0,,4.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/39
+650,210.0,25%,0.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/40
+219,125.0,10,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/47
+689,173.8,10%,1.3904,https://tyndp-data.netlify.app/tyndp2018/projects/projects/47
+696,0.5,±10%,0.0097,https://tyndp-data.netlify.app/tyndp2018/projects/projects/48
+697,2.1,±10%,0.0387,https://tyndp-data.netlify.app/tyndp2018/projects/projects/48
+1500,27.65,±10%,0.7308,https://tyndp-data.netlify.app/tyndp2018/projects/projects/48
+1501,51.38,±10%,0.6904,https://tyndp-data.netlify.app/tyndp2018/projects/projects/48
+1062,20.0,,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/62
+386,120.0,,0.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/62
+735,60.0,,0.1145,https://tyndp-data.netlify.app/tyndp2018/projects/projects/62
+427,620.0,+/- 10%,4.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/71
+449,0.0,,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/74
+450,0.0,,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/74
+443,660.0,2%,25.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/74
+752,400.0,5%,8.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/75
+452,1220.0,,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/77
+458,814.0,,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/78
+462,349.0,,0.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/81
+897,135.9,,0.27,https://tyndp-data.netlify.app/tyndp2018/projects/projects/82
+896,88.6,,0.18,https://tyndp-data.netlify.app/tyndp2018/projects/projects/82
+463,171.7,,0.34,https://tyndp-data.netlify.app/tyndp2018/projects/projects/82
+779,63.0,±10%,0.099,https://tyndp-data.netlify.app/tyndp2018/projects/projects/85
+780,4.1,±10%,0.029,https://tyndp-data.netlify.app/tyndp2018/projects/projects/85
+146,560.0,6%,4.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/92
+796,36.5,,1.095,https://tyndp-data.netlify.app/tyndp2018/projects/projects/94
+1492,65.7,,1.971,https://tyndp-data.netlify.app/tyndp2018/projects/projects/94
+1493,110.8,,2.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/94
+139,12.5,,0.0375,https://tyndp-data.netlify.app/tyndp2018/projects/projects/94
+801,60.0,+-10%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/96
+1490,30.0,+/- 10%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/103
+1560,690.0,+/- 10%,5.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/103
+1488,105.0,+/- 10%,0.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/103
+1540,50.0,+/- 10%,0.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/103
+1539,45.0,+/- 10%,0.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/103
+810,930.0,+/- 10%,8.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/107
+424,1850.0,,15.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/110
+396,154.0,+-10%,0.24,https://tyndp-data.netlify.app/tyndp2018/projects/projects/111
+145,220.0,+/- 10%,1.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/113
+1625,800.0,25%,17.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/120
+934,1000.0,30%,8.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/121
+373,335.0,,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/123
+733,190.0,+-10%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/124
+385,190.8,,0.55,https://tyndp-data.netlify.app/tyndp2018/projects/projects/124
+403,600.0,+-10%,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/126
+96,190.0,,2.85,https://tyndp-data.netlify.app/tyndp2018/projects/projects/127
+86,400.0,,6.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/127
+645,160.0,,2.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/127
+665,2800.0,+-15%,22.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/130
+661,1400.0,10%,11.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/132
+680,490.0,10%,3.9,https://tyndp-data.netlify.app/tyndp2018/projects/projects/134
+176,290.0,10%,2.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/134
+188,710.0,10%,5.7,https://tyndp-data.netlify.app/tyndp2018/projects/projects/135
+179,190.0,10%,1.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/135
+715,17.1,"-5%, +5%",0.17,https://tyndp-data.netlify.app/tyndp2018/projects/projects/138
+800,63.0,"+10%, -10%",0.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/138
+275,39.0,"-5%, +5%",0.19,https://tyndp-data.netlify.app/tyndp2018/projects/projects/138
+273,55.0,"-5%, +5%",0.28,https://tyndp-data.netlify.app/tyndp2018/projects/projects/138
+258,7.4,"+10%, -10%",0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/142
+257,57.0,"+10%, -10%",0.7,https://tyndp-data.netlify.app/tyndp2018/projects/projects/142
+262,80.0,"+10%, -10%",1.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/142
+256,80.0,"+10%, -10%",1.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/142
+238,47.0,"-5%, +5%",0.23,https://tyndp-data.netlify.app/tyndp2018/projects/projects/144
+269,30.0,"-5%, +5%",0.15,https://tyndp-data.netlify.app/tyndp2018/projects/projects/144
+701,18.0,"-5%, +5%",0.18,https://tyndp-data.netlify.app/tyndp2018/projects/projects/144
+705,13.0,"-5%, +5%",0.13,https://tyndp-data.netlify.app/tyndp2018/projects/projects/144
+270,65.0,"-5%, +5%",0.46,https://tyndp-data.netlify.app/tyndp2018/projects/projects/144
+616,755.0,15.0,4.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/150
+987,850.0,+/- 27%,7.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/153
+149,20.0,+-10%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/164
+157,610.0,+-10%,4.9,https://tyndp-data.netlify.app/tyndp2018/projects/projects/164
+685,230.0,+-10%,1.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/164
+677,340.0,+-10%,2.7,https://tyndp-data.netlify.app/tyndp2018/projects/projects/164
+998,1970.0,,16.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/167
+1118,30.0,"+10%, -10%",0.03,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1567,7.0,"+10%, - 10%",0.028,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1568,22.44,"+5%, - 5%",0.018,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1569,1.0,"+5%, - 5%",0.001,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1571,30.0,"+5%, - 5%",0.03,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1572,6.0,"+5%, - 5%",0.006,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1566,21.0,"+5%, - 5%",0.021,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1656,21.6,"+5%, - 5%",0.047,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1565,21.0,"+5%, - 5%",0.027,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1633,27.9,"+5%, - 5%",0.06,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1660,5.0,"+5%, - 5%",0.005,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1564,4.0,"+5%, - 5%",0.011,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1570,200.0,"+5%, - 5%",0.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1632,4.0,"+5%, - 5%",0.004,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1635,26.7,"+5%, - 5%",0.058,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1659,44.1,"+5%, -5%",0.096,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+382,24.0,"+5%, - 5%",0.052,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1004,15.0,"+5%, - 5%",0.04,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1661,56.6,"+5%, -5%",1.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1663,2.1,"+5%, -5%",0.04,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1665,4.5,"+5%, -5%",0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1012,51.2,"+5%, - 5%",0.11,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1634,35.4,"+5%, - 5%",0.077,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1664,16.6,"+5%, -5%",0.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1662,108.5,"+5%, -5%",2.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1034,650.0,"+10%, -10%",6.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1667,30.0,"+5%, -5%",0.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1668,30.0,"-5%, +5%",0.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1669,225.0,,4.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1013,73.2,"+5%, - 5%",0.17,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1010,53.66,"+5%, - 5%",0.094,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1011,27.2,"+5%, - 5%",0.13,https://tyndp-data.netlify.app/tyndp2018/projects/projects/170
+1487,580.0,20%,4.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/172
+1281,20.0,5%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/173
+1014,609.0,-10 / +15 %,1.9,https://tyndp-data.netlify.app/tyndp2018/projects/projects/174
+1000,420.0,20%,8.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/175
+995,660.0,+-10 %,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/176
+1016,460.0,20 %,9.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/179
+1018,210.0,,2.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/183
+886,180.0,10.0,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/186
+997,197.0,10.0,1.576,https://tyndp-data.netlify.app/tyndp2018/projects/projects/187
+1382,1613.0,"Costs are based on feedback from the supply chain; CAPEX same as previous input to ENTSO-E, and OPEX adjusted from 30 to 10,",10.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/190
+952,1228.0,,42.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/191
+953,1178.0,,40.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/191
+656,1318.0,,45.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/191
+1513,1290.0,,44.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/191
+659,1408.0,,48.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/192
+954,1518.0,,52.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/192
+927,67.62,10%,1.0143,https://tyndp-data.netlify.app/tyndp2018/projects/projects/193
+561,3.1,10%,0.0465,https://tyndp-data.netlify.app/tyndp2018/projects/projects/194
+929,20.2,10%,0.303,https://tyndp-data.netlify.app/tyndp2018/projects/projects/194
+742,90.0,+-10 %,0.242,https://tyndp-data.netlify.app/tyndp2018/projects/projects/197
+306,19.93,"-10%, +15%",0.066,https://tyndp-data.netlify.app/tyndp2018/projects/projects/200
+309,98.67,"-10%, +15%",0.0052,https://tyndp-data.netlify.app/tyndp2018/projects/projects/200
+308,93.38,"-10%, +15%",0.0588,https://tyndp-data.netlify.app/tyndp2018/projects/projects/200
+312,14.89,"-10%, +15%",0.0704,https://tyndp-data.netlify.app/tyndp2018/projects/projects/200
+314,32.71,"-10%, +15%",0.0012,https://tyndp-data.netlify.app/tyndp2018/projects/projects/200
+538,50.76,10%,0.7614,https://tyndp-data.netlify.app/tyndp2018/projects/projects/203
+687,340.0,+-10%,2.7,https://tyndp-data.netlify.app/tyndp2018/projects/projects/206
+990,150.0,+-10%,1.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/206
+688,330.0,+-10%,2.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/206
+682,10.0,+-10%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/206
+676,180.0,+-10%,1.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/207
+939,220.0,+-10%,1.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/207
+940,80.0,+-10%,0.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/207
+150,140.0,+-10%,1.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/208
+151,330.0,+-10%,2.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/208
+156,540.0,+-10%,4.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/208
+935,320.0,+-10%,2.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/209
+1380,92.0,7%,1.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/210
+1082,1800.0,,21.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/214
+1409,1922.0,,17.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/219
+1407,1922.0,,17.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/219
+1410,1922.0,,17.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/219
+1107,600.0,20%,4.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/225
+631,11.0,5%,0.13,https://tyndp-data.netlify.app/tyndp2018/projects/projects/227
+1528,10.5,5%,0.13,https://tyndp-data.netlify.app/tyndp2018/projects/projects/227
+627,19.6,5%,0.24,https://tyndp-data.netlify.app/tyndp2018/projects/projects/227
+1526,67.5,5%,1.35,https://tyndp-data.netlify.app/tyndp2018/projects/projects/227
+630,44.4,5%,0.53,https://tyndp-data.netlify.app/tyndp2018/projects/projects/227
+1527,17.0,5%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/227
+628,55.0,5%,0.66,https://tyndp-data.netlify.app/tyndp2018/projects/projects/227
+1231,49.0,10%,0.7,https://tyndp-data.netlify.app/tyndp2018/projects/projects/228
+1274,66.7,5%,2.001,https://tyndp-data.netlify.app/tyndp2018/projects/projects/229
+1273,28.4,9%,0.085,https://tyndp-data.netlify.app/tyndp2018/projects/projects/229
+1272,23.7,5%,0.711,https://tyndp-data.netlify.app/tyndp2018/projects/projects/229
+1270,19.0,9%,0.057,https://tyndp-data.netlify.app/tyndp2018/projects/projects/229
+1271,19.0,9%,0.057,https://tyndp-data.netlify.app/tyndp2018/projects/projects/229
+1275,15.0,9%,0.045,https://tyndp-data.netlify.app/tyndp2018/projects/projects/229
+1035,22.5,5%,0.675,https://tyndp-data.netlify.app/tyndp2018/projects/projects/230
+353,38.7,5%,0.116,https://tyndp-data.netlify.app/tyndp2018/projects/projects/230
+355,102.27,5%,0.307,https://tyndp-data.netlify.app/tyndp2018/projects/projects/230
+1232,107.22,5%,0.7,https://tyndp-data.netlify.app/tyndp2018/projects/projects/230
+1282,58.0,10%,0.304,https://tyndp-data.netlify.app/tyndp2018/projects/projects/231
+1457,0.0,,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/231
+1235,75.0,10%,1.125,https://tyndp-data.netlify.app/tyndp2018/projects/projects/233
+1236,655.0,20 %,13.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/234
+664,6500.0,+-20%,52.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/235
+608,100.0,5%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/236
+1241,380.0,+-10 %,0.75,https://tyndp-data.netlify.app/tyndp2018/projects/projects/239
+1460,350.0,+-10%,2.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/240
+1531,7.9,,0.01,https://tyndp-data.netlify.app/tyndp2018/projects/projects/241
+1278,11.0,,0.0141,https://tyndp-data.netlify.app/tyndp2018/projects/projects/241
+1530,13.7,,0.0176,https://tyndp-data.netlify.app/tyndp2018/projects/projects/241
+1276,26.0,,0.033,https://tyndp-data.netlify.app/tyndp2018/projects/projects/241
+1277,14.07,,0.018,https://tyndp-data.netlify.app/tyndp2018/projects/projects/241
+1279,10.375,,0.0133,https://tyndp-data.netlify.app/tyndp2018/projects/projects/241
+194,1605.0,,54.57,https://tyndp-data.netlify.app/tyndp2018/projects/projects/242
+1269,19.04,5%,0.0245,https://tyndp-data.netlify.app/tyndp2018/projects/projects/243
+1245,60.0,10%,0.48,https://tyndp-data.netlify.app/tyndp2018/projects/projects/244
+1514,60.0,10%,0.48,https://tyndp-data.netlify.app/tyndp2018/projects/projects/244
+1246,35.0,+/- 10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/245
+1381,1400.0,10%,29.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/247
+1248,1605.0,+-10%,54.57,https://tyndp-data.netlify.app/tyndp2018/projects/projects/248
+1627,1236.0,+-10%,49.94,https://tyndp-data.netlify.app/tyndp2018/projects/projects/248
+1613,1461.0,+-10%,49.67,https://tyndp-data.netlify.app/tyndp2018/projects/projects/248
+1384,90.0,,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/250
+147,160.0,+-10%,1.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/251
+148,230.0,+-10%,1.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/251
+1050,140.0,25%,0.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/252
+1456,120.0,25%,0.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/252
+1515,150.0,25%,0.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/252
+1517,80.0,25%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/252
+1516,110.0,25%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/252
+1224,45.0,10%,0.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/253
+1225,15.0,10%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/253
+660,1070.0,10%,8.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/254
+1251,37.75,10%,0.566,https://tyndp-data.netlify.app/tyndp2018/projects/projects/255
+1455,37.75,10%,0.566,https://tyndp-data.netlify.app/tyndp2018/projects/projects/255
+1252,0.0,,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/256
+1529,,,,https://tyndp-data.netlify.app/tyndp2018/projects/projects/256
+667,360.0,+-10%,2.9,https://tyndp-data.netlify.app/tyndp2018/projects/projects/258
+1205,200.0,,0.818,https://tyndp-data.netlify.app/tyndp2018/projects/projects/259
+1255,850.0,±10%,6.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/260
+1257,60.0,10%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/262
+1258,64.0,10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/263
+1583,300.0,10%,1.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/263
+1259,66.0,10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/264
+1288,210.0,10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/264
+1287,126.0,10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/264
+1284,94.0,10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/264
+1290,160.0,+/- 10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/265
+1261,172.0,+/- 10 %,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/266
+1285,30.0,+/- 10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/266
+1286,310.0,+/- 10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/266
+1262,660.0,+-10%,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/267
+1228,0.7,,0.0105,https://tyndp-data.netlify.app/tyndp2018/projects/projects/269
+1229,0.3,,0.0045,https://tyndp-data.netlify.app/tyndp2018/projects/projects/269
+1214,8.0,10%,0.02,https://tyndp-data.netlify.app/tyndp2018/projects/projects/270
+1215,10.0,10%,0.03,https://tyndp-data.netlify.app/tyndp2018/projects/projects/270
+1211,1089.41,10%,3.26,https://tyndp-data.netlify.app/tyndp2018/projects/projects/270
+1212,62.59,10%,2.72,https://tyndp-data.netlify.app/tyndp2018/projects/projects/270
+1264,0.0,,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/271
+1210,8.0,10%,0.17,https://tyndp-data.netlify.app/tyndp2018/projects/projects/276
+1207,130.0,10%,2.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/276
+1208,140.0,10%,2.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/276
+1206,1192.0,10%,5.33,https://tyndp-data.netlify.app/tyndp2018/projects/projects/276
+1008,100.0,25%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/280
+1378,2680.0,8%,41.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/283
+1430,16.0,"8% of the overall as the actual length is not confirmed, but the impact of this short cable on the overall project will be negligible",0.04,https://tyndp-data.netlify.app/tyndp2018/projects/projects/283
+1619,1500.0,5.0,3.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/284
+1383,906.0,,23.9,https://tyndp-data.netlify.app/tyndp2018/projects/projects/285
+1385,396.0,+/-10%,8.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/286
+1432,600.0,5%,40.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/293
+1434,30.0,5%,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/293
+1431,600.0,5%,40.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/293
+1433,150.0,5%,7.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/293
+1435,80.0,5%,6.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/293
+1436,40.0,5%,2.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/293
+1356,612.0,+/- 15%,10.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/294
+1437,2040.0,+/- 10%,20.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/296
+605,15.0,5%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/297
+445,100.0,5%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/297
+604,60.0,25%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/297
+1458,750.0,10.0,7.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/299
+1628,1500.0,,22.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/309
+1472,650.0,10%,4.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/312
+1473,375.0,10.0,3.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/313
+1617,56.0,,0.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/316
+1615,44.0,,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/317
+1614,35.0,,0.08,https://tyndp-data.netlify.app/tyndp2018/projects/projects/318
+1558,132.5,+/- 5%,0.12,https://tyndp-data.netlify.app/tyndp2018/projects/projects/320
+1475,221.0,10%,1.77,https://tyndp-data.netlify.app/tyndp2018/projects/projects/321
+1476,58.0,10%,0.464,https://tyndp-data.netlify.app/tyndp2018/projects/projects/322
+1477,106.0,10%,0.84,https://tyndp-data.netlify.app/tyndp2018/projects/projects/322
+1478,16.0,7%,0.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/323
+1482,24.0,7%,0.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/324
+1483,210.0,10.0,0.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/325
+1631,270.0,10.0,2.16,https://tyndp-data.netlify.app/tyndp2018/projects/projects/325
+1636,175.0,10.0,1.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/325
+1630,62.2,10%,0.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/328
+1620,50.0,10%,0.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/328
+1629,45.8,10%,0.36,https://tyndp-data.netlify.app/tyndp2018/projects/projects/328
+1518,400.0,25%,0.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/329
+1499,3.1,±10%,0.25,https://tyndp-data.netlify.app/tyndp2018/projects/projects/330
+1498,83.2,±10%,0.37,https://tyndp-data.netlify.app/tyndp2018/projects/projects/330
+1496,35.0,10%,0.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/333
+1505,1310.0,"The Capex uncertainty range for this 525kV link covers -20% to +30%. This can be explained by the different costs which are registered for currently realized projects to connect offshore windfarms. This range can be explained by the project specific differences. Since there is no clarity on the project specifics in this phase of the project, the uncertainty range thereby reflects this.",4.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/335
+1506,1375.0,"The Capex uncertainty range for this 525kV link is -20% to +30%. This can be explained by the different costs which are registered for currently realized projects to connect offshore windfarms. This range can be explained by the project specific differences. Since there is no clarity on the project specifics in this phase of the project, the uncertainty range thereby reflects this.",4.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/335
+1507,1233.0,"The Capex uncertainty range for this 525kV link is -20% to +30%. This can be explained by the different costs which are registered for currently realized projects to connect offshore windfarms. This range can be explained by the project specific differences. Since there is no clarity on the project specifics in this phase of the project, the uncertainty range thereby reflects this.",4.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/335
+1508,1639.0,"The Capex for the 640kVHVDC links are extrapolated from 525kV HVDC links and therefore are subject to the same uncertainty range. Furthermore, additional needed internal reinforcements that can have a fundamental impact on the costs have not yet been analysed.",5.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/335
+1509,1661.0,"The Capex for the 640kVHVDC links are extrapolated from 525kV HVDC links and therefore are subject to the same uncertainty range. Furthermore, additional needed internal reinforcements that can have a fundamental impact on the costs have not yet been analysed.",5.3,https://tyndp-data.netlify.app/tyndp2018/projects/projects/335
+1511,1860.0,"The Capex for the 640kVHVDC links are extrapolated from 525kV HVDC links and therefore are subject to the same uncertainty range. Furthermore, additional needed internal reinforcements that can have a fundamental impact on the costs have not yet been analysed.",5.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/335
+1504,2222.0,"The Capex uncertainty range for this asset is -20% to +30%. This can be explained by the different costs which are registered for currently realized projects to connect offshore windfarms. This range can be explained by the project specific differences. Since there is no clarity on the project specifics in this phase of the project, the uncertainty range thereby reflects this.",11.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/335
+1556,40.0,,0.6,https://tyndp-data.netlify.app/tyndp2018/projects/projects/336
+1512,130.0,+-10%,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/337
+1510,130.0,+-10%,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/337
+1521,1150.0,10.0,5.75,https://tyndp-data.netlify.app/tyndp2018/projects/projects/338
+1557,2600.0,10.0,13.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/339
+1519,500.0,25%,0.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/340
+1537,27.5,5%,0.33,https://tyndp-data.netlify.app/tyndp2018/projects/projects/341
+1536,3.5,5%,0.03,https://tyndp-data.netlify.app/tyndp2018/projects/projects/341
+1538,12.5,5%,0.15,https://tyndp-data.netlify.app/tyndp2018/projects/projects/341
+1523,6.5,5%,0.08,https://tyndp-data.netlify.app/tyndp2018/projects/projects/342
+1520,56.0,5%,0.78,https://tyndp-data.netlify.app/tyndp2018/projects/projects/342
+1522,17.0,5%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/342
+1524,11.5,5%,0.14,https://tyndp-data.netlify.app/tyndp2018/projects/projects/342
+1525,65.0,5%,0.8,https://tyndp-data.netlify.app/tyndp2018/projects/projects/342
+1535,30.0,,0.038,https://tyndp-data.netlify.app/tyndp2018/projects/projects/343
+1532,43.0,,0.055,https://tyndp-data.netlify.app/tyndp2018/projects/projects/343
+1533,17.2,,0.022,https://tyndp-data.netlify.app/tyndp2018/projects/projects/343
+1534,65.5,,0.084,https://tyndp-data.netlify.app/tyndp2018/projects/projects/343
+1541,215.0,10%,1.7,https://tyndp-data.netlify.app/tyndp2018/projects/projects/344
+1542,,,,https://tyndp-data.netlify.app/tyndp2018/projects/projects/345
+1544,620.0,10%,5.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/346
+1543,400.0,10%,3.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/346
+1545,,,,https://tyndp-data.netlify.app/tyndp2018/projects/projects/347
+1546,420.0,10%,3.4,https://tyndp-data.netlify.app/tyndp2018/projects/projects/348
+1653,5.0,15%,0.005,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1655,15.0,15,0.02,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1652,5.0,15%,0.005,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1648,25.0,15%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1640,417.0,15%,4.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1638,345.0,15%,4.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1641,265.0,,1.15,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1642,265.0,,1.15,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1646,265.0,,1.15,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1654,3.0,,0.005,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1651,15.0,15%,0.04,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1639,100.0,,0.5,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1647,25.0,15%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1649,25.0,15%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1650,20.0,15%,0.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/349
+1622,63.733,,2.867,https://tyndp-data.netlify.app/tyndp2018/projects/projects/350
+1624,15.0,,1.2,https://tyndp-data.netlify.app/tyndp2018/projects/projects/350
+1623,17.68,,1.414,https://tyndp-data.netlify.app/tyndp2018/projects/projects/350
+1547,1460.0,,,https://tyndp-data.netlify.app/tyndp2018/projects/projects/351
+1555,119.0,10.0,0.9,https://tyndp-data.netlify.app/tyndp2018/projects/projects/375
+1559,5.625,"+20%, -20%",0.215,https://tyndp-data.netlify.app/tyndp2018/projects/projects/376
+1561,50.0,25%,0.1,https://tyndp-data.netlify.app/tyndp2018/projects/projects/377
+1584,8.16,10%,0.1224,https://tyndp-data.netlify.app/tyndp2018/projects/projects/378
+1597,0.31,10%,0.00465,https://tyndp-data.netlify.app/tyndp2018/projects/projects/379
+1595,1.65,10%,0.02475,https://tyndp-data.netlify.app/tyndp2018/projects/projects/379
+1593,0.22,10%,0.0033,https://tyndp-data.netlify.app/tyndp2018/projects/projects/379
+211,1436.0,10%,48.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/381
+1485,1562.0,10%,53.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/381
+1670,552.0,,1.0,https://tyndp-data.netlify.app/tyndp2018/projects/projects/1034

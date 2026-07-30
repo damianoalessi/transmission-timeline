@@ -1,0 +1,21 @@
+{
+    "Overhead Line": "ACTransmissionLine",
+    "Substation": "OnshoreSubstation",
+    "Underground Cable": "OnshoreACTransmissionCable",
+    "Subsea Cable": "OffshoreDCTransmissionCable",
+    "Compensation": "ReactiveCompensationDevice",
+    "PST": "PhaseShiftingTransformer",
+    "Phase Shift Transformer": "PhaseShiftingTransformer",
+    "LCC converter station": "DCTransmissionLine",
+    "ACTransmissionLine": "ACTransmissionLine",
+    "OnshoreSubstation": "OnshoreSubstation",
+    "Transformer": "Transformer",
+    "OffshoreDCTransmissionCable": "OffshoreDCTransmissionCable",
+    "DCTransmissionLine": "DCTransmissionLine",
+    "OffshoreACTransmissionCable": "OffshoreACTransmissionCable",
+    "OnshoreACTransmissionCable": "OnshoreACTransmissionCable",
+    "ReactiveCompensationDevice": "ReactiveCompensationDevice",
+    "PhaseShiftingTransformer": "PhaseShiftingTransformer",
+    "OffshoreSubstation": "OffshoreSubstation",
+    "BackToBackSubstation": "BackToBackSubstation"
+}

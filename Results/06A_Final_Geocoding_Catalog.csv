@@ -1,0 +1,945 @@
+Name;Country_ISO3;Lat;Lon;Status
+Vila do Conde, Portugal;PRT;41.3540398;-8.7435403;Found in PRT
+Malling;DNK;56.0376645;10.1912382;Found in DNK
+Levitha Island;GRC;37.0079289;26.4675911;Found in GRC
+Skavica;"ALB;SRB;BGR;GRC;MKD";41.9144729;20.360787;Found in ALB
+Sindi;"EST;LTU;LVA;POL";58.4075128;24.6583155;Found in EST
+Sellindge;"FRA;GBR";51.1086457;0.9883745;Found in GBR
+Lonny;"BEL;FRA";49.8155641;4.5876124;Found in FRA
+Tartu;"EST;LTU;LVA;POL";58.3779528;26.7290023;Found in EST
+Tsirguliina;"EST;LTU;LVA;POL";57.8651094;26.1964836;Found in EST
+Balti Power Plant, Narva, Estonia;"EST;LTU;LVA;POL";59.353345;28.1200335;Found in EST
+Viru;"EST;LTU;LVA;POL";57.7365127;26.7432746;Found in EST
+Verderio;"CHE;ITA";45.665698;9.4376098;Found in ITA
+Ørslevvester;"DEU;DNK";55.4680572;11.6880172;Found in DNK
+Klixbüll;"DEU;DNK";54.8020784;8.8900168;Found in DEU
+Dunstown, County Kildare, Ireland;"GBR;IRL";;;Not Found
+Woodland;"GBR;IRL";50.5070816;-3.7061767;Found in GBR
+Cruachan;"IRL;GBR";53.9841026;-10.1965449;Found in IRL
+Coleraine, Northern Ireland, UK;"IRL;GBR";55.1315912;-6.671861;Found in IRL
+Coolkeeragh;"IRL;GBR";55.0376508;-7.2513873;Found in IRL
+Hunterston, North Ayrshire, Scotland;"IRL;GBR";55.7290528;-4.865233;Found in GBR
+Sima, Eidfjord, Norway;NOR;60.5029774;7.1921686;Found in NOR
+Gižai, Lithuania;"EST;LTU;LVA;POL";54.6053624;23.2237786;Found in LTU
+Baczyna, Lubusz, Poland;POL;52.7551;15.1168;Found in POL
+Siedlce Ujrzanów;BEL;52.1284093;22.3358556;Found (Global Search)
+Ek Bis;"LTU;POL";51.4843781;-0.1226886;Found (Global Search)
+Alytus, Lithuania;LTU;54.3961344;24.0459268;Found in LTU
+Volpago;ITA;45.7780578;12.119815;Found in ITA
+Villanova;ITA;43.0071079;12.3277503;Found in ITA
+Lavrion Ss;GRC;37.7142551;24.0548015;Found in GRC
+Neuravensbu Rg;AUT;;;Not Found
+Lixhe;"AUT;BEL";50.7550757;5.680109;Found in BEL
+Lixhe;"AUT;BEL;ISL";50.7550757;5.680109;Found in BEL
+Van Eyck;BEL;51.210802;4.411606;Found in BEL
+Cornier;"CHE;FRA";46.6668859;6.7685734;Found in CHE
+Or Stevin -;BEL;;;Not Found
+Riga Chp;"EST;LVA";;;Not Found
+Tec;"EST;LVA;LTU;POL";59.9617482;30.3170224;Found in EST
+Viskali;"LTU;LVA";56.6229415;23.7111435;Found in LVA
+Aizkraukle;"LTU;LVA";56.6010778;25.2542544;Found in LVA
+Bescanó;ESP;41.9670349;2.7389937;Found in ESP
+Mezquita de Jarque, Teruel, Spain;ESP;40.7209505;-0.8667062;Found in ESP
+Mudejar;ESP;39.9110642;-0.5718325;Found in ESP
+Würmlach;"AUT;ITA";46.6575156;13.0153778;Found in AUT
+Kragujevac;"SRB;MNE;BIH";44.0131786;20.9196353;Found in SRB
+Kraljevo;"SRB;MNE;BIH";43.7234519;20.6870792;Found in SRB
+Rüthi;CHE;47.2955927;9.537187;Found in CHE
+Gramme;"BEL;DEU";50.4162907;4.4470469;Found in BEL
+Gatica, Biscay, Spain;"ESP;FRA;GBR";;;Not Found
+Svoboda;BGR;43.7492731;27.817828;Found in BGR
+Glinsk;"GBR;IRL";53.6535985;-8.4373768;Found in IRL
+Eesti;"EST;LVA;LTU;POL";59.433952;24.7519879;Found in EST
+Eesti;"EST;LTU;LVA;POL";59.433952;24.7519879;Found in EST
+Debrecen Dél;"HUN;ROU";47.5012037;21.5473299;Found in HUN
+Cantegrit;"ESP;FRA";44.2481541;-0.8008727;Found in FRA
+Belgrade;SRB;44.8153318;20.4456588;Found in SRB
+Bickigen;CHE;47.0908216;7.6489689;Found in CHE
+Ejea De Los Caballeros;"ESP;FRA";42.133346;-1.1365589;Found in ESP
+Pancevo;SRB;44.8705686;20.6399643;Found in SRB
+Nis;"ISL;SRB";43.3162736;21.9212335;Found in SRB
+Cubnezais;FRA;45.07378;-0.40786;Found in FRA
+Chippis;CHE;46.2805414;7.5406261;Found in CHE
+Krusevac;"ISL;SRB";43.58264;21.3264811;Found in SRB
+Marmagne, Cher, France;FRA;47.1018078;2.284738;Found in FRA
+Kraljevo;"ISL;SRB";43.7234519;20.6870792;Found in SRB
+Creys;"CHE;FRA";45.7264;5.48736;Found in FRA
+Don Rodrigo, Seville, Spain;;37.2069797;-5.9038853;Found (Global Search)
+Aljarafe;;37.3444908;-6.0606771;Found (Global Search)
+Mettlen;CHE;47.5310946;9.1235528;Found in CHE
+Mühlbach, Baden-Württemberg, Germany;"DEU;FRA";49.1001889;8.8999895;Found in DEU
+Avedøre;"DNK;POL";55.6256622;12.4555838;Found in DNK
+Lindome;"DNK;SWE";57.5791257;12.0876599;Found in SWE
+Bentwisch;DEU;54.1162169;12.2022371;Found in DEU
+Vigy;"DEU;FRA";49.203906;6.2980053;Found in FRA
+Meeden Nl;"DEU;NLD";53.1387389;6.9282183;Found in NLD
+Schwanden;CHE;46.9955628;9.0713622;Found in CHE
+Muruarte;;42.684765;-1.6360433;Found (Global Search)
+Zandvliet;"BEL;NLD";51.3599666;4.3086817;Found in BEL
+Rüthi;"AUT;CHE;DEU";47.2558012;9.7002941;Found in AUT
+Beznau;CHE;47.5541696;8.2297108;Found in CHE
+Golbia;CHE;46.2712093;10.1058795;Found in CHE
+Innertkirchen;CHE;46.7053798;8.2286304;Found in CHE
+Bickigen;;47.0908216;7.6489689;Found (Global Search)
+Hurva;"DEU;SWE";55.7960077;13.438365;Found in SWE
+Portile De Fier;"DEU;ROU;SRB";46.6074891;23.8327581;Found in ROU
+Sofia West;"BGR;SRB";42.4431628;22.9853339;Found in BGR
+Ernestinovo;"HRV;SRB";45.4516002;18.658932;Found in HRV
+Magadino;CHE;46.1474272;8.8559472;Found in CHE
+Baczyna-Plewiska Indentation;"DEU;POL";;;Not Found
+Zielona Góra;"DEU;POL";52.5114491;13.4595298;Found in DEU
+Zielona Góra;;51.9275737;15.5490421;Found (Global Search)
+Gubin;;51.9509156;14.7293172;Found (Global Search)
+Gubin;"DEU;POL";51.9503235;14.7153567;Found in DEU
+Dakovo;"BIH;HRV";45.3080745;18.4116376;Found in HRV
+Bâtiaz;CHE;46.105044;7.0692707;Found in CHE
+Aubange;"BEL;FRA";49.5671953;5.8044993;Found in BEL
+Beznau;"CHE;DEU";47.5541696;8.2297108;Found in CHE
+Vado;ITA;44.3174852;11.2581749;Found in ITA
+Pradella;CHE;46.8039054;10.3291877;Found in CHE
+Magadino;;46.1474272;8.8559472;Found (Global Search)
+Bassecourt;CHE;47.3380366;7.2399891;Found in CHE
+Foretaille;CHE;46.2444481;6.1341817;Found in CHE
+Vandellos;"ESP;FRA;ITA";40.9985238;0.8493534;Found in ESP
+La Punt;CHE;46.5788866;9.9253919;Found in CHE
+Bonaduz;CHE;46.81132;9.3984396;Found in CHE
+Kergord Shetland;NOR;60.2939133;-1.2716446;Found (Global Search)
+Greenwire North;"GBR;IRL";;;Not Found
+Rejim Maatoug;"ITA;TUN";33.3200444;8.0329992;Found in TUN
+Soto De Ribera;"ESP;FRA;GBR";43.3087843;-5.8764676;Found in ESP
+Somplago;"AUT;ITA";46.3485069;13.0679208;Found in ITA
+Lovedean;"FRA;GBR";50.9082753;-1.022611;Found in GBR
+Sima, Eidfjord, Norway;"GBR;NOR";60.5029774;7.1921686;Found in NOR
+Kingsnorth;"FRA;GBR";51.1165834;0.8608126;Found in GBR
+Castasegna;"CHE;ITA";46.3341643;9.5173527;Found in CHE
+Great Island;"GBR;IRL";51.0430875;-1.7522392;Found in GBR
+Connahs Quay;"GBR;IRL";53.2327891;-3.0831511;Found in GBR
+Finglas Dublin;"GBR;IRL";53.3952024;-6.2952119;Found in IRL
+Vierraden;"DEU;POL";53.0978481;14.29611;Found in DEU
+Eisenhüttenst Adt;"DEU;POL";;;Not Found
+Trawsfynydd;"IRL;GBR";52.901056;-3.9238036;Found in GBR
+Saloum Eg Tobruk;LBY;;;Not Found
+Pembroke;"IRL;GBR";51.8722133;-8.3432224;Found in IRL
+Lodgewood;"IRL;GBR";52.5844491;-6.5298771;Found in IRL
+Ishøj Bjæverskov;"DEU;DNK";;;Not Found
+Korakia;GRC;37.3602992;23.0640977;Found in GRC
+Dunstown, County Kildare, Ireland;"IRL;GBR";;;Not Found
+Tonstad;"DEU;NOR";58.6645543;6.7160736;Found in NOR
+Louth;"IRL;GBR";53.9062849;-6.5320502;Found in IRL
+Woodland;"IRL;GBR";53.2929932;-6.1987036;Found in IRL
+Montalto Di Castro;"ITA;TUN";42.3515417;11.6072988;Found in ITA
+Lavrio;GRC;37.7142551;24.0548015;Found in GRC
+Levitha;GRC;37.0057439;26.464543;Found in GRC
+Kinaros;GRC;36.9804458;26.2873158;Found in GRC
+Kandeliousa;"EGY;GRC";;;Not Found
+Glenluce;IRL;54.6160642;-5.8561121;Found in IRL
+Grenwire South;"GBR;IRL";;;Not Found
+Audorf;"DEU;DNK";54.3132409;9.7185312;Found in DEU
+Niederrhein;"DEU;NLD";51.4013466;6.5096405;Found in DEU
+Maritsa East;"BGR;GRC";42.1825797;24.3564833;Found in BGR
+Castejon;;40.3817975;-2.5212898;Found (Global Search)
+Massenhoven;BEL;51.1990199;4.6349603;Found in BEL
+Codrongianos - Lucciana;"FRA;ITA";;;Not Found
+Oberzier;"BEL;DEU";50.8658407;6.4738745;Found in DEU
+Güstrow;DEU;53.793587;12.1764906;Found in DEU
+Dollern;DEU;53.5377917;9.5384929;Found in DEU
+St. Peter;AUT;46.6202311;14.3350043;Found in AUT
+Isaraltheimottenhofen;"AUT;DEU";;;Not Found
+Herbertingen;;48.0600681;9.4346544;Found (Global Search)
+Wullenstetten;"AUT;CHE;DEU";48.3164069;10.0688595;Found in DEU
+Herbertingen;"AUT;DEU";48.0600681;9.4346544;Found in DEU
+Dekani;"ITA;SVN";45.5483275;13.8103444;Found in SVN
+Audorf;DEU;54.3132409;9.7185312;Found in DEU
+Redipuglia;"ITA;SVN";45.8471782;13.4889599;Found in ITA
+Obersielach;"AUT;SVN";46.6630774;14.6839906;Found in AUT
+Diemen;NLD;52.3350493;4.9842829;Found in NLD
+Ens;NLD;52.27647;6.8866971;Found in NLD
+Mikulowa;POL;51.0807728;15.1087348;Found in POL
+Otrokovice;"CZE;SVK";49.2088284;17.5353865;Found in CZE
+Ladce;"CZE;SVK";49.0373979;18.2872704;Found in SVK
+Conneforde;DEU;53.3257698;8.0577591;Found in DEU
+Gabcikovo;"HUN;SVK";47.8800206;17.4645271;Found in HUN
+Rimavska Sobota;"HUN;SVK";48.3833603;20.0180584;Found in SVK
+Villanova;"ITA;MNE";43.0071079;12.3277503;Found in ITA
+Revsing;"DEU;DNK;NLD";55.5073104;9.1751007;Found in DNK
+Maasvlakte;"DEU;DNK;NLD";51.9543525;4.0197987;Found in NLD
+Heide;"DEU;DNK;NLD";54.1948848;9.0928251;Found in DEU
+Wehrendorf;DEU;52.3322323;8.3132774;Found in DEU
+Cloppenburg East;DEU;;;Not Found
+Gramme;BEL;50.4162907;4.4470469;Found in BEL
+Bruegel;BEL;50.9634628;4.4497959;Found in BEL
+Mercator;BEL;50.9097122;4.3962656;Found in BEL
+Stevin;BEL;51.2064994;3.2225878;Found in BEL
+Avelgem;BEL;50.7775063;3.4496662;Found in BEL
+Bobov Dol;"BGR;SRB";42.3662276;23.0073636;Found in BGR
+Nis;"BGR;SRB";43.3528819;24.4123439;Found in BGR
+Krusevac;"BGR;SRB";43.58264;21.3264811;Found in SRB
+Kraljevo;"BGR;SRB";43.7234519;20.6870792;Found in SRB
+Lastva;"BIH;MNE;SRB";42.7008432;18.4753091;Found in BIH
+Kragujevac;"BIH;ITA;MNE;SRB";43.9072365;19.2619976;Found in BIH
+Kraljevo;"BIH;ITA;MNE;SRB";44.1021019;18.9787768;Found in BIH
+Redwitz;DEU;50.1692037;11.2084409;Found in DEU
+Gradacac;"BIH;HRV";44.8781486;18.4254813;Found in BIH
+Banja Luka;"BIH;HRV";44.7720845;17.1917651;Found in BIH
+Lika;"BIH;HRV";44.6258962;15.3436053;Found in HRV
+Portile De Fier;"ROU;SRB";46.6074891;23.8327581;Found in ROU
+Belgrade;"ROU;SRB";44.7682474;20.458016;Found in ROU
+Wpp Cibuk;"ROU;SRB";;;Not Found
+Krimpen;NLD;51.914403;4.5887889;Found in NLD
+Eindhoven;NLD;51.4485569;5.4501225;Found in NLD
+Zwolle;NLD;52.5145653;6.0977204;Found in NLD
+Borssele;NLD;51.4254902;3.7379392;Found in NLD
+Rilland;"BEL;NLD";51.4164747;4.1812417;Found in NLD
+Eemshaven Oude Schip;NLD;;;Not Found
+Peterhead;GBR;57.5052909;-1.7813194;Found in GBR
+Lienz;"AUT;ITA";46.8298662;12.7681269;Found in AUT
+Prati Di Vizze;"AUT;ITA";46.9014583;11.4829078;Found in ITA
+Caracoli;ITA;37.966944;13.7255017;Found in ITA
+Cirkovce;"HRV;HUN;SVN";46.3948524;15.727405;Found in SVN
+Meliti;"GRC;MKD";40.8511628;25.8323248;Found in GRC
+Niederrhein;DEU;51.4013466;6.5096405;Found in DEU
+Beverwijk;NLD;52.4787896;4.6728396;Found in NLD
+Vaneyck;"BEL;NLD";;;Not Found
+Pagegiai;LTU;55.133252;21.9104398;Found in LTU
+Lietuvos E;"EST;LTU;LVA;POL";55.9005739;23.2595981;Found in LTU
+Utena;"EST;LTU;LVA;POL";55.4984381;25.6025772;Found in LTU
+Griskonys;LTU;54.510359;24.209227;Found in LTU
+Alytus, Lithuania;"EST;LTU;LVA;POL";54.3961344;24.0459268;Found in LTU
+Alytus, Lithuania;;54.3961344;24.0459268;Found (Global Search)
+Wahle;DEU;52.2717618;10.3634402;Found in DEU
+Bitenai, Lithuania;;55.0778055;22.0457311;Found (Global Search)
+Gatica, Biscay, Spain;ESP;;;Not Found
+- Wind Park Nordergründe;DEU;;;Not Found
+Podlog;;45.526278;15.1896499;Found (Global Search)
+Berievo;SVN;42.96948;24.89307;Found (Global Search)
+Divaca;;45.6869095;14.0125353;Found (Global Search)
+Tobrouk;"EGY;GRC;LBY";35.3314926;25.210605;Found in GRC
+Bitola;"ALB;MKD";41.0285631;21.3356019;Found in ALB
+Ohrid;"ALB;MKD";41.0661403;20.6073888;Found in ALB
+Grain West;"DEU;GBR";47.7700174;12.2327471;Found in DEU
+Aach;"DEU;LUX";49.7894542;6.5906612;Found in DEU
+Lienz;"AUT;ITA;SVN";46.8298662;12.7681269;Found in AUT
+Musa;"EST;LTU;LVA;POL";59.1500766;23.7221244;Found in EST
+Klaipeda;;55.7127529;21.1350469;Found (Global Search)
+Kruonis Hydroelectric, Lithuania;"EST;LTU;LVA;POL";;;Not Found
+Jurbarkas;;55.0777077;22.7646945;Found (Global Search)
+Lienz;AUT;46.8298662;12.7681269;Found in AUT
+Bodelwyddan;"GBR;IRL";53.2705527;-3.5129657;Found in GBR
+Bellacorick Replacement;"GBR;IRL";;;Not Found
+Maynooth;"GBR;IRL";54.3669206;-6.5528971;Found in GBR
+Marex Wind;"GBR;IRL";;;Not Found
+Oldstreet;"GBR;IRL";51.7503868;-2.4863321;Found in GBR
+Darbenai;"EST;LTU;LVA;POL";56.0231924;21.254035;Found in LTU
+Dunowo;"EST;LTU;LVA;POL";54.1097161;16.1077967;Found in POL
+Piła Krzewina, Poland;"EST;LTU;LVA;POL";;;Not Found
+Krajnik;"EST;LTU;LVA;POL";53.1974005;14.4697273;Found in POL
+Morzyczyn;"EST;LTU;LVA;POL";52.431362;18.4063267;Found in POL
+Żarnowiec, Pomeranian Voivodeship, Poland;"EST;LTU;LVA;POL";54.7887218;18.0812105;Found in POL
+Alqueva;PRT;38.2259008;-7.5371005;Found in PRT
+Kilroot Power Station, Northern Ireland;GBR;54.7268406;-5.7641151;Found in GBR
+Wadi El Natroon;"EGY;GRC";;;Not Found
+Ras Ghareb Wind Farms;"EGY;GRC";;;Not Found
+Nuojuankangas;FIN;64.5730097;26.7216697;Found in FIN
+Petäjäskoski;FIN;66.271605;25.3342158;Found in FIN
+New Burullus Power Plant, Egypt;"EGY;GRC";;;Not Found
+Emden;"DEU;NLD";53.3670541;7.2058304;Found in DEU
+Wilhelmshaven;DEU;53.5278793;8.106301;Found in DEU
+Heidewest;DEU;;;Not Found
+Darbnai;LTU;;;Not Found
+Paneveys;LTU;;;Not Found
+Petäjävesitoivila;FIN;;;Not Found
+Pozega;"BGR;SRB";43.845981;20.0356852;Found in SRB
+Jagodina;"BGR;SRB";41.6357782;24.3523438;Found in BGR
+Sy Pozega;"BGR;SRB";;;Not Found
+Sy Pozega;"BGR;BIH;MNE;SRB";;;Not Found
+Aruküla Balti Harku Kiisa Paide Rakvere Sindi Substations;"EST;LTU;LVA;POL";;;Not Found
+Kemsley Kent;"BEL;GBR";51.3617377;0.7349601;Found in GBR
+Norwich Main Substation, UK;"DNK;GBR";;;Not Found
+Atherinolakkos;"EGY;GRC";35.0092665;26.1286721;Found in GRC
+Viitajärvi;"FIN;SWE";61.2068313;25.0315539;Found in FIN
+Kocin;CZE;49.9303801;13.4761378;Found in CZE
+Vitkov;CZE;49.7758144;17.7517864;Found in CZE
+Westtirol;AUT;47.2439282;10.8742905;Found in AUT
+Chania I;GRC;35.5120831;24.0191544;Found in GRC
+Damasta;GRC;35.3536553;24.9230469;Found in GRC
+Oberjettingen;"CHE;DEU";48.575961;8.7743305;Found in DEU
+Montecorvino;ITA;41.5172384;15.1500298;Found in ITA
+Chamoson;CHE;46.2013342;7.2232538;Found in CHE
+Maritsa East;"BGR;TUR";42.1825797;24.3564833;Found in BGR
+Nea Santa;"GRC;TUR";40.842266;22.9204109;Found in GRC
+Oskarshamn;"LVA;SWE";57.2632811;16.4443478;Found in SWE
+Subotica;"HUN;SRB";46.101872;19.6685307;Found in HUN
+Sombor;"HUN;SRB";47.3499401;19.4499686;Found in HUN
+Belgrade;"HUN;SRB";47.6689449;19.0757363;Found in HUN
+Tobruk, Libya;"ALB;GRC;LBY";32.0773764;23.9599988;Found in LBY
+Linoperamata;"BGR;GRC;MKD";35.3379922;25.050432;Found in GRC
+Thessaloniki;"BGR;GRC;MKD";41.3791508;23.3630411;Found in BGR
+Dubrovo;"BGR;GRC;MKD";41.4703899;22.1461096;Found in MKD
+Arachtos;"ALB;GRC;LBY";39.5241807;21.0050569;Found in GRC
+Mustvee;EST;58.8479072;26.9300828;Found in EST
+Kiisa;EST;59.2378619;24.6874798;Found in EST
+Lihula;EST;58.6850508;23.8287566;Found in EST
+Pavilosta;"EST;LVA";56.8888663;21.1825221;Found in LVA
+Grobiņa, Latvia;"EST;LVA";56.5368569;21.1676042;Found in LVA
+Broceni;"EST;LVA";56.6845332;22.5664558;Found in LVA
+Baekeland;"BEL;DNK";51.129576;3.788522;Found in BEL
+Daxlanden;DEU;49.0014111;8.3386057;Found in DEU
+Fi;"EST;FIN";58.3535094;26.6808666;Found in EST
+Elwind Off-Shore;"EST;LVA";;;Not Found
+Fi;"FIN;SWE";60.2166218;19.9438638;Found in FIN
+Hradec;"CZE;DEU";49.7118548;15.2984937;Found in CZE
+Paide;"EST;FIN";58.8869266;25.5699121;Found in EST
+Goldshöfe;DEU;48.8943642;10.1282565;Found in DEU
+Sopi;"EST;FIN";58.4651079;26.3666623;Found in EST
+Rakvere;"EST;FIN";59.3482229;26.3617173;Found in EST
+Bauler;"DEU;LUX";49.9650754;6.2068809;Found in DEU
+Püssi;"EST;FIN";59.3609844;27.0445204;Found in EST
+Aruküla;"EST;FIN";59.3650145;25.0736119;Found in EST
+Darbenai;LTU;56.0231924;21.254035;Found in LTU
+Jylkkä;FIN;64.2817795;24.2054236;Found in FIN
+Anaklia, Georgia;"GEO;ROU";42.3954083;41.5657276;Found in GEO
+Nybro;"LTU;LVA;SWE";56.7444911;15.9075145;Found in SWE
+Ekhyddan;"LTU;LVA;SWE";59.3996497;18.1538451;Found in SWE
+Inkoo;"EST;FIN";60.0461105;24.0042086;Found in FIN
+Panevezys;LTU;55.7344985;24.3578055;Found in LTU
+Rommerskirchen;DEU;51.0633574;6.6978814;Found in DEU
+Kofinou, Cyprus;"CYP;EGY";34.8245908;33.3920208;Found in CYP
+Solhøjgård;"DEU;DNK";55.6136537;11.1901167;Found in DNK
+Stilow;"DEU;DNK";54.0887941;13.5721214;Found in DEU
+Aliano;ITA;40.3113743;16.2320074;Found in ITA
+Benevento;ITA;41.2476307;14.7057054;Found in ITA
+Bolano;ITA;44.1836963;9.8893408;Found in ITA
+Galatina;"GRC;ITA";40.1742781;18.1678388;Found in ITA
+Beariz;"ESP;PRT";42.4864858;-8.2875733;Found in ESP
+Bisamberg;AUT;48.3316817;16.3616015;Found in AUT
+Hessenberg;AUT;47.3999996;14.999227;Found in AUT
+Wien So;AUT;48.2083537;16.3725042;Found in AUT
+Manche;FRA;49.0918952;-1.2454952;Found in FRA
+Oléron;FRA;45.9437695;-1.3061227;Found in FRA
+Arad, Romania;"ROU;SRB";46.1753793;21.3196342;Found in ROU
+Rosiori;"HUN;ROU";47.2567721;21.9520896;Found in ROU
+Urechesti;"HUN;ROU";45.6151939;27.1107387;Found in ROU
+Targu Jiu Nord;"HUN;ROU";44.357687;23.768997;Found in ROU
+Paroseni;"HUN;ROU";45.3644023;23.2612004;Found in ROU
+Baru Mare;"HUN;ROU";45.474956;23.1449281;Found in ROU
+Pozarevac;"BGR;SRB";44.6199926;21.1854;Found in SRB
+Obersielach;AUT;46.6630774;14.6839906;Found in AUT
+Riddes;CHE;46.1402773;7.2374698;Found in CHE
+Châtelard;CHE;46.4467904;6.9011475;Found in CHE
+St Triphon;CHE;46.2926382;6.9784632;Found in CHE
+Verbois;CHE;46.1930405;6.028862;Found in CHE
+Suceava;"MDA;ROU";47.5209562;25.6452542;Found in MDA
+Balti Power Plant, Narva, Estonia;"MDA;ROU";59.353345;28.1200335;Found (Global Search)
+Neusiedl am See, Austria;AUT;47.9491855;16.8425149;Found in AUT
+Nadab;"HUN;ROU";46.4826938;21.5111174;Found in ROU
+Le Havre;FRA;49.4938975;0.1079732;Found in FRA
+Kruckel;DEU;51.4545841;7.4153998;Found in DEU
+Fos;FRA;42.872245;0.7365421;Found in FRA
+Charente-Maritime;FRA;45.7302268;-0.7212876;Found in FRA
+Lihula;"EST;LVA";58.6850508;23.8287566;Found in EST
+Višegrad, Bosnia and Herzegovina;"BIH;MNE;SRB";43.7864291;19.294097;Found in BIH
+Montalto;ITA;43.4985445;11.6655028;Found in ITA
+Foggia;ITA;41.5028106;15.4528939;Found in ITA
+Villavalle;ITA;42.3432479;14.1113669;Found in ITA
+Priolo Gargallo, Sicily, Italy;ITA;37.1579298;15.1860285;Found in ITA
+Rossano Calabro, Italy;ITA;39.595173;16.5175366;Found in ITA
+Selargius;ITA;39.2569736;9.167555;Found in ITA
+Vieselbach;DEU;50.9974944;11.1460437;Found in DEU
+Mablethorpe;"GBR;NLD";53.3408271;0.2606772;Found in GBR
+Kristiansand;"BEL;DEU;DNK;NOR";51.9972594;7.6069632;Found in DEU
+Sørvest F Windfarm;"BEL;DEU;DNK;NOR";;;Not Found
+Kristiansand;"DNK;NOR";58.0856276;7.931858;Found in NOR
+Seidafjellet;"FIN;NOR";70.2104195;28.3502795;Found in NOR
+Lachmatt;CHE;47.5210246;7.6698698;Found in CHE
+Fiddes;"DEU;GBR";53.4559447;-2.2164851;Found in GBR
+Niederstedem;"DEU;LUX";49.9302779;6.4986224;Found in DEU
+Annaba;"DZA;ITA;TUN";36.8982165;7.7549272;Found in DZA
+Marsa Dhib;"DZA;ITA;TUN";;;Not Found
+De Jebil;"DZA;ITA;TUN";33.0727125;9.081423;Found in TUN
+Broceni;"LTU;LVA";56.6845332;22.5664558;Found in LVA
+Grobiņa, Latvia;"LTU;LVA";56.5368569;21.1676042;Found in LVA
+La Spezia;"ESP;ITA";39.9622582;-4.8136319;Found in ESP
+Saaremaa-;"DEU;EST;LVA";58.27382;22.2771058;Found in EST
+Regoledo;"CHE;ITA";46.1299085;9.5518313;Found in ITA
+Panóias;PRT;37.7606558;-8.3034966;Found in PRT
+Derbenai;"LTU;LVA";;;Not Found
+Panevezys;"LTU;LVA";55.7344985;24.3578055;Found in LTU
+Varduva;"LTU;LVA";56.3879544;22.2049794;Found in LTU
+Darbenai;"LTU;LVA";56.0231924;21.254035;Found in LTU
+Musa;"LTU;LVA";54.9365177;24.9125585;Found in LTU
+Mog;BEL;50.6425629;5.5717808;Found in BEL
+Bofferdange;"DEU;LUX";49.6885664;6.140782;Found in LUX
+Bertrange;"DEU;LUX";49.6106029;6.0501598;Found in LUX
+Aulepa;"EST;FIN";59.0812214;23.5863757;Found in EST
+Ovelgönnerastedewiefelstedewesterstede;DEU;;;Not Found
+Arad, Romania;"HUN;ROU";46.1753793;21.3196342;Found in ROU
+Fier;"ALB;GRC";40.7251118;19.5582079;Found in ALB
+Tan Tan;"DEU;MAR";28.5889085;77.1884398;Found in DEU
+Rejim Maatoug;"MLT;TUN";33.3200444;8.0329992;Found in TUN
+Thesprotia;"DEU;GRC";39.5440124;20.3083554;Found in GRC
+Aracthos;GRC;;;Not Found
+Pedralva;PRT;41.5599098;-8.3208927;Found in PRT
+Reitdorf;AUT;47.3722957;13.3858311;Found in AUT
+Sajóivánka;"HUN;SVK";48.2661062;20.5793709;Found in HUN
+Bucharest South;"HUN;ROU";44.4056412;26.155958;Found in ROU
+Maritsa East;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";42.1825797;24.3564833;Found in BGR
+Blagoevgrad;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";41.750287;23.4873411;Found in BGR
+Tsarevets;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";41.67103;25.35166;Found in BGR
+Svoboda;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";43.7492731;27.817828;Found in BGR
+Mukacheve;"SVK;UKR";;;Not Found
+Lemeany;"SVK;UKR";;;Not Found
+Vola;"SVK;UKR";48.8410159;21.8438864;Found in SVK
+Artsyz, Odesa Oblast, Ukraine;"ROU;UKR";45.9962017;29.431517;Found in UKR
+Pulgar;DEU;51.1885941;12.3517288;Found in DEU
+Isar;"AUT;DEU";47.3728525;11.4229223;Found in AUT
+Gabíkovo;"HUN;SVK";;;Not Found
+Cirkovce;"HRV;SVN";46.3948524;15.727405;Found in SVN
+Divaca;SVN;45.6869095;14.0125353;Found in SVN
+Tirana;"ALB;SRB";41.3281482;19.8184435;Found in ALB
+Leskovac;"MKD;SRB";41.9857749;21.4677457;Found in MKD
+Resita;"ROU;SRB";45.289027;21.887861;Found in ROU
+Filippoi, Kavala, Greece;GRC;41.014817;24.2828576;Found in GRC
+Vidno;BGR;43.5666329;28.3837938;Found in BGR
+Cernavoda;"BGR;ROU";44.3416349;28.0316248;Found in ROU
+Smardan, Galați, Romania;"BGR;ROU";45.5683363;27.9226248;Found in ROU
+Gadalin;ROU;46.8402209;23.8485171;Found in ROU
+Vyskov;CZE;49.2778194;16.9994446;Found in CZE
+Babylon;CZE;49.3975285;12.8617005;Found in CZE
+Vernerov;CZE;50.4051311;13.2245204;Found in CZE
+Caparacena;ESP;37.2651485;-3.7142933;Found in ESP
+Mirovka;CZE;49.5795969;15.6137086;Found in CZE
+Ostroka;POL;;;Not Found
+Krajnik;POL;53.1974005;14.4697273;Found in POL
+Sta.Llogaia;"ESP;FRA";42.576674;1.0887338;Found in ESP
+Ek;POL;49.6887854;21.7763228;Found in POL
+Siedlce Ujrzanów;POL;52.1339382;22.3146453;Found in POL
+Ostroleka;"LTU;POL";53.0843135;21.5668607;Found in POL
+Kozienice;POL;51.5849678;21.549883;Found in POL
+Klaipeda;LTU;55.7127529;21.1350469;Found in LTU
+Kruonis;LTU;54.7576712;24.2385957;Found in LTU
+Gatica, Biscay, Spain;"ESP;FRA";;;Not Found
+Visaginas;LTU;55.59966;26.4370071;Found in LTU
+Vilnius;"EST;LTU;LVA;POL";54.6870458;25.2829111;Found in LTU
+Klaipeda;"LTU;SWE";55.7127529;21.1350469;Found in LTU
+Grobiņa, Latvia;LVA;56.5368569;21.1676042;Found in LVA
+Kilingi-Nomme;"EST;LVA";58.1530218;24.9627322;Found in EST
+Dingtuna;SWE;59.5724025;16.388665;Found in SWE
+Ramsele;SWE;63.538099;16.4686985;Found in SWE
+Kvilldal;"GBR;NOR";59.5164742;6.6363721;Found in NOR
+Endrup;"DNK;NLD";55.5234974;8.7183108;Found in DNK
+Idomlund;DNK;56.3542487;8.5441084;Found in DNK
+Eemshaven;NLD;53.448402;6.8465032;Found in NLD
+Maasvlakte;NLD;51.9543525;4.0197987;Found in NLD
+Krimpen Aan De Ijssel;NLD;51.9166979;4.6083699;Found in NLD
+Richborough;"BEL;GBR";51.2954693;1.3252361;Found in GBR
+Horta;BEL;50.8259485;4.3457493;Found in BEL
+Zandvliet;BEL;51.3599666;4.3086817;Found in BEL
+Schifflange;LUX;49.5062732;6.0118175;Found in LUX
+Heisdorf;LUX;49.6751263;6.1394127;Found in LUX
+Richborough;GBR;51.2954693;1.3252361;Found in GBR
+Sellindge;GBR;51.1086457;0.9883745;Found in GBR
+Hunterston, North Ayrshire, Scotland;GBR;55.7290528;-4.865233;Found in GBR
+Hinkley Point C, Somerset, UK;GBR;51.208803;-3.1333335;Found (Global Search)
+Srananagh;"GBR;IRL";54.168611;-8.393333;Found in IRL
+Ribeira De Pena;PRT;41.5217103;-7.795143;Found in PRT
+V. P. Aguiar;PRT;-7.0928404;-38.1727215;Found (Global Search)
+Penela;PRT;40.029442;-8.3902395;Found in PRT
+Fundão;PRT;40.1408065;-7.5017521;Found in PRT
+Fontefria;"ESP;PRT";42.3869909;-7.9464231;Found in ESP
+Vila Nova De Famalicão;PRT;41.4064621;-8.5187849;Found in PRT
+Ponte De Lima;"ESP;PRT";42.2836645;-8.6094573;Found in ESP
+Jm Oriol;ESP;;;Not Found
+Arenales;ESP;28.115605;-15.42011;Found in ESP
+Sta.Llogaia;ESP;42.576674;1.0887338;Found in ESP
+Baixas;FRA;42.7498075;2.8091531;Found in FRA
+Ramis;ESP;41.4316504;1.3456479;Found in ESP
+Santa Llogaia;ESP;42.576674;1.0887338;Found in ESP
+Sama;ESP;43.2918466;-5.6794502;Found in ESP
+Reboria;ESP;43.5531246;-5.7495256;Found in ESP
+Costa Verde;ESP;40.9675773;-5.6678176;Found in ESP
+Morella;ESP;40.6188277;-0.0998026;Found in ESP
+Escatron;ESP;41.2870705;-0.3249532;Found in ESP
+Els Aubals;ESP;;;Not Found
+La Secuita;ESP;41.2040962;1.280166;Found in ESP
+Grande Ile, Savoie, France;"FRA;ITA";45.5441785;5.790675;Found in FRA
+Cartuja;ESP;37.4072404;-6.0101215;Found in ESP
+Baza;ESP;37.4281633;-2.8475487;Found in ESP
+Genissiat;"CHE;FRA";46.0504802;5.7672584;Found in FRA
+La Ribina;ESP;37.2472284;-1.8584537;Found in ESP
+Arkale;ESP;43.336916;-1.79941;Found in ESP
+La Gaudière;FRA;48.6348842;-1.106596;Found in FRA
+Avelinmastaing;"BEL;FRA";;;Not Found
+Liefkenshoek;BEL;51.0112871;3.8800651;Found in BEL
+Lillo;BEL;51.3048238;4.2901928;Found in BEL
+Nauders;"AUT;ITA";46.8917562;10.5026037;Found in AUT
+Okroglo;SVN;46.2584594;14.3204865;Found in SVN
+Salgareda;"ITA;SVN";45.7034472;12.5221949;Found in ITA
+Lika;HRV;44.6258962;15.3436053;Found in HRV
+Tourbe;"FRA;GBR";49.1020774;4.6699851;Found in FRA
+Brinje;HRV;44.9998131;15.1312723;Found in HRV
+Lastva;MNE;42.8395974;19.2490342;Found in MNE
+Bajina Basta;"BIH;MNE;SRB";43.9712226;19.5660149;Found in SRB
+Konjsko;HRV;43.5933037;16.5009741;Found in HRV
+Partanna;"ITA;TUN";37.727841;12.88854;Found in ITA
+Allacqua;"CHE;ITA";45.5799944;8.2078639;Found in ITA
+Laino Borgo, Calabria, Italy;ITA;39.95352;15.9737191;Found in ITA
+Aubange;"BEL;DEU;LUX";49.5671953;5.8044993;Found in BEL
+Osterath;DEU;51.2690922;6.6207151;Found in DEU
+Emden East;DEU;40.2967728;-89.480555;Found (Global Search)
+Brunsbüttel Wilster;DEU;;;Not Found
+Wolmirstedt;DEU;52.2484924;11.6267388;Found in DEU
+Brunsbüttel;DEU;53.8972549;9.1395423;Found in DEU
+Okroglo;"ITA;SVN";46.2584594;14.3204865;Found in SVN
+Urberach;DEU;49.973352;8.7981281;Found in DEU
+Großgartach;DEU;49.1425406;9.1258701;Found in DEU
+Mecklar;DEU;50.9174645;9.7612468;Found in DEU
+Schalkau Altenfeld;DEU;;;Not Found
+Raitersaich;DEU;49.3729799;10.8446391;Found in DEU
+Vöhringen;"AUT;DEU";48.2833039;10.0832982;Found in DEU
+Rimavská Sobota;"HUN;SVK";48.3833603;20.0180584;Found in SVK
+Gyr;HUN;47.6590537;17.7243253;Found in HUN
+Timisoara;"ROU;SRB";45.7538355;21.2257474;Found in ROU
+Lagadas;GRC;40.7435204;23.0106094;Found in GRC
+Stalpu;"BGR;ROU";45.0851857;26.7083861;Found in ROU
+Veké Kapuany;"HUN;SVK";;;Not Found
+Gubin;POL;51.9509156;14.7293172;Found in POL
+Plewiska;POL;52.3665196;16.809783;Found in POL
+Oma;POL;52.2407869;21.0239444;Found in POL
+Stanisawów;POL;;;Not Found
+Harku;"EST;LVA";59.385532;24.5826355;Found in EST
+Ulvila;FIN;61.4333298;21.8833199;Found in FIN
+Hirvisuo;FIN;60.2197182;24.6321226;Found in FIN
+Pyhanselka;FIN;;;Not Found
+Bramford;GBR;52.0754182;1.1005827;Found in GBR
+Sorgente, Messina, Italy;ITA;38.580249;14.8304536;Found in ITA
+Pelham;GBR;50.7233069;-1.9103969;Found in GBR
+Hackney;GBR;51.5432402;-0.0493621;Found in GBR
+St. Johns Wood;GBR;51.4464879;-2.3877923;Found in GBR
+Wylfa;GBR;53.2266936;-4.1352145;Found in GBR
+F. Alentejo;PRT;41.1640525;-8.1114507;Found in PRT
+Ourique;PRT;37.651112;-8.2237262;Found in PRT
+Ängsberg;SWE;60.6241294;16.9938879;Found in SWE
+Horndal;SWE;60.291412;16.4021853;Found in SWE
+Hamra;SWE;61.756683;14.8024445;Found in SWE
+Mikuowa;POL;;;Not Found
+Seia;PRT;40.4200998;-7.7028054;Found in PRT
+Varna;"BGR;ROU";43.2073873;27.9166653;Found in BGR
+Keminmaa;FIN;65.803014;24.5208776;Found in FIN
+Råbäcken;SWE;63.4103325;19.1377118;Found in SWE
+Knockraha;"FRA;IRL";51.9740661;-8.3292119;Found in IRL
+Tarnita;ROU;46.1780785;23.0547065;Found in ROU
+Seyring;AUT;48.3320785;16.4850443;Found in AUT
+Hradec;CZE;49.7118548;15.2984937;Found in CZE
+Krimpen Aan De Ijssel;"AUT;ISL;ITA;NLD";51.9166979;4.6083699;Found in NLD
+South Donegal;"GBR;IRL";55.0332353;-8.0176389;Found in IRL
+Omagh South;"GBR;IRL";54.5943826;-7.2951959;Found in GBR
+Calenzano;ITA;43.8652493;11.1673685;Found in ITA
+Kumanovo;"ALB;SRB;BGR;GRC;MKD";43.2369343;22.5140981;Found in SRB
+Cassano;ITA;45.5263333;9.5214907;Found in ITA
+West Udine;ITA;-20.4697712;-54.5722443;Found (Global Search)
+Rondissone;ITA;45.2467747;7.9654263;Found in ITA
+Lacchiarella;ITA;45.3215749;9.137322;Found in ITA
+La Planamorella;ESP;;;Not Found
+Gozon;ESP;43.6056854;-5.8430274;Found in ESP
+Cartuja;;37.4072404;-6.0101215;Found (Global Search)
+Magenta;ITA;45.4653931;8.8838429;Found in ITA
+Or Stevin -;"BEL;ISL";;;Not Found
+Leiston;"BEL;GBR";52.20648;1.5764329;Found in GBR
+Kreis Segeberg;DEU;53.9337148;10.1202933;Found in DEU
+Kandeliousa;GRC;;;Not Found
+Emdenost;DEU;;;Not Found
+Fridão;PRT;41.3097793;-8.0343377;Found in PRT
+Nor--;DEU;50.0845873;8.2410945;Found in DEU
+Schleswig-Hostein;DEU;;;Not Found
+Deliceto;ITA;41.223026;15.38585;Found in ITA
+Syrna;GRC;36.3428919;26.6817467;Found in GRC
+Herbertingen;DEU;48.0600681;9.4346544;Found in DEU
+Rommelsbach;DEU;48.53153;9.2043979;Found in DEU
+Wullenstetten;"AUT;DEU";48.3164069;10.0688595;Found in DEU
+Menuel;"FRA;GBR";49.4973976;-1.614217;Found in FRA
+Mühlbach, Baden-Württemberg, Germany;"AUT;BEL;DEU;FRA";49.1001889;8.8999895;Found in DEU
+Grafenrheinfeld;DEU;49.9906668;10.2098923;Found in DEU
+Vierraden;DEU;53.0978481;14.29611;Found in DEU
+Lv-Grobina;DEU;56.5368569;21.1676042;Found (Global Search)
+Pleinting;"AUT;DEU";48.6604745;13.119804;Found in DEU
+Revsing;"DNK;GBR";55.5073104;9.1751007;Found in DNK
+Kyndby;DNK;55.7949477;11.919063;Found in DNK
+Prizren;"ALB;SRB;BGR;GRC;MKD";41.3099555;19.4854573;Found in ALB
+Paide;"EST;LTU;LVA;POL";58.8869266;25.5699121;Found in EST
+Mandarins, Coquelles, France;"FRA;GBR";;;Not Found
+Gramme;"BEL;FRA";50.4162907;4.4470469;Found in BEL
+Valmiera;"EST;LTU;LVA;POL";57.5389148;25.4261688;Found in LVA
+Bonaduz;"CHE;ITA";46.81132;9.3984396;Found in CHE
+Bentwisch;"DEU;DNK";54.1162169;12.2022371;Found in DEU
+Endrup;"DEU;DNK";55.5234974;8.7183108;Found in DNK
+Pembroke;"GBR;IRL";51.674041;-4.908674;Found in GBR
+Pentir;"GBR;IRL";53.1958891;-4.1607536;Found in GBR
+Peterhead;NOR;58.7188773;9.2394904;Found in NOR
+Elk Bis;"EST;LTU;LVA;POL";53.8289897;22.3528753;Found (Global Search)
+S. Barbara;ITA;40.1805803;15.2567411;Found in ITA
+Herderen;"AUT;BEL";50.8070274;5.5742306;Found in BEL
+Herderen;"AUT;BEL;ISL";50.8070274;5.5742306;Found in BEL
+La Bâtiaz;"CHE;FRA";46.1032087;7.0649002;Found in CHE
+Doel;BEL;51.3111156;4.2643189;Found in BEL
+Riga Hpp;"EST;LVA";;;Not Found
+Paneveys;"LTU;LVA";;;Not Found
+Bonaduz - Grynau;CHE;;;Not Found
+Dahlem;"BEL;DEU";52.4573805;13.2810976;Found in DEU
+Indian Queens;"ESP;FRA;GBR";50.3932571;-4.9316166;Found in GBR
+Oradea Sud;"HUN;ROU";47.0517876;21.9180327;Found in ROU
+Saucats;"ESP;FRA";44.652798;-0.5958896;Found in FRA
+Marsillon;"ESP;FRA";43.3907503;-0.5999697;Found in FRA
+Romanel;CHE;46.5564288;6.5101067;Found in CHE
+Belgrade West;SRB;44.8915245;20.0787269;Found in SRB
+Lavorgo;CHE;46.4417898;8.8403869;Found in CHE
+Tabarderie;FRA;47.7464772;2.5249655;Found in FRA
+Bajina Basta;"ISL;SRB";43.9712226;19.5660149;Found in SRB
+Saint Vulbas;"CHE;FRA";45.8306;5.28959;Found in FRA
+Santiponce;;37.4355931;-6.039916;Found (Global Search)
+Ulrichen;CHE;46.5065607;8.3049713;Found in CHE
+Eichstetten;"DEU;FRA";48.0938296;7.7314344;Found in DEU
+Dunowo;"DNK;POL";54.1097161;16.1077967;Found in POL
+Airolo;CHE;46.5290309;8.6086045;Found in CHE
+Vester Hassing;"DNK;SWE";57.0682098;10.1253165;Found in DNK
+Uchtelfangen;"DEU;FRA";49.3788373;7.0194399;Found in DEU
+Diele De;"DEU;NLD";53.1201491;7.3117171;Found in DEU
+Lubmin;DEU;54.1322013;13.6137922;Found in DEU
+Limmern;CHE;47.5292775;7.6066558;Found in CHE
+Ichaso;;43.0724109;-2.2579219;Found (Global Search)
+Mettlen Bonaduz;"AUT;CHE;DEU";;;Not Found
+Robbia;CHE;46.3480719;10.0625897;Found in CHE
+Chamoson;;46.2013342;7.2232538;Found (Global Search)
+Gnewitz;"DEU;SWE";54.0788474;12.5132459;Found in DEU
+Djerdap;"DEU;ROU;SRB";44.6713001;22.5294117;Found in ROU
+Sombor;"HRV;SRB";45.7727397;19.1147036;Found in SRB
+Verzasca;CHE;46.2802833;8.8039646;Found in CHE
+N.A.;"DEU;POL";51.5902265;7.3187517;Found in DEU
+N.A.;;51.566874;4.9284972;Found (Global Search)
+Eisenhuettenstadt;"DEU;POL";52.1448863;14.6294413;Found in DEU
+Tuzla;"BIH;HRV";44.539298;18.6749337;Found in BIH
+Razbojiste;"BIH;HRV";43.028309;18.0026488;Found in BIH
+Nant De Drance;CHE;46.0631174;6.904579;Found in CHE
+Moulaine;"BEL;FRA";49.5017543;5.8170894;Found in FRA
+Tiengen;"CHE;DEU";47.9842416;7.7153083;Found in DEU
+Vignole;ITA;46.1397174;12.1251706;Found in ITA
+Mühleberg;CHE;46.9533705;7.2615937;Found in CHE
+La Spezia;"ESP;FRA;ITA";39.9622582;-4.8136319;Found in ESP
+Pradella Ova Spin;CHE;46.7458375;10.2372666;Found in CHE
+Tba E.G. Mongstad Kollsnes Fana;NOR;;;Not Found
+Exeter;"ESP;FRA;GBR";48.1275416;-1.6565201;Found in FRA
+Wurmlach;"AUT;ITA";46.6575156;13.0153778;Found in AUT
+Barnabos;"FRA;GBR";49.6599168;0.9887959;Found in FRA
+Peterhead;"GBR;NOR";57.5052909;-1.7813194;Found in GBR
+Warande;"FRA;GBR";50.9483068;2.1732052;Found in FRA
+Mese;"CHE;ITA";47.294048;8.228263;Found in CHE
+Bellacorick Mayo;"GBR;IRL";54.119444;-9.579444;Found in IRL
+Krajnik;"DEU;POL";53.1974005;14.4697273;Found in POL
+Plewiska;"DEU;POL";52.3665196;16.809783;Found in POL
+Mires;LBY;47.5177272;24.6570057;Found (Global Search)
+Korakia;"CYP;GRC;ISR";37.3602992;23.0640977;Found in GRC
+Wilster;"DEU;NOR";53.9233519;9.3741366;Found in DEU
+Atherinolakkos Crete;GRC;35.0092665;26.1286721;Found in GRC
+Syrna;"EGY;GRC";36.3428919;26.6817467;Found in GRC
+Pergousa;"EGY;GRC";36.5876335;27.0380816;Found in GRC
+Kilroot;IRL;54.7317451;-5.7681522;Found in IRL
+Kassoe;"DEU;DNK";55.0367981;9.2343302;Found in DNK
+Greenwire South Ac;"GBR;IRL";;;Not Found
+Greenwire North Ac;"GBR;IRL";;;Not Found
+Doetinchem;"DEU;NLD";51.9585348;6.2814551;Found in NLD
+Nea Santa;"BGR;GRC";40.842266;22.9204109;Found in GRC
+Pentir;IRL;53.1958891;-4.1607536;Found (Global Search)
+Suvereto;"FRA;ITA";43.079015;10.6786806;Found in ITA
+Lixhe;"BEL;DEU";50.7550757;5.680109;Found in BEL
+Hamburgnord;DEU;;;Not Found
+Tauern;AUT;47.4677763;10.7621855;Found in AUT
+St. Peter;"AUT;DEU";46.6202311;14.3350043;Found in AUT
+Tiengen;;47.9842416;7.7153083;Found (Global Search)
+Neuravensburg, Germany;"AUT;DEU";47.637856;9.7590432;Found in DEU
+Zaule;"ITA;SVN";45.6020573;13.8072599;Found in ITA
+Vrtojba;"ITA;SVN";45.9119936;13.635357;Found in SVN
+Podlog;"AUT;SVN";45.526278;15.1896499;Found in SVN
+Hanekenfähr;;52.471518;7.3031386;Found (Global Search)
+Stade;DEU;53.599794;9.475438;Found in DEU
+Gonyu;"HUN;SVK";47.7331432;17.8279231;Found in HUN
+Sajoivanka;"HUN;SVK";48.2661062;20.5793709;Found in HUN
+Lastva;"ITA;MNE";42.8395974;19.2490342;Found in MNE
+Ganderkesee;DEU;53.0344984;8.5451469;Found in DEU
+Merzen;DEU;52.4776488;7.8307739;Found in DEU
+Cloppenburg;DEU;52.8461339;8.0438783;Found in DEU
+Dörpenwest;DEU;;;Not Found
+Ensdorf;"DEU;FRA";49.3510828;11.9159876;Found in DEU
+Courcelles;BEL;50.4574699;4.376008;Found in BEL
+Leskovac;"BGR;SRB";42.9951304;21.9464271;Found in SRB
+Fano;ITA;43.8424173;13.0146632;Found in ITA
+Pljevlja;"BIH;MNE;SRB";43.3561668;19.3578632;Found in MNE
+Tpp Tuzla;"BIH;HRV";;;Not Found
+Melina;"BIH;HRV";44.3730687;17.4548804;Found in BIH
+Konjsko;"BIH;HRV";42.6444321;18.4768641;Found in BIH
+Djerdap;"ROU;SRB";44.6713001;22.5294117;Found in ROU
+Geertruidenberg;NLD;51.6961662;4.8778438;Found in NLD
+Maasbracht;NLD;51.1428567;5.8830683;Found in NLD
+Dodewaard;NLD;51.9140052;5.6569388;Found in NLD
+Rilland;NLD;51.4164747;4.1812417;Found in NLD
+Tilburg;"BEL;NLD";51.4461532;4.9253004;Found in BEL
+Vierverlaten;NLD;53.2131296;6.485299;Found in NLD
+Hawthorn Pit;GBR;;;Not Found
+Steinach;"AUT;ITA";47.09176;11.46526;Found in AUT
+Heviz Hu Zerjavinec;"HRV;HUN;SVN";;;Not Found
+Bitola;"GRC;MKD";41.0316005;21.3302511;Found in MKD
+Bleiswijk;NLD;52.0109579;4.5310837;Found in NLD
+Maasbracht;"BEL;NLD";51.1428567;5.8830683;Found in NLD
+Bitenai, Lithuania;LTU;55.0778055;22.0457311;Found in LTU
+Ignalinos Ae;"EST;LTU;LVA;POL";55.6072196;26.4271193;Found in LTU
+Valkininkai;LTU;54.3589408;24.8416634;Found in LTU
+Guenes;ESP;43.2090164;-3.094502;Found in ESP
+Ichaso;ESP;43.0724109;-2.2579219;Found in ESP
+Azpeitia;ESP;43.1838618;-2.2657422;Found in ESP
+Inhausen;DEU;48.1143825;12.5531413;Found in DEU
+Siedenbrünzowalt Telinbartow;DEU;;;Not Found
+Cirkovce;;46.3948524;15.727405;Found (Global Search)
+Bericevo, Slovenia;;46.0882874;14.620545;Found (Global Search)
+Border It-Si;SVN;46.8685891;16.2152161;Found in SVN
+Linoperamata;"EGY;GRC;LBY";35.3379922;25.050432;Found in GRC
+Elbasan;"ALB;MKD";41.1126792;20.0820858;Found in ALB
+Stevin Substation, Zeebrugge, Belgium;BEL;;;Not Found
+Sanitzdettmannsdorf;DEU;;;Not Found
+Fedderwarden;"DEU;GBR";53.5628789;8.044606;Found in DEU
+Büttel;DEU;53.899972;9.2284119;Found in DEU
+Bitenai, Lithuania;"EST;LTU;LVA;POL";55.0778055;22.0457311;Found in LTU
+Kruonis Hydroelectric, Lithuania;;;;Not Found
+Emden Borßum;DEU;53.3489611;7.2269208;Found in DEU
+Zydowo Kierzkowo;"EST;LTU;LVA;POL";54.0251553;16.7070228;Found in POL
+Gdansk Blonia;"EST;LTU;LVA;POL";54.3441805;18.7003325;Found in POL
+Diele;DEU;53.1201491;7.3117171;Found in DEU
+Divor;PRT;38.6553368;-7.9864649;Found in PRT
+Polkowice;"DEU;POL";51.5039288;16.0713371;Found in POL
+Gb Hunterston;GBR;55.7219368;-4.889448;Found in GBR
+Mesogeia St Stefanos;"EGY;GRC";;;Not Found
+Huutokoski;FIN;62.2100548;27.6889013;Found in FIN
+Eemshaven;"DEU;NLD";53.448402;6.8465032;Found in NLD
+Polsum;DEU;51.6264919;7.0528322;Found in DEU
+Mua;LTU;55.9353864;23.3129936;Found in LTU
+Hikiä;FIN;60.7537835;24.9232848;Found in FIN
+Vardiste;"BGR;SRB";43.504508;20.8696831;Found in SRB
+Višegrad, Bosnia and Herzegovina;"BGR;BIH;MNE;SRB";43.7864291;19.294097;Found in BIH
+Kos;GRC;36.7936933;27.0848266;Found in GRC
+Niederlangen Germany;"DEU;GBR";52.8570158;7.2819679;Found in DEU
+Mablethorpe Lincolnshire;"DNK;GBR";53.3408271;0.2606772;Found in GBR
+Marsa Matruh, Egypt;"EGY;GRC";31.3528567;27.2395262;Found in EGY
+Pyhänselkä;"FIN;SWE";;;Not Found
+Zell-Ziller;AUT;47.2335951;11.881991;Found in AUT
+Molai;GRC;36.8042092;22.8518021;Found in GRC
+Koumoundouros;GRC;36.9376009;22.1981823;Found in GRC
+Plat;HRV;42.610048;18.2265638;Found in HRV
+Mettlen;"CHE;DEU";47.5310946;9.1235528;Found in CHE
+Vize Havza;"BGR;TUR";41.5164827;27.7592538;Found in TUR
+Babaeski;"GRC;TUR";41.4302616;27.0917789;Found in TUR
+Grobiņa, Latvia;"LVA;SWE";56.5368569;21.1676042;Found in LVA
+Sándorfalva;"HUN;SRB";46.3657365;20.1042174;Found in HUN
+Novi Sad;"HUN;SRB";45.2522389;19.8491163;Found in HUN
+Sremska Mitrovica;"HUN;SRB";44.9685558;19.6083864;Found in SRB
+Ch. Mogila;"BGR;GRC;MKD";42.5029099;26.5960799;Found in BGR
+Elbasan;"ALB;GRC;LBY";41.1126792;20.0820858;Found in ALB
+Not Applicable - Connection Point At Sea-Socket Platform;IRL;;;Not Found
+Paide;EST;58.8869266;25.5699121;Found in EST
+Saaremaa-;"EST;LVA";58.27382;22.2771058;Found in EST
+Derbenai;"EST;LVA";;;Not Found
+Telšiai, Lithuania;"EST;LVA";55.9846135;22.2490753;Found (Global Search)
+Eichstetten;DEU;48.0938296;7.7314344;Found in DEU
+Ee;"EST;FIN";59.409009;24.7369572;Found in EST
+Dk;"DNK;SWE";55.3784263;9.1318064;Found in DNK
+Röhrsdorf;"CZE;DEU";50.7918632;14.596773;Found in CZE
+Bünzwangen;DEU;48.7091394;9.5461178;Found in DEU
+Sindi;"EST;FIN";58.4075128;24.6583155;Found in EST
+Kiisa;"EST;FIN";59.2378619;24.6874798;Found in EST
+Roost;"DEU;LUX";51.7378867;7.1837526;Found in DEU
+Revsing;"BEL;DNK";55.5073104;9.1751007;Found in DNK
+Toivila;FIN;60.4948324;22.9735019;Found in FIN
+Petäjävesi;FIN;62.2504776;25.2004692;Found in FIN
+Constanta Sud;"GEO;ROU";44.1362693;28.6200349;Found in ROU
+Hemsjo;"LTU;LVA;SWE";57.8445086;12.4771385;Found in SWE
+Hikiä;"EST;FIN";60.7537835;24.9232848;Found in FIN
+Philippoi, Kavala, Greece;"GRC;TUR";41.0131482;24.3053889;Found in GRC
+Musa;LTU;54.9365177;24.9125585;Found in LTU
+Weißenthurm;DEU;50.4145192;7.4557539;Found in DEU
+Damietta, Egypt;"CYP;EGY";31.4167427;31.8213657;Found in EGY
+Annunziata;ITA;44.6365156;7.9540168;Found in ITA
+Thesprotia;"GRC;ITA";39.5440124;20.3083554;Found in GRC
+Parndorf;AUT;47.9973956;16.8608307;Found in AUT
+Weißenbach;AUT;47.7998147;13.5361361;Found in AUT
+Liviere;FRA;43.7723481;4.1810379;Found in FRA
+Lavera;FRA;43.7893344;7.2664355;Found in FRA
+Menuel;FRA;49.4973976;-1.614217;Found in FRA
+Tourbe;FRA;49.1020774;4.6699851;Found in FRA
+Pluvigner;FRA;47.7770909;-3.0095755;Found in FRA
+Grandzay;FRA;;;Not Found
+Timisoara-Sacalaz;"ROU;SRB";;;Not Found
+Hasdat;"HUN;ROU";48.5290778;21.3479769;Found in HUN
+Tumbri;"BIH;HRV";45.6744997;15.8626015;Found in HRV
+Zellziller;AUT;;;Not Found
+Dürnrohr;AUT;48.3317967;15.8991336;Found in AUT
+Bekescsaba;"HUN;ROU";46.6798003;21.0985425;Found in HUN
+Wien Südost;AUT;48.1594601;16.3955937;Found in AUT
+Zaya;AUT;48.572361;16.6226835;Found in AUT
+Gironde Loire-Atlantique Link;FRA;;;Not Found
+Le Havre Port Jérôme Area;FRA;;;Not Found
+Dauersberg;DEU;50.7680882;7.8426923;Found in DEU
+Fos Sur Mer - Realtor Area;FRA;;;Not Found
+Western Saaremaa Off-Shore;"EST;LVA";;;Not Found
+Paide;"EST;LVA";58.8869266;25.5699121;Found in EST
+Avenza;ITA;44.0470099;10.0622156;Found in ITA
+Forlì;ITA;44.2227278;12.041273;Found in ITA
+Latina;ITA;41.4595261;13.0125912;Found in ITA
+Montalto Di Castro;ITA;42.3515417;11.6072988;Found in ITA
+Moerdijk;"GBR;NLD";51.6627723;4.5255922;Found in NLD
+Tjele;"DNK;NOR";56.5120126;9.6099502;Found in DNK
+La Spezia;"DZA;ITA;TUN";44.238366;9.6912326;Found in ITA
+Suvereto;"DZA;ITA;TUN";43.079015;10.6786806;Found in ITA
+Tougourt;"DZA;ITA;TUN";33.1054499;6.0685719;Found in DZA
+Bentwischlü Dershagen;DEU;;;Not Found
+Ramis;"ESP;ITA";41.4316504;1.3456479;Found in ESP
+Brünzowkemnitz;"DEU;EST;LVA";;;Not Found
+Nor--X;"DEU;NLD";52.4880287;13.4135468;Found in DEU
+Doel;"BEL;NLD";51.3111156;4.2643189;Found in BEL
+Cordemais;FRA;47.2909306;-1.8762761;Found in FRA
+Gadalin;"MDA;ROU";46.8402209;23.8485171;Found in ROU
+Bürstadt;DEU;49.6531823;8.4747076;Found in DEU
+Marxheim;DEU;48.7405104;10.9444427;Found in DEU
+Albertirsa;"HUN;ROU";47.2457295;19.6127835;Found in HUN
+Constanta South;"HUN;ROU";44.1001557;28.6621511;Found in ROU
+Thesprotia;"ALB;GRC";39.5440124;20.3083554;Found in GRC
+Malta;"MLT;TUN";35.9311442;14.3951627;Found in MLT
+Ottenhofen;"DEU;GRC";48.2157282;11.8799783;Found in DEU
+Thesprotia;GRC;39.5440124;20.3083554;Found in GRC
+Sobrado;PRT;41.2115102;-8.4652622;Found in PRT
+Laufenburg;CHE;47.5123142;8.0527082;Found in CHE
+Breite;CHE;47.5518091;7.6178526;Found in CHE
+Rimavska Sobotá;"HUN;SVK";48.3833603;20.0180584;Found in SVK
+Nea Santa;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";40.842266;22.9204109;Found in GRC
+Lagadas;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";40.7435204;23.0106094;Found in GRC
+Draganesti Olt;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";44.1684732;24.5219723;Found in ROU
+Bucuresti Sud;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";44.4263475;26.0885466;Found in ROU
+Zlatitsa;"BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK";42.7116955;24.1389525;Found in BGR
+Velké Kapuany;"SVK;UKR";;;Not Found
+Isaccea;"ROU;UKR";45.2721887;28.4571456;Found in ROU
+Gnyü;"HUN;SVK";;;Not Found
+Heviz Hu Zerjavenec;"HRV;SVN";;;Not Found
+Cirkovce;SVN;46.3948524;15.727405;Found in SVN
+Pristina;"ALB;SRB";42.7461765;21.1196421;Found in ALB
+Shtip;"MKD;SRB";41.7374724;22.1935856;Found in MKD
+Pancevo;"ROU;SRB";44.8705686;20.6399643;Found in SRB
+Nea Santa, Kilkis, Greece;"BGR;GRC";40.842266;22.9204109;Found in GRC
+Plovdiv;"BGR;GRC";42.1418541;24.7499297;Found in BGR
+Burgas;"BGR;GRC";42.4936616;27.4721276;Found in BGR
+Gutinas;"BGR;ROU";46.206674;26.8205276;Found in ROU
+Suceava;ROU;47.5326535;25.8345939;Found in ROU
+Ponte De Lima;PRT;41.7675021;-8.5830992;Found in PRT
+Cechy Stred;CZE;50.1430716;14.7682478;Found in CZE
+Bezdecin;CZE;50.3856533;14.8985107;Found in CZE
+Prestice;CZE;49.5726096;13.3295697;Found in CZE
+V;CZE;49.6777349;18.3674323;Found in CZE
+Cebin;CZE;49.3082989;16.479781;Found in CZE
+Olsztyn Mtki;POL;;;Not Found
+Swiebodzice;POL;50.859573;16.3196056;Found in POL
+Baixas;"ESP;FRA";41.3976336;2.144627;Found in ESP
+Pl-Lt Border;POL;54.5622881;25.6468523;Found (Global Search)
+Miosna;POL;;;Not Found
+Narew;POL;53.129655;22.8169803;Found in POL
+Stanislawow;"LTU;POL";52.2897723;21.5471724;Found in POL
+Pl-Lt Border;LTU;54.5622881;25.6468523;Found (Global Search)
+Telšiai, Lithuania;LTU;55.9846135;22.2490753;Found in LTU
+Cubnezais;"ESP;FRA";45.07378;-0.40786;Found in FRA
+Neris;"EST;LTU;LVA;POL";54.7017168;25.3090852;Found in LTU
+Nybro;"LTU;SWE";56.7444911;15.9075145;Found in SWE
+Imanta, Riga, Latvia;LVA;56.957484;24.0170733;Found in LVA
+Messaure;"FIN;SWE";66.6852536;20.3351379;Found in SWE
+Karlslund;SWE;55.891077;12.8385758;Found in SWE
+Feira;PRT;40.9316799;-8.5523062;Found in PRT
+Blyth;"GBR;NOR";55.1270903;-1.5099726;Found in GBR
+Eemshaven;"DNK;NLD";53.448402;6.8465032;Found in NLD
+Endrup;DNK;55.5234974;8.7183108;Found in DNK
+Tilburg;NLD;51.5856185;5.0660616;Found in NLD
+Gezelle;"BEL;GBR";50.9504799;3.128628;Found in BEL
+Lillo - Liefkenshoek;BEL;;;Not Found
+Berchem;LUX;49.5427666;6.1338106;Found in LUX
+Canterbury;GBR;51.2800275;1.0802533;Found in GBR
+Dungeness;GBR;50.9141783;0.9728941;Found in GBR
+Deeside, Flintshire, Wales;GBR;53.225118;-3.0767897;Found in GBR
+Seabank, Avonmouth, Bristol, UK;GBR;51.539156;-2.6703691;Found (Global Search)
+Turleenan;"GBR;IRL";54.4657579;-6.6803026;Found in GBR
+Estarreja;PRT;40.7523494;-8.5703455;Found in PRT
+Paraimo Batalha;PRT;;;Not Found
+Vila Nova De Famalicão Pt;"ESP;PRT";41.3866603;-8.4603489;Found in PRT
+Recareivermoim;PRT;;;Not Found
+Arenales - Caceres;ESP;39.6134446;-6.4268716;Found in ESP
+La Plana;ESP;42.0533795;1.871109;Found in ESP
+Piossasco;"FRA;ITA";44.990896;7.4629349;Found in ITA
+Verbois;"CHE;FRA";46.1930405;6.028862;Found in CHE
+Rueyres;FRA;44.7480871;1.8463514;Found in FRA
+Horta;"BEL;FRA";50.8259485;4.3457493;Found in BEL
+Glorenza;"AUT;ITA";46.6714924;10.5539127;Found in ITA
+Divaca;"ITA;SVN";45.6869095;14.0125353;Found in SVN
+Velebit;HRV;44.4093795;15.3344778;Found in HRV
+Chilling;"FRA;GBR";45.1886842;5.7271138;Found in FRA
+Pljevlja;MNE;43.3561668;19.3578632;Found in MNE
+Obrenovac;"BIH;MNE;SRB";43.7508385;17.8444597;Found in BIH
+Mlaabi;"ITA;TUN";;;Not Found
+Pallanzenoit-Baggio;"CHE;ITA";;;Not Found
+Altomonte;ITA;39.6978818;16.1271277;Found in ITA
+Lux-De;"BEL;DEU;LUX";50.8781955;4.6987854;Found in BEL
+Emdeneast;DEU;;;Not Found
+Cloppenburgeast;DEU;;;Not Found
+Philippsburg;DEU;49.2367495;8.4546679;Found in DEU
+Großgartach Bergrheinfeld West;DEU;;;Not Found
+Isar;DEU;48.251073;11.683983;Found in DEU
+Klixbüll;DEU;54.8020784;8.8900168;Found in DEU
+Unterweser;DEU;53.3256109;8.4806296;Found in DEU
+Elsflehtwest;DEU;;;Not Found
+Landesbergen;DEU;52.5610203;9.1238142;Found in DEU
+Udine Sud;"ITA;SVN";46.0177698;13.2167921;Found in ITA
+Endersbach;DEU;48.8103115;9.3655003;Found in DEU
+Schwandorf;DEU;49.3152832;12.0866152;Found in DEU
+Altheim;DEU;48.5808015;10.0271338;Found in DEU
+Westtirol;"AUT;DEU";47.2439282;10.8742905;Found in AUT
+Kisvárda Area;"HUN;SVK";48.2238494;22.0780306;Found (Global Search)
+Nybrohemsjo;"LTU;LVA;SWE";;;Not Found
+Sindi;"EST;LVA";58.4075128;24.6583155;Found in EST
+Kristinestad;FIN;62.2741909;21.3772419;Found in FIN
+Pyhänselkä;FIN;;;Not Found
+Petajavesi;FIN;62.2504776;25.2004692;Found in FIN
+Twinstead;GBR;51.9965368;0.7087295;Found in GBR
+Rizziconi, Calabria, Italy;ITA;38.4119961;15.9592404;Found in ITA
+Waltham Cross;GBR;51.6857829;-0.0330001;Found in GBR
+Wimbledon;GBR;51.4214787;-0.2064027;Found in GBR
+Pembroke;GBR;51.674041;-4.908674;Found in GBR
+Tavira;PRT;37.1262493;-7.6499121;Found in PRT
+Burgas;"BGR;ROU";42.4936616;27.4721276;Found in BGR
+Trolltjärn;SWE;63.8425045;18.0490975;Found in SWE
+La Martyre;"FRA;IRL";48.4483714;-4.1580155;Found in FRA
+Mintia;ROU;45.9238836;22.8487956;Found in ROU
+Cluj E - Gadalin;ROU;46.8402209;23.8485171;Found (Global Search)
+Dodewaard;"AUT;ISL;ITA;NLD";51.9140052;5.6569388;Found in NLD
+Falagueira;PRT;38.7613137;-9.2259842;Found in PRT
+Colunga;ITA;44.4728217;11.4647143;Found in ITA
+Benevento Ii;ITA;41.1295587;14.7824639;Found in ITA
+Chiari;ITA;45.5364624;9.928846;Found in ITA
+Redipuglia;ITA;45.8471782;13.4889599;Found in ITA
+Trino;ITA;45.1939397;8.2969866;Found in ITA
+Chignolo Po;ITA;45.148166;9.481559;Found in ITA
+Godelleta;ESP;39.427628;-0.6705911;Found in ESP
+Arcos de la Frontera, Cadiz, Spain;;36.7526913;-5.8122092;Found (Global Search)
+Antwerp Area Or Izegem -;"BEL;ISL";;;Not Found
+Göhlsiems;DEU;;;Not Found
+Kiel;DEU;54.3227085;10.135555;Found in DEU
+Halbemond;DEU;53.5658058;7.297287;Found in DEU
+Pergousa;GRC;36.5876335;27.0380816;Found in GRC
+Wilhelmshafen;DEU;51.1000283;17.1188578;Found (Global Search)
+Emdeneast;;;;Not Found
+Baden-Würtemberg Bavaria;DEU;49.7342092;9.3389686;Found in DEU
+Bisaccia;ITA;41.012121;15.374753;Found in ITA
+Hessebaden-Würtemberg;DEU;;;Not Found
+Tiengen;DEU;47.9842416;7.7153083;Found in DEU
+Exeter;"FRA;GBR";48.1275416;-1.6565201;Found in FRA
+Eichstetten;"AUT;BEL;DEU;FRA";48.0938296;7.7314344;Found in DEU
+Guestrow;"DEU;SWE";53.793587;12.1764906;Found in DEU
+Bicker Fen;"DNK;GBR";52.9370211;-0.2288096;Found in GBR

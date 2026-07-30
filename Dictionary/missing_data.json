@@ -1,0 +1,2383 @@
+{
+    "1001": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 500.0,
+        "Inv_Line length [km]": 335.0
+    },
+    "1005": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1020": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1021": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1024": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1025": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1026": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1027": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1028": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1029": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1030": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1031": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1032": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1033": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1400.0,
+        "Inv_Voltage [kV]": 500.0,
+        "Inv_Line length [km]": 650.0
+    },
+    "1036": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 0.0
+    },
+    "1037": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 0.0
+    },
+    "1042": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 537.0,
+        "Inv_Voltage [kV]": 500.0,
+        "Inv_Line length [km]": 270.0
+    },
+    "1043": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 80.0
+    },
+    "1049": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 220.0,
+        "Inv_Line length [km]": 40.0
+    },
+    "1054": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 500.0,
+        "Inv_Line length [km]": 310.0
+    },
+    "1071": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 300.0,
+        "Inv_Voltage [kV]": 220.0,
+        "Inv_Line length [km]": 35.0
+    },
+    "1038": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1111": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1039": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1076": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1099": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1209": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1217": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1222": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1223": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1228": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "1229": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "123": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 90.0
+    },
+    "1234": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 600.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 171.0
+    },
+    "1235": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 3000.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": NaN
+    },
+    "1239": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 700.0,
+        "Inv_Voltage [kV]": 320.0,
+        "Inv_Line length [km]": 325.0
+    },
+    "124": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 90.0
+    },
+    "1242": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 36.0
+    },
+    "1263": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1264": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Line length [km]": NaN
+    },
+    "1266": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 800.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 85.0
+    },
+    "1267": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": NaN
+    },
+    "127": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 220.0,
+        "Inv_Line length [km]": 30.0
+    },
+    "1274": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 0.0
+    },
+    "1284": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 49.0
+    },
+    "1285": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 1.0
+    },
+    "1286": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 124.0
+    },
+    "1287": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 45.4
+    },
+    "1288": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 87.0
+    },
+    "1289": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1650.0,
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 0.0
+    },
+    "1290": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 220.0
+    },
+    "1291": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 220.0,
+        "Inv_Line length [km]": 17.0
+    },
+    "1297": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0
+    },
+    "130": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 50.0
+    },
+    "133": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 180.0
+    },
+    "134": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 30.0
+    },
+    "1356": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1369": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1379": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0
+    },
+    "1386": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1387": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1500.0,
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1397": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1398": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Line length [km]": 348.0
+    },
+    "1399": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "140": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1400": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation"
+    },
+    "1401": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1402": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1403": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1404": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1405": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 3000.0
+    },
+    "1406": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1408": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1410": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0,
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 1518.0
+    },
+    "1411": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1412": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1413": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1414": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1415": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1416": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1048": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1068": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1112": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1113": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1500.0
+    },
+    "1117": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Voltage [kV]": 330.0
+    },
+    "122": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 120.0
+    },
+    "1220": {
+        "Project_Jurisdiction": "Internal",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "126": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1260": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Capacity [MW]": 1650.0,
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1261": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "129": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 65.0
+    },
+    "1388": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Capacity [MW]": 1000.0
+    },
+    "1389": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1390": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1391": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1392": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Line length [km]": 101.0
+    },
+    "1393": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Line length [km]": 53.0
+    },
+    "1394": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Line length [km]": 41.0
+    },
+    "1395": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1396": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 500.0,
+        "Inv_Line length [km]": 53.0
+    },
+    "1423": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1424": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1425": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1426": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1427": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1435": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1436": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1437": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1800.0,
+        "Inv_Voltage [kV]": 500.0,
+        "Inv_Line length [km]": 1330.0
+    },
+    "1438": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1439": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1440": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1441": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1442": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1443": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1444": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1445": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1446": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1447": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1448": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1449": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1450": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1453": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1454": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable"
+    },
+    "1455": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1456": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1457": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1460": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1475": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1477": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1485": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Environment": "Offshore",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1487": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1492": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Phase Shift Transformer",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1500": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1501": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1510": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1512": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1513": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Environment": "Offshore",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1529": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Phase Shift Transformer",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1530": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1531": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1541": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1542": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line"
+    },
+    "1543": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1545": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal"
+    },
+    "1546": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Capacity [MW]": 2645.0
+    },
+    "1556": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 132.0
+    },
+    "1558": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 80.0
+    },
+    "1560": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1564": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal"
+    },
+    "1567": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal"
+    },
+    "1569": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation"
+    },
+    "1570": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation"
+    },
+    "1613": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Environment": "Offshore",
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1627": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Environment": "Offshore",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "1614": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Voltage [kV]": 500.0
+    },
+    "1615": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Voltage [kV]": 500.0
+    },
+    "1617": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1616": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Voltage [kV]": 500.0
+    },
+    "1619": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Capacity [MW]": 2000.0,
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "1624": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Environment": "Onshore",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1631": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1636": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1633": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Voltage [kV]": 330.0
+    },
+    "1635": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Voltage [kV]": 330.0
+    },
+    "1637": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1639": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 800.0,
+        "Inv_Voltage [kV]": 275.0
+    },
+    "1640": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 750.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1641": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 750.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "1647": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 400.0,
+        "Inv_Voltage [kV]": 245.0
+    },
+    "1648": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 400.0,
+        "Inv_Voltage [kV]": 245.0
+    },
+    "1649": {
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Phase Shift Transformer",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 245.0,
+        "Inv_Capacity [MW]": 400.0
+    },
+    "1673": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1674": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1684": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 35.0
+    },
+    "1685": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 14.0
+    },
+    "1686": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0,
+        "Inv_Line length [km]": 210.0
+    },
+    "1687": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 500.0
+    },
+    "1690": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 500.0
+    },
+    "1694": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 330.0
+    },
+    "1695": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 330.0
+    },
+    "1711": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1712": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1718": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1719": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1721": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1722": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0
+    },
+    "1723": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1724": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "1725": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "1729": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Grid Support Equipment",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Reactive Compensation Device",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1730": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Grid Support Equipment",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Reactive Compensation Device",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1731": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1733": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1734": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "1745": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0,
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1749": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0,
+        "Inv_Voltage [kV]": 400.0
+    },
+    "1746": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0,
+        "Inv_Voltage [kV]": 525.0
+    },
+    "1747": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0,
+        "Inv_Voltage [kV]": 525.0
+    },
+    "1748": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0,
+        "Inv_Voltage [kV]": 525.0
+    },
+    "177": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1871": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Grid Support Equipment",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Phase Shift Transformer",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "195": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "1964": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Capacity [MW]": 3000.0,
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2025": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "2026": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 200.0,
+        "Inv_Voltage [kV]": 320.0
+    },
+    "2027": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2045": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Grid Support Equipment",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Reactive Compensation Device",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2046": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "2047": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2048": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2049": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2050": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2051": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2052": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2053": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2054": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "2076": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2077": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2078": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2079": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "36": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 320.0
+    },
+    "368": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "369": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "503": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "504": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "505": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 320.0
+    },
+    "506": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 320.0
+    },
+    "508": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "509": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "524": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "606": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 380.0
+    },
+    "615": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Grid Support Equipment",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Phase Shift Transformer",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "621": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 500.0,
+        "Inv_Line length [km]": 393.0
+    },
+    "622": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1000.0,
+        "Inv_Voltage [kV]": 500.0
+    },
+    "68": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0,
+        "Inv_Line length [km]": 120.0
+    },
+    "1417": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1418": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1422": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Offshore Hub",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1419": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1421": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1428": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1429": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1420": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC"
+    },
+    "1547": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 500.0
+    },
+    "1650": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 245.0,
+        "Inv_Capacity [MW]": 400.0
+    },
+    "1651": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 245.0
+    },
+    "1654": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 245.0
+    },
+    "1655": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Substation",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Substation",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "2028": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Capacity [MW]": 1000.0
+    },
+    "2029": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Grid Support Equipment",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Phase Shift Transformer",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 220.0
+    },
+    "2031": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 1400.0
+    },
+    "2035": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Grid Support Equipment",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Reactive Compensation Device",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2055": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "2056": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "2058": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0,
+        "Inv_Capacity [MW]": 1200.0
+    },
+    "2059": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0,
+        "Inv_Capacity [MW]": 1500.0
+    },
+    "2064": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0,
+        "Inv_Capacity [MW]": 1500.0
+    },
+    "2062": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2063": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2066": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2067": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Underground Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0
+    },
+    "2069": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Capacity [MW]": 2000.0
+    },
+    "2070": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 400.0
+    },
+    "2071": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC",
+        "Inv_Voltage [kV]": 330.0
+    },
+    "2074": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0,
+        "Inv_Capacity [MW]": 1000.0
+    },
+    "2075": {
+        "Infr_Type": "New",
+        "Project_Jurisdiction": "Cross-border",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Offshore",
+        "Inv_Element type": "Subsea Cable",
+        "Inv_Technology[AC/DC]": "DC",
+        "Inv_Voltage [kV]": 525.0,
+        "Inv_Capacity [MW]": 1800.0
+    },
+    "2080": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2081": {
+        "Infr_Type": "Upgrade (New)",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2082": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2083": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2084": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    },
+    "2085": {
+        "Infr_Type": "Upgrade",
+        "Project_Jurisdiction": "Internal",
+        "Inv_Element_Category": "Cable/Line",
+        "Inv_Environment": "Onshore",
+        "Inv_Element type": "Overhead Line",
+        "Inv_Technology[AC/DC]": "AC"
+    }
+}

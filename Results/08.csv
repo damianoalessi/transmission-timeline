@@ -1,0 +1,1332 @@
+Inv_index,Tstart,Tstop,from,to,Inv_Line_Length_km,Inv_Technology,Capacity_MW,Voltage_kV,Inv_Element type,Project_Country_ISO3,Project_N_Countries,Project_Region,Project_Jurisdiction,Infr_Type,Inv_Element_Category,Inv_Environment,Covid19,NewDirective
+1,2010.0,2013.0,3,4,66.5,AC,1650.0,400.0,Overhead Line,PRT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1,2013.0,2016.0,4,5,66.5,AC,1650.0,400.0,Overhead Line,PRT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+2,2010.0,2016.0,2,3,67.0,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+2,2016.0,2018.0,3,2,67.0,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+2,2018.0,2024.0,2,6,67.0,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+3,2010.0,2015.0,3,4,37.6,AC,680.0,400.0,Overhead Line,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+3,2015.0,2018.0,4,5,37.6,AC,680.0,400.0,Overhead Line,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+4,2014.0,2022.0,3,4,138.58,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+4,2022.0,2026.0,4,4,138.58,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+8,2014.0,2018.0,3,6,108.0,AC,1780.0,400.0,Overhead Line,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+9,2014.0,2018.0,3,5,99.0,AC,450.0,400.0,Overhead Line,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+18,2014.0,2026.0,3,4,30.0,AC,0.0,400.0,ACTransmissionLine,ESP;PRT,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+31,2010.0,2014.0,3,1,177.0,AC,2060.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+31,2014.0,2020.0,1,6,177.0,AC,2060.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+36,2010.0,2012.0,3,4,,DC,,320.0,Underground Cable,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+36,2012.0,2013.0,4,3,,DC,,320.0,Underground Cable,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+36,2013.0,2014.0,3,4,,DC,,320.0,Underground Cable,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+36,2014.0,2015.0,4,5,,DC,,320.0,Underground Cable,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+38,2012.0,2013.0,1,2,394.0,DC,2000.0,400.0,OffshoreDCTransmissionCable,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+38,2013.0,2018.0,2,3,394.0,DC,2000.0,400.0,OffshoreDCTransmissionCable,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+38,2018.0,2024.0,3,4,394.0,DC,2000.0,400.0,OffshoreDCTransmissionCable,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+38,2024.0,2026.0,4,4,394.0,DC,2000.0,400.0,OffshoreDCTransmissionCable,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+55,2010.0,2014.0,3,4,190.0,DC,1200.0,320.0,Underground Cable,FRA;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+55,2014.0,2020.0,4,5,190.0,DC,1200.0,320.0,Underground Cable,FRA;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+57,2014.0,2018.0,2,5,20.0,AC,500.0,220.0,Overhead Line,CHE;FRA,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+60,2010.0,2014.0,1,2,80.0,AC,1000.0,400.0,ACTransmissionLine,BEL;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+60,2014.0,2015.0,2,3,80.0,AC,1000.0,400.0,ACTransmissionLine,BEL;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+60,2015.0,2020.0,3,4,80.0,AC,1000.0,400.0,ACTransmissionLine,BEL;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+60,2020.0,2022.0,4,5,80.0,AC,1000.0,400.0,ACTransmissionLine,BEL;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+62,2013.0,2014.0,1,3,250.0,DC,1000.0,320.0,Subsea Cable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+62,2014.0,2018.0,3,4,250.0,DC,1000.0,320.0,Subsea Cable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+62,2018.0,2020.0,4,5,250.0,DC,1000.0,320.0,Subsea Cable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,1
+63,2010.0,2018.0,2,6,140.0,AC,800.0,400.0,Overhead Line,AUT;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+68,2014.0,2015.0,2,1,120.0,AC,,400.0,Overhead Line,ITA;SVN,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+68,2015.0,2016.0,1,6,120.0,AC,,400.0,Overhead Line,ITA;SVN,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+70,2014.0,2020.0,4,5,475.0,DC,1200.0,500.0,Subsea Cable,ITA;MNE,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+75,2010.0,2016.0,4,5,,,,,,ITA,1.0,EU,Internal,,,,0,0
+86,2010.0,2026.0,3,3,178.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+90,2010.0,2022.0,3,4,80.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+90,2022.0,2026.0,4,4,80.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+91,2010.0,2012.0,3,4,85.0,AC,250.0,400.0,Overhead Line,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+91,2012.0,2015.0,4,5,85.0,AC,250.0,400.0,Overhead Line,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+92,2010.0,2013.0,3,4,,,,,,ITA,1.0,EU,Internal,,,,0,0
+92,2013.0,2016.0,4,5,,,,,,ITA,1.0,EU,Internal,,,,0,0
+96,2010.0,2020.0,3,4,30.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+96,2020.0,2022.0,4,5,30.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+121,2010.0,2016.0,3,6,,,,,,CHE,1.0,Extra-EU,Internal,,,,0,0
+122,2010.0,2016.0,3,6,120.0,AC,,400.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+123,2010.0,2016.0,2,6,90.0,AC,1500.0,400.0,Overhead Line,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+124,2010.0,2015.0,1,6,90.0,AC,1500.0,400.0,Overhead Line,CHE,1.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+125,2010.0,2013.0,3,4,,,,,,CHE,1.0,Extra-EU,Internal,,,,0,0
+125,2013.0,2016.0,4,5,,,,,,CHE,1.0,Extra-EU,Internal,,,,0,0
+126,2010.0,2016.0,1,6,,AC,,400.0,Underground Cable,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+127,2010.0,2016.0,1,6,30.0,AC,500.0,220.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+128,2010.0,2016.0,3,6,,,,,,CHE,1.0,Extra-EU,Internal,,,,0,0
+129,2010.0,2016.0,3,6,65.0,AC,,400.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+130,2010.0,2016.0,2,6,50.0,AC,1500.0,400.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+133,2010.0,2016.0,1,6,180.0,AC,1500.0,400.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+134,2010.0,2016.0,3,6,30.0,AC,1500.0,400.0,Overhead Line,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+136,2014.0,2015.0,2,1,45.0,AC,1200.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+136,2015.0,2015.1,1,2,45.0,AC,1200.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+136,2015.1,2015.1999999999998,2,1,45.0,AC,1200.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+136,2015.2,2015.3,1,2,45.0,AC,1200.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+136,2015.3,2016.0,2,1,45.0,AC,1200.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+136,2016.0,2018.0,1,6,45.0,AC,1200.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+139,2010.0,2015.0,3,4,26.0,AC,1200.0,400.0,Overhead Line,DEU;POL,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+139,2015.0,2020.0,4,5,26.0,AC,1200.0,400.0,Overhead Line,DEU;POL,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+140,2014.0,2015.0,2,1,,AC,,400.0,Overhead Line,DEU;POL,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+140,2015.0,2016.0,1,6,,AC,,400.0,Overhead Line,DEU;POL,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+141,2014.0,2016.0,3,4,24.0,AC,400.0,150.0,OffshoreACTransmissionCable,DEU;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+141,2016.0,2022.0,4,5,24.0,AC,400.0,150.0,OffshoreACTransmissionCable,DEU;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,0
+142,2012.0,2016.0,3,4,623.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,DEU;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+142,2016.0,2022.0,4,5,623.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,DEU;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,0
+144,2012.0,2013.0,1,2,110.0,AC,720.0,380.0,ACTransmissionLine,DEU;DNK,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+144,2013.0,2016.0,2,3,110.0,AC,720.0,380.0,ACTransmissionLine,DEU;DNK,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+144,2016.0,2018.0,3,4,110.0,AC,720.0,380.0,ACTransmissionLine,DEU;DNK,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+144,2018.0,2022.0,4,5,110.0,AC,720.0,380.0,ACTransmissionLine,DEU;DNK,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+145,2010.0,2016.0,3,4,57.0,AC,1500.0,380.0,Overhead Line,DEU;NLD,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+145,2016.0,2020.0,4,5,57.0,AC,1500.0,380.0,Overhead Line,DEU;NLD,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+146,2014.0,2020.0,3,4,90.0,DC,1000.0,320.0,DCTransmissionLine,BEL;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+146,2020.0,2022.0,4,5,90.0,DC,1000.0,320.0,DCTransmissionLine,BEL;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+147,2010.0,2014.0,3,4,43.0,AC,2008.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+147,2014.0,2020.0,4,5,43.0,AC,2008.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+148,2010.0,2012.0,2,3,65.0,AC,2410.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+148,2012.0,2015.0,3,4,65.0,AC,2410.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+148,2015.0,2020.0,4,5,65.0,AC,2410.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+149,2010.0,2020.0,3,6,14.0,AC,3749.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+150,2010.0,2020.0,3,5,35.0,AC,3668.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+151,2010.0,2020.0,3,4,95.0,AC,3538.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+151,2020.0,2022.0,4,6,95.0,AC,3538.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+153,2010.0,2016.0,3,5,97.0,AC,2473.0,380.0,Overhead Line,DEU,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+156,2010.0,2020.0,3,4,182.0,AC,988.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+156,2020.0,2022.0,4,6,182.0,AC,988.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+157,2010.0,2020.0,3,6,210.0,AC,2264.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+160,2010.0,2013.0,3,4,32.0,AC,111.0,154.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+160,2013.0,2018.0,4,5,32.0,AC,111.0,154.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+163,2010.0,2012.0,3,4,133.0,DC,576.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+163,2012.0,2015.0,4,5,133.0,DC,576.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+164,2010.0,2012.0,3,4,206.0,DC,864.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+164,2012.0,2016.0,4,5,206.0,DC,864.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+165,2010.0,2012.0,3,4,167.0,DC,800.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+165,2012.0,2016.0,4,5,167.0,DC,800.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+167,2010.0,2012.0,3,4,205.0,DC,800.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+167,2012.0,2015.0,4,5,205.0,DC,800.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+176,2012.0,2015.0,1,2,120.0,AC,754.0,380.0,Overhead Line,DEU,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+176,2015.0,2020.0,2,6,120.0,AC,754.0,380.0,Overhead Line,DEU,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+177,2013.0,2015.0,3,6,,AC,,,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+179,2010.0,2020.0,4,5,94.0,AC,900.0,400.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+188,2010.0,2013.0,2,3,110.0,AC,774.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+188,2013.0,2020.0,3,6,110.0,AC,774.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+193,2010.0,2012.0,4,3,92.0,AC,3583.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+193,2012.0,2015.0,3,4,92.0,AC,3583.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+193,2015.0,2018.0,4,5,92.0,AC,3583.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+194,2014.0,2015.0,3,4,115.0,AC,750.0,220.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+194,2015.0,2020.0,4,5,115.0,AC,750.0,220.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+195,2014.0,2016.0,3,6,,AC,,,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+200,2016.0,2018.0,3,6,195.0,AC,0.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+208,2012.0,2016.0,2,6,,,,,,DEU,1.0,EU,Internal,,,,0,0
+211,2014.0,2018.0,1,2,190.0,DC,900.0,320.0,Subsea Cable,,,Unknown,Internal,New,Cable/Line,Offshore,0,0
+211,2018.0,2020.0,2,6,190.0,DC,900.0,320.0,Subsea Cable,,,Unknown,Internal,New,Cable/Line,Offshore,0,1
+212,2012.0,2018.0,3,6,90.0,AC,2320.0,400.0,Overhead Line,AUT;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+214,2012.0,2014.0,1,2,110.0,AC,1000.0,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+214,2014.0,2015.0,2,6,110.0,AC,1000.0,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+214,2016.0,2018.0,2,6,110.0,AC,1000.0,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+216,2013.0,2018.0,3,6,128.0,AC,1740.0,400.0,Overhead Line,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+218,2010.0,2015.0,1,2,190.0,AC,320.0,400.0,Overhead Line,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+218,2015.0,2018.0,2,6,190.0,AC,320.0,400.0,Overhead Line,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+219,2010.0,2012.0,1,4,105.0,AC,470.0,380.0,Overhead Line,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+219,2012.0,2013.0,4,2,105.0,AC,470.0,380.0,Overhead Line,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+219,2013.0,2020.0,2,6,105.0,AC,470.0,380.0,Overhead Line,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+223,2014.0,2018.0,3,6,80.0,AC,1085.0,400.0,Overhead Line,HRV;SVN,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+225,2010.0,2013.0,2,3,193.0,AC,800.0,400.0,Overhead Line,SVN,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+225,2013.0,2018.0,3,6,193.0,AC,800.0,400.0,Overhead Line,SVN,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+227,2012.0,2018.0,1,6,155.0,AC,504.0,400.0,Overhead Line,BIH;HRV,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+235,2012.0,2014.0,3,4,242.0,AC,160.0,400.0,Overhead Line,ALB;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+235,2014.0,2016.0,4,5,242.0,AC,160.0,400.0,Overhead Line,ALB;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+236,2014.0,2016.0,4,5,170.0,AC,620.0,400.0,Overhead Line,MKD;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+238,2010.0,2015.0,3,4,131.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+238,2015.0,2022.0,4,5,131.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+238,2024.0,2026.0,4,5,131.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+239,2010.0,2012.0,1,2,151.0,AC,160.0,400.0,Overhead Line,ALB;MKD,2.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+239,2012.0,2013.0,2,3,151.0,AC,160.0,400.0,Overhead Line,ALB;MKD,2.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+239,2013.0,2018.0,3,6,151.0,AC,160.0,400.0,Overhead Line,ALB;MKD,2.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+244,2010.0,2012.0,3,4,110.0,AC,301.0,400.0,Overhead Line,GRC,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+244,2012.0,2013.0,4,3,110.0,AC,301.0,400.0,Overhead Line,GRC,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+244,2013.0,2016.0,3,4,110.0,AC,301.0,400.0,Overhead Line,GRC,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+244,2016.0,2018.0,4,5,110.0,AC,301.0,400.0,Overhead Line,GRC,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+256,2012.0,2022.0,3,4,153.0,AC,0.0,400.0,ACTransmissionLine,BGR;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+256,2022.0,2024.0,4,5,153.0,AC,0.0,400.0,ACTransmissionLine,BGR;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+257,2012.0,2022.0,3,5,94.0,AC,0.0,400.0,ACTransmissionLine,BGR;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+258,2012.0,2020.0,3,4,13.0,AC,0.0,400.0,ACTransmissionLine,BGR;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+258,2020.0,2022.0,4,5,13.0,AC,0.0,400.0,ACTransmissionLine,BGR;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+262,2012.0,2020.0,3,4,145.0,AC,0.0,400.0,ACTransmissionLine,BGR;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+262,2020.0,2022.0,4,5,145.0,AC,0.0,400.0,ACTransmissionLine,BGR;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+265,2012.0,2015.0,2,6,,,,,,BGR,1.0,EU,Internal,,,,0,0
+269,2010.0,2016.0,3,4,116.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+269,2016.0,2026.0,4,5,116.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+270,2010.0,2026.0,3,4,166.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+273,2012.0,2013.0,2,3,159.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,0,0
+273,2013.0,2020.0,3,4,159.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,0,0
+273,2020.0,2024.0,4,5,159.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,1,1
+275,2010.0,2012.0,3,2,140.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,0,0
+275,2012.0,2013.0,2,3,140.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,0,0
+275,2013.0,2022.0,3,4,140.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,1,0
+275,2022.0,2026.0,4,4,140.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,1,1
+276,2010.0,2013.0,2,3,260.0,AC,165.0,400.0,Overhead Line,ROU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+276,2013.0,2018.0,3,6,260.0,AC,165.0,400.0,Overhead Line,ROU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+302,2010.0,2012.0,2,3,98.0,AC,1000.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+302,2012.0,2015.0,3,4,98.0,AC,1000.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+302,2015.0,2018.0,4,5,98.0,AC,1000.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+303,2010.0,2013.0,2,3,54.0,AC,350.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+303,2013.0,2018.0,3,5,54.0,AC,350.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+304,2010.0,2013.0,2,3,73.0,AC,750.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+304,2013.0,2018.0,3,6,73.0,AC,750.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+306,2014.0,2020.0,3,6,,AC,500.0,400.0,Substation,CZE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+307,2014.0,2015.0,3,4,,,500.0,400.0,Substation,CZE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+307,2015.0,2018.0,4,5,,,500.0,400.0,Substation,CZE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+308,2010.0,2012.0,1,2,83.0,AC,0.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+308,2012.0,2013.0,2,3,83.0,AC,0.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+308,2013.0,2024.0,3,4,83.0,AC,0.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+308,2024.0,2026.0,4,5,83.0,AC,0.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+309,2010.0,2012.0,2,1,87.0,AC,500.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+309,2012.0,2013.0,1,3,87.0,AC,500.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+309,2013.0,2020.0,3,4,87.0,AC,500.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+309,2020.0,2022.0,4,5,87.0,AC,500.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+311,2014.0,2018.0,3,4,,AC,500.0,400.0,Substation,CZE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+311,2018.0,2020.0,4,6,,AC,500.0,400.0,Substation,CZE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,1
+312,2014.0,2020.0,3,6,,AC,300.0,400.0,Substation,CZE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+313,2010.0,2013.0,2,3,120.5,AC,0.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+313,2013.0,2026.0,3,3,120.5,AC,0.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+314,2010.0,2013.0,2,3,27.0,AC,200.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+314,2013.0,2020.0,3,5,27.0,AC,200.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+315,2010.0,2013.0,2,3,117.0,AC,0.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+315,2013.0,2026.0,3,3,117.0,AC,0.0,400.0,ACTransmissionLine,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+316,2010.0,2012.0,2,1,89.0,AC,100.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+316,2012.0,2013.0,1,3,89.0,AC,100.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+316,2013.0,2018.0,3,6,89.0,AC,100.0,400.0,Overhead Line,CZE,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+335,2010.0,2018.0,3,5,138.0,AC,500.0,400.0,Overhead Line,POL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+353,2010.0,2018.0,2,3,70.0,AC,0.0,400.0,ACTransmissionLine,POL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+353,2018.0,2022.0,3,4,70.0,AC,0.0,400.0,ACTransmissionLine,POL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+353,2022.0,2024.0,4,5,70.0,AC,0.0,400.0,ACTransmissionLine,POL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+355,2010.0,2020.0,2,3,108.0,AC,0.0,400.0,ACTransmissionLine,POL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+355,2020.0,2024.0,3,5,108.0,AC,0.0,400.0,ACTransmissionLine,POL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+368,2014.0,2016.0,4,5,,AC,,400.0,Overhead Line,POL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+369,2010.0,2013.0,3,4,,AC,,400.0,Overhead Line,POL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+369,2013.0,2016.0,4,5,,AC,,400.0,Overhead Line,POL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+370,2012.0,2014.0,3,4,,,,,,POL,1.0,EU,Internal,,,,0,0
+370,2014.0,2016.0,4,5,,,,,,POL,1.0,EU,Internal,,,,0,0
+371,2014.0,2015.0,4,5,,,,,,POL,1.0,EU,Internal,,,,0,0
+373,2010.0,2018.0,3,2,108.0,AC,0.0,400.0,ACTransmissionLine,LTU;POL,2.0,EU,Internal,New,Cable/Line,Onshore,0,0
+373,2018.0,2020.0,2,4,108.0,AC,0.0,400.0,ACTransmissionLine,LTU;POL,2.0,EU,Internal,New,Cable/Line,Onshore,0,1
+373,2020.0,2024.0,4,5,108.0,AC,0.0,400.0,ACTransmissionLine,LTU;POL,2.0,EU,Internal,New,Cable/Line,Onshore,1,1
+374,2010.0,2018.0,3,6,90.0,AC,300.0,400.0,Overhead Line,POL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+376,2014.0,2016.0,4,5,,,,,,LTU,1.0,EU,Internal,,,,0,0
+377,2010.0,2012.0,3,4,,,,,,LTU,1.0,EU,Internal,,,,0,0
+377,2012.0,2016.0,4,5,,,,,,LTU,1.0,EU,Internal,,,,0,0
+378,2010.0,2020.0,2,6,80.0,AC,150.0,330.0,Overhead Line,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+379,2010.0,2013.0,2,3,,,,,,LTU,1.0,EU,Internal,,,,0,0
+379,2013.0,2016.0,3,5,,,,,,LTU,1.0,EU,Internal,,,,0,0
+380,2010.0,2013.0,2,1,200.0,AC,150.0,330.0,Overhead Line,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+380,2013.0,2018.0,1,6,200.0,AC,150.0,330.0,Overhead Line,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+382,2010.0,2020.0,2,3,80.7,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+382,2020.0,2024.0,3,4,80.7,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+382,2024.0,2026.0,4,4,80.7,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+383,2010.0,2013.0,3,4,,,,,,LTU;SWE,2.0,EU,Cross-border,,,,0,0
+383,2013.0,2016.0,4,5,,,,,,LTU;SWE,2.0,EU,Cross-border,,,,0,0
+385,2010.0,2012.0,2,3,380.0,AC,150.0,330.0,Overhead Line,LVA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+385,2012.0,2013.0,3,4,380.0,AC,150.0,330.0,Overhead Line,LVA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+385,2013.0,2020.0,4,5,380.0,AC,150.0,330.0,Overhead Line,LVA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+386,2012.0,2016.0,2,3,205.0,AC,500.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+386,2016.0,2018.0,3,4,205.0,AC,500.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+386,2018.0,2022.0,4,5,205.0,AC,500.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+396,2012.0,2018.0,1,3,226.0,AC,0.0,400.0,ACTransmissionLine,FIN;SWE,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+396,2018.0,2026.0,3,5,226.0,AC,0.0,400.0,ACTransmissionLine,FIN;SWE,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+399,2015.0,2016.0,1,6,,,,,,SWE,1.0,EU,Internal,,,,0,0
+403,2014.0,2020.0,1,2,1200.0,AC,0.0,400.0,ReactiveCompensationDevice,SWE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+403,2020.0,2026.0,2,6,1200.0,AC,0.0,400.0,ReactiveCompensationDevice,SWE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+406,2012.0,2016.0,3,4,400.0,AC,1000.0,400.0,Overhead Line,NOR,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+406,2016.0,2020.0,4,5,400.0,AC,1000.0,400.0,Overhead Line,NOR,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+424,2014.0,2016.0,3,4,720.0,DC,0.0,500.0,OffshoreDCTransmissionCable,GBR;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+424,2016.0,2022.0,4,5,720.0,DC,0.0,500.0,OffshoreDCTransmissionCable,GBR;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,0
+427,2010.0,2016.0,3,4,350.0,DC,700.0,400.0,Subsea Cable,DNK;NLD,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+427,2016.0,2020.0,4,5,350.0,DC,700.0,400.0,Subsea Cable,DNK;NLD,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+436,2012.0,2013.0,1,6,74.0,AC,1360.0,400.0,Underground Cable,DNK,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+436,2014.0,2015.0,1,6,74.0,AC,1360.0,400.0,Underground Cable,DNK,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+436,2016.0,2018.0,2,6,74.0,AC,1360.0,400.0,Underground Cable,DNK,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+438,2010.0,2018.0,3,6,175.0,AC,125.0,380.0,Overhead Line,NLD,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+439,2014.0,2018.0,3,6,100.0,AC,125.0,380.0,Overhead Line,NLD,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+440,2010.0,2018.0,4,6,65.0,AC,125.0,380.0,Overhead Line,NLD,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+441,2014.0,2015.0,4,2,300.0,AC,125.0,380.0,Overhead Line,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+441,2015.0,2018.0,2,6,300.0,AC,125.0,380.0,Overhead Line,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+442,2016.0,2018.0,3,6,150.0,AC,100.0,400.0,Overhead Line,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+443,2012.0,2013.0,2,3,140.0,DC,1000.0,400.0,Subsea Cable,BEL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+443,2013.0,2016.0,3,4,140.0,DC,1000.0,400.0,Subsea Cable,BEL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+443,2016.0,2020.0,4,5,140.0,DC,1000.0,400.0,Subsea Cable,BEL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+444,2010.0,2015.0,3,4,50.0,AC,3000.0,380.0,Overhead Line,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+444,2015.0,2018.0,4,5,50.0,AC,3000.0,380.0,Overhead Line,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+445,2010.0,2018.0,3,4,18.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+445,2018.0,2022.0,4,5,18.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+446,2014.0,2016.0,4,5,,,,,,LUX,1.0,EU,Internal,,,,0,0
+447,2010.0,2015.0,3,4,20.0,AC,700.0,220.0,Overhead Line,LUX,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+447,2015.0,2018.0,4,5,20.0,AC,700.0,220.0,Overhead Line,LUX,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+449,2012.0,2015.0,2,3,20.0,AC,1000.0,400.0,Overhead Line,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+449,2015.0,2020.0,3,5,20.0,AC,1000.0,400.0,Overhead Line,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+450,2012.0,2013.0,2,3,26.0,AC,400.0,400.0,Overhead Line,GBR,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+450,2013.0,2015.0,3,4,26.0,AC,400.0,400.0,Overhead Line,GBR,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+450,2015.0,2020.0,4,5,26.0,AC,400.0,400.0,Overhead Line,GBR,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+452,2012.0,2015.0,3,4,360.0,DC,2400.0,500.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+452,2015.0,2020.0,4,5,360.0,DC,2400.0,500.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+453,2012.0,2014.0,2,1,365.0,DC,2000.0,500.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+453,2014.0,2018.0,1,6,365.0,DC,2000.0,500.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+458,2012.0,2022.0,3,6,60.0,AC,3200.0,400.0,ACTransmissionLine,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,1,0
+462,2012.0,2026.0,3,4,138.0,AC,0.0,400.0,ACTransmissionLine,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+463,2012.0,2013.0,1,2,83.0,AC,500.0,220.0,ACTransmissionLine,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+463,2013.0,2022.0,2,6,83.0,AC,500.0,220.0,ACTransmissionLine,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+474,2014.0,2022.0,3,5,0.0,AC,0.0,400.0,OnshoreSubstation,PRT,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,0
+476,2010.0,2018.0,3,6,121.7,AC,600.0,220.0,Overhead Line,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+478,2014.0,2018.0,3,6,15.0,AC,1780.0,400.0,Overhead Line,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+481,2014.0,2018.0,3,6,,,1780.0,400.0,Substation,PRT,1.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,0,0
+484,2014.0,2018.0,3,5,,,450.0,400.0,Substation,PRT,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+496,2014.0,2026.0,3,4,94.71,AC,0.0,400.0,ACTransmissionLine,ESP;PRT,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+497,2014.0,2015.0,3,4,26.0,AC,1000.0,400.0,Overhead Line,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+497,2015.0,2016.0,4,5,26.0,AC,1000.0,400.0,Overhead Line,PRT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+498,2014.0,2026.0,3,5,0.0,AC,0.0,400.0,Transformer,ESP;PRT,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,0
+499,2014.0,2026.0,3,5,0.0,AC,0.0,400.0,OnshoreSubstation,ESP;PRT,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,0
+500,2014.0,2026.0,3,4,0.0,AC,0.0,400.0,OnshoreSubstation,ESP;PRT,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,0
+501,2014.0,2015.0,3,4,,,1000.0,400.0,Substation,PRT,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+501,2015.0,2016.0,4,5,,,1000.0,400.0,Substation,PRT,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+503,2015.0,2016.0,3,6,,AC,,220.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+504,2015.0,2016.0,3,6,,AC,,,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+505,2014.0,2015.0,4,5,,DC,,320.0,Substation,ESP,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+506,2014.0,2015.0,4,5,,DC,,320.0,Substation,FRA,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+508,2014.0,2016.0,3,5,,AC,,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+509,2014.0,2015.0,4,5,,AC,,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+522,2014.0,2015.0,1,2,,,1220.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+522,2015.0,2018.0,2,6,,,1220.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+523,2014.0,2015.0,1,2,,,1220.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+523,2015.0,2018.0,2,6,,,1220.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+524,2014.0,2016.0,1,6,,AC,,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+537,2014.0,2015.0,3,4,,,1420.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+537,2015.0,2016.0,4,5,,,1420.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+538,2014.0,2020.0,3,5,78.0,AC,1420.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+545,2012.0,2014.0,3,1,125.0,AC,200.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+545,2014.0,2018.0,1,6,125.0,AC,200.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+546,2014.0,2018.0,1,6,,,200.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+547,2014.0,2018.0,1,6,,,200.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+561,2014.0,2020.0,1,6,,AC,1320.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+569,2014.0,2020.0,1,6,,AC,2060.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+570,2014.0,2020.0,1,6,,AC,2060.0,400.0,Substation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+594,2014.0,2015.0,2,3,,,500.0,220.0,Phase Shift Transformer,ESP,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+594,2015.0,2018.0,3,5,,,500.0,220.0,Phase Shift Transformer,ESP,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+597,2014.0,2015.0,1,2,175.0,AC,3500.0,400.0,Overhead Line,FRA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+597,2015.0,2018.0,2,6,175.0,AC,3500.0,400.0,Overhead Line,FRA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+604,2010.0,2022.0,3,4,19.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+604,2022.0,2026.0,4,5,19.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+605,2014.0,2018.0,3,4,0.0,AC,0.0,380.0,OnshoreSubstation,BEL,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+605,2018.0,2022.0,4,5,0.0,AC,0.0,380.0,OnshoreSubstation,BEL,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+606,2014.0,2016.0,4,5,,AC,,380.0,Overhead Line,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+607,2014.0,2016.0,4,5,,,,,,BEL,1.0,EU,Internal,,,,0,0
+608,2014.0,2018.0,3,4,50.0,AC,1500.0,380.0,Overhead Line,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+608,2018.0,2020.0,4,5,50.0,AC,1500.0,380.0,Overhead Line,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,1
+609,2014.0,2018.0,4,5,,,1000.0,380.0,Phase Shift Transformer,BEL,1.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,0,0
+614,2014.0,2020.0,3,4,26.0,AC,0.0,220.0,ACTransmissionLine,AUT;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+614,2020.0,2024.0,4,5,26.0,AC,0.0,220.0,ACTransmissionLine,AUT;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+615,2014.0,2015.0,2,1,,AC,,400.0,Phase Shift Transformer,SVN,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+615,2015.0,2016.0,1,6,,AC,,400.0,Phase Shift Transformer,SVN,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+616,2012.0,2015.0,1,3,100.0,DC,1000.0,500.0,DCTransmissionLine,ITA;SVN,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+616,2015.0,2022.0,3,1,100.0,DC,1000.0,500.0,DCTransmissionLine,ITA;SVN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+616,2022.0,2026.0,1,1,100.0,DC,1000.0,500.0,DCTransmissionLine,ITA;SVN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+617,2012.0,2016.0,2,1,55.0,AC,215.0,400.0,Overhead Line,HRV,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+617,2016.0,2018.0,1,6,55.0,AC,215.0,400.0,Overhead Line,HRV,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+618,2012.0,2016.0,2,1,60.0,AC,215.0,400.0,Overhead Line,HRV,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+618,2016.0,2018.0,1,6,60.0,AC,215.0,400.0,Overhead Line,HRV,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+619,2014.0,2016.0,2,1,,,215.0,400.0,Substation,HRV,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+619,2016.0,2018.0,1,6,,,215.0,400.0,Substation,HRV,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+620,2014.0,2016.0,2,1,,,215.0,400.0,Substation,HRV,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+620,2016.0,2018.0,1,6,,,215.0,400.0,Substation,HRV,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+621,2014.0,2016.0,4,6,393.0,DC,1000.0,500.0,Substation,ITA,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+622,2014.0,2016.0,4,6,,DC,1000.0,500.0,Substation,MNE,1.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+624,2014.0,2015.0,3,4,,AC,1000.0,400.0,Substation,MNE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+624,2015.0,2020.0,4,5,,AC,1000.0,400.0,Substation,MNE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+625,2012.0,2015.0,3,4,160.0,AC,1095.0,400.0,Overhead Line,MNE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+625,2015.0,2018.0,4,5,160.0,AC,1095.0,400.0,Overhead Line,MNE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+627,2012.0,2015.0,2,3,45.2,AC,0.0,400.0,ACTransmissionLine,BIH;MNE;SRB,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+627,2015.0,2026.0,3,3,45.2,AC,0.0,400.0,ACTransmissionLine,BIH;MNE;SRB,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+628,2012.0,2026.0,3,3,109.0,AC,0.0,400.0,ACTransmissionLine,BIH;MNE;SRB,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+630,2012.0,2015.0,2,3,98.4,AC,0.0,400.0,ACTransmissionLine,BIH;MNE;SRB,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+630,2015.0,2026.0,3,3,98.4,AC,0.0,400.0,ACTransmissionLine,BIH;MNE;SRB,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+631,2014.0,2026.0,3,3,0.0,AC,0.0,400.0,OnshoreSubstation,BIH;MNE;SRB,3.0,Extra-EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,0
+633,2012.0,2016.0,2,1,100.0,AC,215.0,400.0,Overhead Line,HRV,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+633,2016.0,2018.0,1,6,100.0,AC,215.0,400.0,Overhead Line,HRV,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+635,2014.0,2016.0,1,2,220.0,DC,600.0,500.0,OffshoreDCTransmissionCable,ITA;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+635,2016.0,2018.0,2,3,220.0,DC,600.0,500.0,OffshoreDCTransmissionCable,ITA;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+635,2018.0,2026.0,3,4,220.0,DC,600.0,500.0,OffshoreDCTransmissionCable,ITA;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+642,2012.0,2013.0,1,3,100.0,AC,1000.0,380.0,Overhead Line,CHE;ITA,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+642,2013.0,2020.0,3,6,100.0,AC,1000.0,380.0,Overhead Line,CHE;ITA,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+645,2012.0,2013.0,4,3,50.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+645,2013.0,2026.0,3,3,50.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+650,2012.0,2026.0,1,6,16.0,AC,0.0,0.0,OnshoreACTransmissionCable,BEL;DEU;LUX,3.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+654,2012.0,2018.0,4,5,138.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+655,2012.0,2013.0,3,4,162.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+655,2013.0,2018.0,4,5,162.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+656,2014.0,2015.0,3,4,160.0,DC,900.0,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+656,2015.0,2020.0,4,5,160.0,DC,900.0,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+657,2012.0,2016.0,4,5,133.0,DC,690.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+658,2012.0,2013.0,1,3,180.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+658,2013.0,2016.0,3,1,180.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+658,2016.0,2018.0,1,6,180.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+659,2012.0,2018.0,1,2,205.0,DC,900.0,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+659,2018.0,2020.0,2,6,205.0,DC,900.0,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+660,2012.0,2013.0,1,2,342.0,DC,2000.0,400.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+660,2013.0,2014.0,2,3,342.0,DC,2000.0,400.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+660,2014.0,2026.0,3,3,342.0,DC,2000.0,400.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+661,2014.0,2020.0,2,3,300.0,DC,2400.0,400.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+661,2020.0,2026.0,3,3,300.0,DC,2400.0,400.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+662,2012.0,2018.0,1,6,380.0,DC,2000.0,400.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+663,2014.0,2018.0,2,6,55.0,AC,3386.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+664,2012.0,2013.0,1,2,1250.0,DC,4000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+664,2013.0,2018.0,2,3,1250.0,DC,4000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+664,2018.0,2026.0,3,3,1250.0,DC,4000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+665,2012.0,2013.0,1,2,539.0,DC,2000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+665,2013.0,2018.0,2,3,539.0,DC,2000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+665,2018.0,2026.0,3,3,539.0,DC,2000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+666,2014.0,2018.0,2,6,60.0,AC,3386.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+667,2014.0,2016.0,2,3,125.0,AC,2014.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+667,2016.0,2020.0,3,4,125.0,AC,2014.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+667,2020.0,2022.0,4,5,125.0,AC,2014.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+675,2012.0,2018.0,1,6,32.0,AC,4068.0,380.0,Overhead Line,DEU,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+676,2012.0,2015.0,1,2,100.0,AC,2849.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+676,2015.0,2018.0,2,3,100.0,AC,2849.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+676,2018.0,2020.0,3,6,100.0,AC,2849.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+677,2012.0,2013.0,1,2,130.0,AC,3749.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+677,2013.0,2016.0,2,3,130.0,AC,3749.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+677,2016.0,2020.0,3,6,130.0,AC,3749.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+680,2012.0,2013.0,1,2,219.0,AC,1833.0,400.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+680,2013.0,2020.0,2,6,219.0,AC,1833.0,400.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+682,2012.0,2013.0,1,2,32.0,AC,1340.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+682,2013.0,2015.0,2,3,32.0,AC,1340.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+682,2015.0,2016.0,3,2,32.0,AC,1340.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+682,2016.0,2020.0,2,6,32.0,AC,1340.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+685,2012.0,2013.0,1,2,130.0,AC,2387.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+685,2013.0,2020.0,2,6,130.0,AC,2387.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+686,2012.0,2015.0,1,2,130.0,AC,2408.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+686,2015.0,2018.0,2,6,130.0,AC,2408.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+687,2012.0,2013.0,1,2,185.0,AC,1218.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+687,2013.0,2016.0,2,3,185.0,AC,1218.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+687,2016.0,2020.0,3,6,185.0,AC,1218.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+688,2012.0,2016.0,1,2,160.0,AC,1902.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+688,2016.0,2020.0,2,6,160.0,AC,1902.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+689,2014.0,2026.0,2,2,157.0,AC,0.0,380.0,ACTransmissionLine,AUT;DEU,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+695,2012.0,2014.0,1,2,48.0,AC,800.0,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+695,2014.0,2015.0,2,3,48.0,AC,800.0,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+695,2015.0,2016.0,3,2,48.0,AC,800.0,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+695,2016.0,2018.0,2,6,48.0,AC,800.0,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+696,2014.0,2018.0,2,3,0.0,AC,800.0,400.0,ReactiveCompensationDevice,HUN;SVK,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+696,2018.0,2020.0,3,4,0.0,AC,800.0,400.0,ReactiveCompensationDevice,HUN;SVK,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+696,2020.0,2022.0,4,5,0.0,AC,800.0,400.0,ReactiveCompensationDevice,HUN;SVK,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+697,2014.0,2018.0,2,3,0.0,AC,800.0,400.0,Transformer,HUN;SVK,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,0,0
+697,2018.0,2020.0,3,4,0.0,AC,800.0,400.0,Transformer,HUN;SVK,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,0,1
+697,2020.0,2022.0,4,5,0.0,AC,800.0,400.0,Transformer,HUN;SVK,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+698,2014.0,2016.0,2,6,,,,,,HUN,1.0,EU,Internal,,,,0,0
+699,2014.0,2016.0,2,6,,,,,,HUN,1.0,EU,Internal,,,,0,0
+701,2014.0,2018.0,3,4,0.0,AC,0.0,0.0,OnshoreSubstation,ROU;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+701,2018.0,2026.0,4,4,0.0,AC,0.0,0.0,OnshoreSubstation,ROU;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+705,2014.0,2022.0,3,4,0.0,AC,0.0,0.0,OnshoreSubstation,ROU;SRB,2.0,Extra-EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,0
+705,2022.0,2026.0,4,4,0.0,AC,0.0,0.0,OnshoreSubstation,ROU;SRB,2.0,Extra-EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+707,2016.0,2018.0,3,6,,,0.0,400.0,Substation,MKD,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+708,2014.0,2016.0,4,5,,,301.0,400.0,Substation,GRC,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+715,2014.0,2016.0,2,3,0.0,AC,0.0,400.0,OnshoreSubstation,BGR;ROU,2.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,0,0
+715,2016.0,2020.0,3,4,0.0,AC,0.0,400.0,OnshoreSubstation,BGR;ROU,2.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,0,0
+715,2020.0,2026.0,4,4,0.0,AC,0.0,400.0,OnshoreSubstation,BGR;ROU,2.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,1
+720,2012.0,2018.0,1,6,40.0,AC,500.0,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+726,2014.0,2015.0,2,1,,,,,,POL,1.0,EU,Internal,,,,0,0
+726,2015.0,2016.0,1,6,,,,,,POL,1.0,EU,Internal,,,,0,0
+727,2014.0,2015.0,2,1,,,,,,POL,1.0,EU,Internal,,,,0,0
+727,2015.0,2016.0,1,6,,,,,,POL,1.0,EU,Internal,,,,0,0
+728,2014.0,2015.0,4,5,,,,,,POL,1.0,EU,Internal,,,,0,0
+729,2014.0,2016.0,4,5,,,,,,POL,1.0,EU,Internal,,,,0,0
+730,2014.0,2015.0,4,5,,,,,,POL,1.0,EU,Internal,,,,0,0
+733,2012.0,2013.0,1,2,160.0,AC,700.0,400.0,ACTransmissionLine,LTU;LVA;SWE,3.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+733,2013.0,2015.0,2,3,160.0,AC,700.0,400.0,ACTransmissionLine,LTU;LVA;SWE,3.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+733,2015.0,2022.0,3,6,160.0,AC,700.0,400.0,ACTransmissionLine,LTU;LVA;SWE,3.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+735,2010.0,2012.0,2,3,175.0,AC,600.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+735,2012.0,2018.0,3,4,175.0,AC,600.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+735,2018.0,2022.0,4,5,175.0,AC,600.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+739,2014.0,2015.0,4,5,,,,,,FIN,1.0,EU,Internal,,,,0,0
+740,2012.0,2013.0,4,3,,,,,,FIN,1.0,EU,Internal,,,,0,0
+740,2013.0,2015.0,3,4,,,,,,FIN,1.0,EU,Internal,,,,0,0
+740,2015.0,2016.0,4,5,,,,,,FIN,1.0,EU,Internal,,,,0,0
+742,2014.0,2020.0,3,4,300.0,AC,1000.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+742,2020.0,2022.0,4,5,300.0,AC,1000.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+747,2012.0,2018.0,3,6,35.0,AC,1950.0,400.0,Overhead Line,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+752,2014.0,2018.0,3,4,50.0,AC,1835.0,220.0,Subsea Cable,BEL,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+752,2018.0,2020.0,4,5,50.0,AC,1835.0,220.0,Subsea Cable,BEL,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+753,2012.0,2015.0,3,6,,,,,,GBR,1.0,Extra-EU,Internal,,,,0,0
+754,2012.0,2015.0,3,4,,,,,,GBR,1.0,Extra-EU,Internal,,,,0,0
+754,2015.0,2016.0,4,6,,,,,,GBR,1.0,Extra-EU,Internal,,,,0,0
+755,2012.0,2014.0,3,4,,,,,,GBR,1.0,Extra-EU,Internal,,,,0,0
+755,2014.0,2016.0,4,6,,,,,,GBR,1.0,Extra-EU,Internal,,,,0,0
+757,2012.0,2015.0,3,4,,,,,,GBR,1.0,Extra-EU,Internal,,,,0,0
+757,2015.0,2016.0,4,6,,,,,,GBR,1.0,Extra-EU,Internal,,,,0,0
+769,2012.0,2015.0,2,1,260.0,DC,2000.0,500.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+769,2015.0,2018.0,1,6,260.0,DC,2000.0,500.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+779,2014.0,2022.0,2,3,126.441,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,0
+779,2022.0,2024.0,3,4,126.441,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+779,2024.0,2026.0,4,5,126.441,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+780,2014.0,2022.0,2,3,0.0,AC,0.0,400.0,OnshoreSubstation,PRT,1.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,0
+780,2022.0,2024.0,3,5,0.0,AC,0.0,400.0,OnshoreSubstation,PRT,1.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,1
+781,2012.0,2018.0,1,6,500.0,AC,3000.0,400.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+782,2012.0,2018.0,1,6,500.0,AC,3000.0,400.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+786,2015.0,2016.0,1,6,,,,,,SWE,1.0,EU,Internal,,,,0,0
+787,2015.0,2016.0,1,6,,,,,,SWE,1.0,EU,Internal,,,,0,0
+788,2015.0,2016.0,1,6,,,,,,SWE,1.0,EU,Internal,,,,0,0
+795,2010.0,2013.0,3,4,,,,,,CHE,1.0,Extra-EU,Internal,,,,0,0
+795,2013.0,2016.0,4,5,,,,,,CHE,1.0,Extra-EU,Internal,,,,0,0
+796,2014.0,2018.0,3,4,,AC,1200.0,400.0,Substation,POL,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+796,2018.0,2020.0,4,5,,AC,1200.0,400.0,Substation,POL,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,1
+799,2014.0,2015.0,3,4,,,300.0,400.0,Phase Shift Transformer,POL,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+799,2015.0,2016.0,4,5,,,300.0,400.0,Phase Shift Transformer,POL,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+800,2012.0,2018.0,2,3,86.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,0,0
+800,2018.0,2020.0,3,4,86.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,0,1
+800,2020.0,2022.0,4,5,86.0,AC,0.0,400.0,ACTransmissionLine,BGR;ROU,2.0,EU,Internal,New,Cable/Line,Onshore,1,1
+801,2012.0,2015.0,1,2,156.0,AC,1000.0,400.0,Overhead Line,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+801,2015.0,2018.0,2,3,156.0,AC,1000.0,400.0,Overhead Line,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+801,2018.0,2020.0,3,6,156.0,AC,1000.0,400.0,Overhead Line,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+806,2015.0,2016.0,1,6,,,,,,SWE,1.0,EU,Internal,,,,0,0
+809,2012.0,2016.0,1,6,,,,,,GBR;IRL,2.0,Extra-EU,Cross-border,,,,0,0
+810,2012.0,2020.0,1,3,575.0,DC,700.0,320.0,OffshoreDCTransmissionCable,FRA;IRL,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+810,2020.0,2024.0,3,4,575.0,DC,700.0,320.0,OffshoreDCTransmissionCable,FRA;IRL,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+810,2024.0,2026.0,4,4,575.0,DC,700.0,320.0,OffshoreDCTransmissionCable,FRA;IRL,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+811,2012.0,2015.0,2,6,,,,,,ROU,1.0,EU,Internal,,,,0,0
+812,2012.0,2015.0,2,6,,,,,,ROU,1.0,EU,Internal,,,,0,0
+813,2014.0,2015.0,2,6,,,,,,ROU,1.0,EU,Internal,,,,0,0
+886,2014.0,2015.0,2,3,60.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+886,2015.0,2020.0,3,4,60.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+886,2020.0,2024.0,4,5,60.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+889,2014.0,2015.0,3,4,,,500.0,400.0,Phase Shift Transformer,CZE,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+889,2015.0,2018.0,4,5,,,500.0,400.0,Phase Shift Transformer,CZE,1.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+894,2014.0,2018.0,1,6,65.0,AC,0.0,380.0,Overhead Line,AUT;ISL;ITA;NLD,4.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+896,2014.0,2022.0,2,6,58.0,AC,500.0,275.0,ACTransmissionLine,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+897,2014.0,2022.0,2,6,61.0,AC,500.0,275.0,ACTransmissionLine,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+912,2016.0,2018.0,1,6,,,0.0,400.0,Substation,ALB;SRB;BGR;GRC;MKD,5.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+914,2014.0,2018.0,3,6,35.0,AC,500.0,380.0,Overhead Line,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+922,2014.0,2018.0,2,6,22.0,AC,300.0,380.0,Overhead Line,ITA,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+923,2014.0,2018.0,2,6,39.0,AC,300.0,380.0,Overhead Line,ITA,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+924,2014.0,2016.0,2,6,,,,,,ITA,1.0,EU,Internal,,,,0,0
+927,2014.0,2020.0,1,6,310.0,AC,1415.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+928,2014.0,2015.0,1,2,184.0,AC,1220.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+928,2015.0,2018.0,2,6,184.0,AC,1220.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+929,2014.0,2020.0,1,6,60.0,AC,1320.0,400.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,0
+932,2014.0,2018.0,3,6,,,1000.0,400.0,Substation,ITA,1.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,0,0
+933,2014.0,2018.0,1,6,100.0,AC,1800.0,380.0,Underground Cable,BEL;ISL,2.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+934,2014.0,2022.0,1,2,140.0,DC,1400.0,1050.0,OffshoreDCTransmissionCable,BEL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,0
+934,2022.0,2026.0,2,2,140.0,DC,1400.0,1050.0,OffshoreDCTransmissionCable,BEL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+935,2014.0,2016.0,1,2,110.0,AC,4482.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+935,2016.0,2020.0,2,6,110.0,AC,4482.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+936,2014.0,2015.0,3,6,,,,,,GRC,1.0,EU,Internal,,,,0,0
+937,2014.0,2016.0,1,6,,,,,,DEU,1.0,EU,Internal,,,,0,0
+939,2014.0,2016.0,2,3,60.0,AC,3336.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+939,2016.0,2020.0,3,4,60.0,AC,3336.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+939,2020.0,2022.0,4,6,60.0,AC,3336.0,380.0,ACTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+940,2014.0,2015.0,1,2,25.0,AC,3336.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+940,2015.0,2020.0,2,6,25.0,AC,3336.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+941,2014.0,2016.0,2,3,,AC,890.0,400.0,Substation,PRT,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+941,2016.0,2020.0,3,6,,AC,890.0,400.0,Substation,PRT,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+943,2014.0,2018.0,1,6,255.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+944,2014.0,2015.0,3,6,,,,,,GRC,1.0,EU,Internal,,,,0,0
+945,2014.0,2016.0,1,6,,,,,,DEU,1.0,EU,Internal,,,,0,0
+946,2014.0,2018.0,1,6,230.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+947,2014.0,2016.0,1,6,,,,,,DEU,1.0,EU,Internal,,,,0,0
+948,2014.0,2018.0,1,6,240.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+949,2014.0,2015.0,2,6,,,,,,GRC,1.0,EU,Internal,,,,0,0
+950,2014.0,2018.0,1,6,330.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+951,2014.0,2016.0,1,6,,,,,,DEU,1.0,EU,Internal,,,,0,0
+952,2014.0,2018.0,1,2,135.0,DC,900.0,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+952,2018.0,2020.0,2,6,135.0,DC,900.0,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+953,2014.0,2018.0,1,4,60.0,DC,900.0,320.0,Subsea Cable,,,Unknown,Internal,New,Cable/Line,Offshore,0,0
+953,2018.0,2020.0,4,6,60.0,DC,900.0,320.0,Subsea Cable,,,Unknown,Internal,New,Cable/Line,Offshore,0,1
+954,2014.0,2018.0,1,2,250.0,DC,900.0,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+954,2018.0,2020.0,2,6,250.0,DC,900.0,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+955,2014.0,2018.0,1,6,255.0,DC,900.0,400.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+956,2014.0,2018.0,1,6,770.0,DC,8000.0,500.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+958,2014.0,2018.0,1,6,770.0,DC,2000.0,500.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+969,2014.0,2018.0,1,6,360.0,DC,4000.0,500.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+970,2014.0,2018.0,1,6,500.0,DC,4000.0,500.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+971,2014.0,2015.0,2,6,,,,,,CYP;GRC,2.0,EU,Cross-border,,,,0,0
+973,2014.0,2015.0,3,6,,,,,,GRC,1.0,EU,Internal,,,,0,0
+979,2014.0,2015.0,3,6,,,,,,GRC,1.0,EU,Internal,,,,0,0
+984,2014.0,2018.0,2,6,115.0,AC,400.0,380.0,Overhead Line,DEU,1.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+985,2014.0,2016.0,2,3,62.0,AC,400.0,380.0,Overhead Line,DEU,1.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+985,2016.0,2018.0,3,6,62.0,AC,400.0,380.0,Overhead Line,DEU,1.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+986,2014.0,2018.0,2,6,94.0,AC,2000.0,380.0,Overhead Line,AUT;DEU,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+987,2014.0,2015.0,2,3,220.0,DC,1250.0,320.0,OffshoreDCTransmissionCable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+987,2015.0,2026.0,3,3,220.0,DC,1250.0,320.0,OffshoreDCTransmissionCable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,0
+988,2014.0,2015.0,1,2,,,,,,DEU;FRA,2.0,EU,Cross-border,,,,0,0
+988,2015.0,2016.0,2,6,,,,,,DEU;FRA,2.0,EU,Cross-border,,,,0,0
+989,2014.0,2015.0,1,2,,,,,,AUT;BEL;DEU;FRA,4.0,EU,Cross-border,,,,0,0
+989,2015.0,2016.0,2,6,,,,,,AUT;BEL;DEU;FRA,4.0,EU,Cross-border,,,,0,0
+990,2014.0,2020.0,2,6,158.0,AC,4310.0,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+992,2014.0,2015.0,2,3,,,1200.0,380.0,Phase Shift Transformer,DEU,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+992,2015.0,2018.0,3,5,,,1200.0,380.0,Phase Shift Transformer,DEU,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+995,2014.0,2016.0,1,2,300.0,DC,700.0,300.0,OffshoreDCTransmissionCable,DEU;SWE,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+995,2016.0,2018.0,2,3,300.0,DC,700.0,300.0,OffshoreDCTransmissionCable,DEU;SWE,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+995,2018.0,2026.0,3,1,300.0,DC,700.0,300.0,OffshoreDCTransmissionCable,DEU;SWE,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+996,2015.0,2016.0,2,6,,,,,,DEU,1.0,EU,Internal,,,,0,0
+997,2014.0,2016.0,1,2,60.0,AC,0.0,380.0,ACTransmissionLine,AUT;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+997,2016.0,2018.0,2,3,60.0,AC,0.0,380.0,ACTransmissionLine,AUT;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+997,2018.0,2026.0,3,3,60.0,AC,0.0,380.0,ACTransmissionLine,AUT;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+998,2014.0,2015.0,1,2,770.0,DC,1400.0,515.0,OffshoreDCTransmissionCable,DNK;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+998,2015.0,2016.0,2,3,770.0,DC,1400.0,515.0,OffshoreDCTransmissionCable,DNK;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+998,2016.0,2020.0,3,4,770.0,DC,1400.0,515.0,OffshoreDCTransmissionCable,DNK;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+998,2020.0,2022.0,4,6,770.0,DC,1400.0,515.0,OffshoreDCTransmissionCable,DNK;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+999,2014.0,2018.0,1,6,275.0,AC,2700.0,400.0,Overhead Line,FRA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1000,2014.0,2020.0,1,6,200.0,DC,600.0,400.0,Subsea Cable,DNK,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+1001,2014.0,2015.0,3,6,335.0,DC,500.0,500.0,Subsea Cable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+1002,2016.0,2018.0,2,6,45.0,AC,0.0,400.0,Overhead Line,ALB;SRB;BGR;GRC;MKD,5.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1004,2014.0,2015.0,2,1,76.0,AC,200.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1004,2015.0,2016.0,1,6,76.0,AC,200.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1004,2018.0,2022.0,1,6,76.0,AC,200.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1005,2014.0,2016.0,3,6,,DC,1000.0,320.0,Underground Cable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1008,2014.0,2024.0,1,2,100.0,AC,0.0,400.0,ACTransmissionLine,BEL;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1008,2024.0,2026.0,2,2,100.0,AC,0.0,400.0,ACTransmissionLine,BEL;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1010,2014.0,2015.0,1,2,133.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1010,2015.0,2016.0,2,1,133.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1010,2016.0,2018.0,1,2,133.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1010,2018.0,2020.0,2,3,133.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,1
+1010,2020.0,2022.0,3,4,133.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1010,2022.0,2024.0,4,5,133.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1011,2014.0,2015.0,1,2,60.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1011,2015.0,2016.0,2,1,60.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1011,2016.0,2018.0,1,2,60.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1011,2018.0,2020.0,2,3,60.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,1
+1011,2020.0,2024.0,3,4,60.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1011,2024.0,2026.0,4,5,60.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1012,2014.0,2015.0,1,2,132.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1012,2015.0,2020.0,2,3,132.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1012,2020.0,2024.0,3,5,132.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1013,2014.0,2015.0,1,2,244.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1013,2015.0,2020.0,2,3,244.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1013,2020.0,2024.0,3,4,244.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1013,2024.0,2026.0,4,4,244.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1014,2014.0,2026.0,3,3,165.0,DC,1000.0,400.0,DCTransmissionLine,CHE;ITA,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+1016,2014.0,2022.0,1,6,170.0,DC,600.0,400.0,OffshoreDCTransmissionCable,DEU;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,0
+1018,2014.0,2018.0,2,3,92.0,AC,0.0,380.0,ACTransmissionLine,DEU;DNK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1018,2018.0,2024.0,3,5,92.0,AC,0.0,380.0,ACTransmissionLine,DEU;DNK,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1020,2014.0,2016.0,2,6,,DC,500.0,320.0,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1021,2014.0,2016.0,2,6,,DC,1000.0,320.0,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1024,2014.0,2016.0,1,6,,DC,1000.0,320.0,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1025,2014.0,2016.0,1,6,,DC,1000.0,320.0,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1026,2014.0,2016.0,1,6,,DC,1000.0,320.0,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1027,2014.0,2016.0,1,6,,DC,1000.0,320.0,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1028,2014.0,2016.0,1,6,,DC,1000.0,320.0,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1029,2014.0,2016.0,1,6,,DC,1000.0,320.0,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1030,2014.0,2016.0,1,6,,DC,1000.0,320.0,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1031,2014.0,2016.0,1,6,,DC,1000.0,320.0,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1032,2014.0,2016.0,1,6,,DC,1000.0,320.0,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1033,2014.0,2016.0,3,6,650.0,DC,1400.0,500.0,Subsea Cable,NOR,1.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1034,2014.0,2018.0,1,2,330.0,AC,700.0,220.0,OnshoreACTransmissionCable,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1034,2018.0,2020.0,2,3,330.0,AC,700.0,220.0,OnshoreACTransmissionCable,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1034,2020.0,2024.0,3,2,330.0,AC,700.0,220.0,OnshoreACTransmissionCable,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1034,2024.0,2026.0,2,2,330.0,AC,700.0,220.0,OnshoreACTransmissionCable,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1035,2014.0,2016.0,2,3,0.0,AC,0.0,400.0,OnshoreSubstation,POL,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+1035,2016.0,2022.0,3,4,0.0,AC,0.0,400.0,OnshoreSubstation,POL,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,0
+1035,2022.0,2024.0,4,5,0.0,AC,0.0,400.0,OnshoreSubstation,POL,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1036,2014.0,2016.0,4,5,0.0,AC,500.0,400.0,Substation,BEL,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+1037,2014.0,2016.0,4,5,0.0,AC,500.0,400.0,Substation,LTU;POL,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+1038,2014.0,2018.0,2,6,,DC,500.0,400.0,Substation,LTU,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+1039,2014.0,2018.0,2,6,,AC,800.0,380.0,Substation,ITA,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+1041,2014.0,2022.0,2,4,350.0,AC,0.0,220.0,ACTransmissionLine,ITA,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,0
+1041,2022.0,2026.0,4,4,350.0,AC,0.0,220.0,ACTransmissionLine,ITA,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1042,2014.0,2015.0,3,6,270.0,DC,537.0,500.0,Subsea Cable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+1043,2014.0,2016.0,2,6,80.0,AC,1000.0,380.0,Overhead Line,AUT,1.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1045,2014.0,2016.0,3,4,10.0,AC,1000.0,380.0,Overhead Line,AUT;BEL,2.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1045,2016.0,2018.0,4,5,10.0,AC,1000.0,380.0,Overhead Line,AUT;BEL,2.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1048,2014.0,2016.0,1,6,,AC,,380.0,Overhead Line,AUT;BEL;ISL,3.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+1049,2014.0,2015.0,1,6,40.0,AC,1000.0,220.0,Underground Cable,AUT;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1050,2014.0,2015.0,2,1,90.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1050,2015.0,2020.0,1,2,90.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1050,2020.0,2024.0,2,6,90.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1051,2014.0,2020.0,1,6,65.0,AC,400.0,400.0,Overhead Line,CHE;FRA,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1053,2014.0,2018.0,1,6,100.0,DC,1000.0,320.0,Underground Cable,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1054,2014.0,2015.0,2,6,310.0,DC,1000.0,500.0,Subsea Cable,CYP;ISR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1062,2014.0,2018.0,1,3,15.0,AC,600.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1062,2018.0,2020.0,3,4,15.0,AC,600.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1062,2020.0,2022.0,4,5,15.0,AC,600.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1063,2014.0,2018.0,1,6,12.0,AC,600.0,330.0,Overhead Line,EST;LVA;LTU;POL,4.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1064,2014.0,2018.0,1,6,88.0,AC,600.0,330.0,Overhead Line,LTU;LVA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1065,2014.0,2018.0,1,6,127.0,AC,600.0,330.0,Overhead Line,LTU;LVA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1068,2014.0,2015.0,4,5,,AC,,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1069,2014.0,2018.0,3,5,68.0,AC,1420.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1070,2014.0,2015.0,3,4,34.0,AC,1420.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1070,2015.0,2016.0,4,5,34.0,AC,1420.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1071,2014.0,2016.0,3,6,35.0,AC,300.0,220.0,Underground Cable,AUT;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1075,2014.0,2016.0,3,4,55.0,AC,1095.0,400.0,Overhead Line,SRB;MNE;BIH,3.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+1075,2016.0,2018.0,4,6,55.0,AC,1095.0,400.0,Overhead Line,SRB;MNE;BIH,3.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+1076,2014.0,2016.0,3,4,,AC,1095.0,400.0,Substation,SRB;MNE;BIH,3.0,Extra-EU,Internal,Upgrade,Nodal Infrastructure,Onshore,0,0
+1076,2016.0,2018.0,4,6,,AC,1095.0,400.0,Substation,SRB;MNE;BIH,3.0,Extra-EU,Internal,Upgrade,Nodal Infrastructure,Onshore,0,0
+1082,2014.0,2020.0,1,6,1000.0,DC,0.0,500.0,Subsea Cable,GBR;ISL,2.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+1099,2014.0,2015.0,2,1,,AC,,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+1099,2015.0,2016.0,1,6,,AC,,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+1107,2014.0,2016.0,1,2,110.0,DC,2000.0,525.0,DCTransmissionLine,BEL;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1107,2016.0,2018.0,2,1,110.0,DC,2000.0,525.0,DCTransmissionLine,BEL;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1107,2018.0,2026.0,1,1,110.0,DC,2000.0,525.0,DCTransmissionLine,BEL;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1111,2014.0,2016.0,1,6,,DC,,,Subsea Cable,ESP;FRA;GBR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1112,2014.0,2015.0,2,6,,AC,,400.0,Overhead Line,BGR,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1113,2014.0,2015.0,2,6,,DC,1500.0,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1117,2016.0,2018.0,2,6,,DC,500.0,330.0,Substation,EST;LVA;LTU;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+1118,2016.0,2020.0,2,1,0.0,AC,0.0,330.0,Compensation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+1118,2020.0,2024.0,1,6,0.0,AC,0.0,330.0,Compensation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1205,2016.0,2022.0,1,2,90.0,AC,0.0,400.0,ACTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+1205,2022.0,2026.0,2,2,90.0,AC,0.0,400.0,ACTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1206,2016.0,2024.0,2,1,225.0,DC,2000.0,320.0,DCTransmissionLine,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+1206,2024.0,2026.0,1,1,225.0,DC,2000.0,320.0,DCTransmissionLine,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1207,2016.0,2024.0,2,1,70.0,AC,0.0,400.0,ACTransmissionLine,ESP;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1207,2024.0,2026.0,1,1,70.0,AC,0.0,400.0,ACTransmissionLine,ESP;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1208,2016.0,2024.0,2,6,80.0,AC,0.0,400.0,ACTransmissionLine,ESP;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1209,2016.0,2018.0,1,6,,AC,,400.0,Substation,SRB,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+1210,2016.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,ESP;FRA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,0
+1211,2016.0,2024.0,2,1,120.0,DC,2000.0,320.0,DCTransmissionLine,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+1211,2024.0,2026.0,1,1,120.0,DC,2000.0,320.0,DCTransmissionLine,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1212,2016.0,2026.0,2,2,110.0,AC,0.0,400.0,ACTransmissionLine,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+1214,2016.0,2026.0,2,6,0.0,AC,0.0,400.0,OnshoreSubstation,ESP;FRA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,0
+1215,2016.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,ESP;FRA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,0
+1217,2016.0,2018.0,1,6,60.0,AC,,400.0,Overhead Line,SRB,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+1218,2016.0,2018.0,1,6,72.0,AC,,400.0,Overhead Line,ISL;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1219,2016.0,2018.0,1,6,300.0,AC,3000.0,400.0,Overhead Line,FRA,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1220,2016.0,2018.0,1,6,,AC,,220.0,Substation,ISL;SRB,2.0,Extra-EU,Internal,Upgrade,Nodal Infrastructure,Onshore,0,0
+1221,2016.0,2018.0,1,6,80.0,AC,3500.0,400.0,Overhead Line,FRA,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1222,2016.0,2018.0,1,6,48.0,AC,,400.0,Overhead Line,ISL;SRB,2.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1223,2016.0,2018.0,1,6,80.0,AC,,400.0,Overhead Line,ISL;SRB,2.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1224,2016.0,2022.0,1,6,21.0,AC,700.0,400.0,ACTransmissionLine,CHE;FRA,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1225,2016.0,2024.0,1,6,0.0,AC,0.0,400.0,PhaseShiftingTransformer,CHE;FRA,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,0
+1226,2016.0,2018.0,1,6,25.0,AC,1000.0,400.0,Overhead Line,CHE;FRA,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1227,2016.0,2018.0,1,6,200.0,DC,1000.0,320.0,Underground Cable,CHE;FRA,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1228,2016.0,2018.0,2,4,34.0,AC,,220.0,Overhead Line,,,Unknown,Internal,Upgrade,Cable/Line,Onshore,0,0
+1228,2018.0,2020.0,4,5,34.0,AC,,220.0,Overhead Line,,,Unknown,Internal,Upgrade,Cable/Line,Onshore,0,1
+1229,2016.0,2018.0,2,3,13.0,AC,,220.0,Overhead Line,,,Unknown,Internal,Upgrade,Cable/Line,Onshore,0,0
+1229,2018.0,2020.0,3,5,13.0,AC,,220.0,Overhead Line,,,Unknown,Internal,Upgrade,Cable/Line,Onshore,0,1
+1231,2016.0,2024.0,2,3,32.0,AC,0.0,400.0,ACTransmissionLine,DEU;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1231,2024.0,2026.0,3,3,32.0,AC,0.0,400.0,ACTransmissionLine,DEU;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1232,2016.0,2020.0,2,3,147.0,AC,0.0,400.0,ACTransmissionLine,POL,1.0,EU,Internal,New,Cable/Line,Onshore,0,0
+1232,2020.0,2022.0,3,4,147.0,AC,0.0,400.0,ACTransmissionLine,POL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1232,2022.0,2024.0,4,5,147.0,AC,0.0,400.0,ACTransmissionLine,POL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1234,2016.0,2018.0,1,6,171.0,DC,600.0,400.0,Subsea Cable,BEL;DEU;DNK,3.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+1235,2016.0,2022.0,1,6,,AC,3000.0,400.0,Overhead Line,ESP,1.0,EU,Internal,New,Cable/Line,Onshore,1,0
+1236,2016.0,2022.0,1,6,330.0,DC,600.0,400.0,OffshoreDCTransmissionCable,DNK;POL,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,0
+1239,2016.0,2018.0,1,6,325.0,DC,700.0,320.0,Subsea Cable,DNK;NLD,2.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+1240,2016.0,2018.0,1,6,90.0,DC,300.0,300.0,Subsea Cable,DNK;SWE,2.0,EU,Cross-border,Missing Data,Cable/Line,Offshore,0,0
+1241,2016.0,2026.0,1,1,250.0,DC,800.0,500.0,OffshoreDCTransmissionCable,FIN;SWE,2.0,EU,Cross-border,Missing Data,Cable/Line,Offshore,1,0
+1242,2016.0,2018.0,1,6,36.0,AC,1500.0,380.0,Overhead Line,DEU,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1245,2016.0,2024.0,2,3,65.0,AC,0.0,400.0,ACTransmissionLine,DEU;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1245,2024.0,2026.0,3,3,65.0,AC,0.0,400.0,ACTransmissionLine,DEU;FRA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1246,2016.0,2018.0,2,4,27.0,AC,,380.0,ACTransmissionLine,DEU;NLD,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1246,2018.0,2022.0,4,5,27.0,AC,,380.0,ACTransmissionLine,DEU;NLD,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1248,2016.0,2018.0,1,3,,AC,500.0,220.0,Subsea Cable,DEU,1.0,EU,Internal,,Cable/Line,Offshore,0,0
+1248,2018.0,2020.0,3,6,,AC,500.0,220.0,Subsea Cable,DEU,1.0,EU,Internal,,Cable/Line,Offshore,0,1
+1251,2016.0,2018.0,2,3,145.0,AC,,400.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,0
+1251,2018.0,2020.0,3,6,145.0,AC,,400.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,1
+1252,2016.0,2020.0,1,6,,AC,,380.0,Overhead Line,DEU;NLD,2.0,EU,Cross-border,,Cable/Line,Onshore,0,0
+1253,2016.0,2018.0,1,6,,AC,,400.0,Overhead Line,ESP;PRT,2.0,EU,Cross-border,,Cable/Line,Onshore,0,0
+1255,2016.0,2026.0,1,2,0.0,DC,1800.0,525.0,OffshoreDCTransmissionCable,GBR;NLD,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,0
+1257,2016.0,2018.0,1,2,10.0,AC,,380.0,PhaseShiftingTransformer,BEL;NLD,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,0,0
+1257,2018.0,2020.0,2,4,10.0,AC,,380.0,PhaseShiftingTransformer,BEL;NLD,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,0,1
+1257,2020.0,2022.0,4,5,10.0,AC,,380.0,PhaseShiftingTransformer,BEL;NLD,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+1258,2016.0,2024.0,1,6,1.0,AC,0.0,380.0,ACTransmissionLine,AUT;CHE;DEU,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+1259,2016.0,2022.0,3,6,64.0,AC,,380.0,ACTransmissionLine,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,1,0
+1260,2016.0,2018.0,2,6,,AC,1650.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1261,2016.0,2020.0,3,6,,AC,,380.0,Overhead Line,,,Unknown,Internal,Upgrade,Cable/Line,Onshore,0,0
+1262,2016.0,2026.0,1,6,300.0,DC,700.0,300.0,OffshoreDCTransmissionCable,DEU;SWE,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,0
+1263,2016.0,2018.0,1,6,,AC,500.0,400.0,Overhead Line,DEU;ROU;SRB,3.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1264,2018.0,2026.0,1,1,,DC,,0.0,Subsea Cable,BEL,1.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1266,2016.0,2018.0,1,6,85.0,AC,800.0,400.0,Overhead Line,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1267,2016.0,2018.0,1,6,,AC,1000.0,400.0,Overhead Line,BEL;ESP;FRA,3.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1269,2016.0,2026.0,1,1,70.0,AC,0.0,400.0,ACTransmissionLine,HRV;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+1270,2016.0,2022.0,1,6,40.0,AC,750.0,400.0,ACTransmissionLine,DEU;POL,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+1271,2016.0,2022.0,1,6,40.0,AC,750.0,400.0,ACTransmissionLine,DEU;POL,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+1272,2016.0,2022.0,1,6,0.0,AC,1500.0,400.0,OnshoreSubstation,DEU;POL,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,0
+1273,2016.0,2020.0,1,6,60.0,AC,1500.0,400.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,0
+1274,2016.0,2020.0,1,6,0.0,AC,1500.0,400.0,Substation,,,Unknown,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+1275,2016.0,2020.0,1,6,20.0,AC,1500.0,400.0,Overhead Line,DEU;POL,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1276,2016.0,2022.0,1,6,91.0,AC,500.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1277,2016.0,2022.0,1,6,46.2,AC,500.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1278,2016.0,2022.0,1,6,0.0,AC,500.0,400.0,OnshoreSubstation,BIH;HRV,2.0,Extra-EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,0
+1279,2016.0,2022.0,1,6,25.0,AC,500.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,0
+1281,2016.0,2018.0,1,2,0.0,AC,,220.0,PhaseShiftingTransformer,BEL;FRA,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,0,0
+1281,2018.0,2020.0,2,4,0.0,AC,,220.0,PhaseShiftingTransformer,BEL;FRA,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,0,1
+1281,2020.0,2022.0,4,5,0.0,AC,,220.0,PhaseShiftingTransformer,BEL;FRA,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+1282,2016.0,2018.0,2,1,11.0,AC,0.0,380.0,ACTransmissionLine,CHE;DEU,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1282,2018.0,2024.0,1,2,11.0,AC,0.0,380.0,ACTransmissionLine,CHE;DEU,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1282,2024.0,2026.0,2,2,11.0,AC,0.0,380.0,ACTransmissionLine,CHE;DEU,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1283,2016.0,2018.0,2,6,67.0,AC,300.0,380.0,Overhead Line,ITA,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1284,2016.0,2018.0,3,4,49.0,AC,1500.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1284,2018.0,2022.0,4,5,49.0,AC,1500.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1285,2016.0,2018.0,3,2,1.0,AC,1500.0,380.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,0
+1285,2018.0,2020.0,2,6,1.0,AC,1500.0,380.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,1
+1286,2016.0,2022.0,3,6,124.0,AC,1500.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,1,0
+1287,2016.0,2022.0,3,6,45.4,AC,1500.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,1,0
+1288,2016.0,2022.0,3,6,87.0,AC,1500.0,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,1,0
+1289,2016.0,2018.0,2,6,0.0,AC,1650.0,380.0,Substation,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,0,0
+1290,2016.0,2022.0,2,6,1.0,AC,500.0,220.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,1,0
+1291,2016.0,2018.0,3,6,17.0,AC,500.0,220.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1297,2016.0,2018.0,1,6,,DC,2000.0,,Subsea Cable,ESP;FRA;ITA,3.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+1356,2016.0,2020.0,1,6,,DC,,320.0,Subsea Cable,NOR,1.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1369,2016.0,2018.0,2,6,,AC,,400.0,Subsea Cable,GBR;IRL,2.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+1378,2016.0,2020.0,3,1,1308.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,ITA;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1378,2020.0,2026.0,1,1,1308.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,ITA;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1379,2016.0,2018.0,1,6,,DC,2000.0,,Subsea Cable,ESP;FRA;GBR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1380,2016.0,2026.0,3,3,51.0,AC,0.0,220.0,ACTransmissionLine,AUT;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,0
+1381,2016.0,2018.0,2,3,240.0,DC,2075.0,320.0,OffshoreDCTransmissionCable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1381,2018.0,2026.0,3,3,240.0,DC,2075.0,320.0,OffshoreDCTransmissionCable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1382,2016.0,2018.0,3,1,665.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,GBR;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1382,2018.0,2020.0,1,3,665.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,GBR;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,1
+1382,2020.0,2022.0,3,1,665.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,GBR;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1382,2022.0,2024.0,1,6,665.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,GBR;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1383,2016.0,2022.0,2,3,158.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,0
+1383,2022.0,2026.0,3,3,158.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1384,2018.0,2026.0,3,3,14.0,AC,0.0,220.0,ACTransmissionLine,CHE;ITA,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1385,2016.0,2018.0,3,2,200.0,DC,504.0,320.0,OffshoreDCTransmissionCable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1385,2018.0,2022.0,2,4,200.0,DC,504.0,320.0,OffshoreDCTransmissionCable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1385,2022.0,2024.0,4,5,200.0,DC,504.0,320.0,OffshoreDCTransmissionCable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1386,2016.0,2018.0,1,6,,DC,1500.0,400.0,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1387,2016.0,2018.0,1,6,,AC,1500.0,400.0,Underground Cable,GBR;IRL,2.0,Extra-EU,Internal,New,Cable/Line,Onshore,0,0
+1389,2016.0,2018.0,1,6,,DC,,,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1390,2016.0,2018.0,1,6,,DC,,,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1391,2016.0,2018.0,1,6,,DC,,,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1392,2016.0,2018.0,1,6,101.0,DC,1000.0,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1393,2016.0,2018.0,1,6,53.0,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1394,2016.0,2018.0,1,6,41.0,DC,1000.0,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1395,2016.0,2018.0,1,6,,DC,,,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1396,2016.0,2018.0,1,6,53.0,DC,500.0,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1397,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1398,2016.0,2018.0,1,6,348.0,DC,1000.0,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1399,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1400,2016.0,2018.0,1,6,,DC,,,Substation,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+1401,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1402,2016.0,2018.0,1,6,,DC,,,Underground Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1403,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1404,2016.0,2018.0,1,6,,DC,,,Underground Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1405,2016.0,2018.0,1,6,,DC,3000.0,,Subsea Cable,LBY,1.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1406,2016.0,2018.0,1,6,,DC,,,Substation,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+1407,2016.0,2018.0,2,3,325.0,DC,1040.0,500.0,OffshoreDCTransmissionCable,CYP;GRC;ISR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1407,2018.0,2024.0,3,4,325.0,DC,1040.0,500.0,OffshoreDCTransmissionCable,CYP;GRC;ISR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1407,2024.0,2026.0,4,4,325.0,DC,1040.0,500.0,OffshoreDCTransmissionCable,CYP;GRC;ISR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1408,2016.0,2018.0,1,6,,DC,,,Substation,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+1409,2016.0,2018.0,2,3,921.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,CYP;GRC;ISR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1409,2018.0,2024.0,3,4,921.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,CYP;GRC;ISR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1409,2024.0,2026.0,4,4,921.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,CYP;GRC;ISR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1410,2018.0,2020.0,3,5,1518.0,DC,2000.0,400.0,Subsea Cable,GRC,1.0,EU,Cross-border,New,Cable/Line,Offshore,0,1
+1411,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1412,2016.0,2018.0,1,6,,DC,,,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1413,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1423,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1424,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1425,2016.0,2018.0,1,6,,DC,,,Underground Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1426,2016.0,2018.0,1,6,,DC,,,Offshore Hub,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Offshore,0,0
+1427,2016.0,2018.0,1,6,,DC,,,Substation,IRL;GBR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,0,0
+1428,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1429,2016.0,2018.0,1,6,,DC,,300.0,Subsea Cable,IRL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1430,2016.0,2020.0,3,1,2.0,AC,0.0,400.0,OnshoreACTransmissionCable,ITA;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1430,2020.0,2026.0,1,1,2.0,AC,0.0,400.0,OnshoreACTransmissionCable,ITA;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1431,2018.0,2020.0,3,1,245.0,DC,600.0,320.0,OffshoreDCTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+1431,2020.0,2024.0,1,6,245.0,DC,600.0,320.0,OffshoreDCTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1432,2016.0,2020.0,3,1,250.0,DC,600.0,320.0,OffshoreDCTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+1432,2020.0,2024.0,1,6,250.0,DC,600.0,320.0,OffshoreDCTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1433,2016.0,2020.0,3,1,81.0,AC,0.0,220.0,OffshoreACTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+1433,2020.0,2024.0,1,6,81.0,AC,0.0,220.0,OffshoreACTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1434,2016.0,2020.0,3,1,15.0,AC,0.0,220.0,OffshoreACTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+1434,2020.0,2024.0,1,5,15.0,AC,0.0,220.0,OffshoreACTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1435,2016.0,2020.0,3,1,34.0,AC,,220.0,Subsea Cable,EGY;GRC,2.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+1435,2020.0,2022.0,1,6,34.0,AC,,220.0,Subsea Cable,EGY;GRC,2.0,Extra-EU,Internal,New,Cable/Line,Offshore,1,1
+1436,2016.0,2020.0,3,1,14.0,AC,,220.0,Subsea Cable,EGY;GRC,2.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,0
+1436,2020.0,2022.0,1,6,14.0,AC,,220.0,Subsea Cable,EGY;GRC,2.0,Extra-EU,Internal,New,Cable/Line,Offshore,1,1
+1437,2016.0,2022.0,1,6,1330.0,DC,1800.0,500.0,Subsea Cable,ESP;FRA;GBR,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,0
+1438,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL,1.0,EU,Internal,New,Cable/Line,Offshore,0,0
+1439,2016.0,2018.0,2,6,,DC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1440,2016.0,2018.0,2,6,,DC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1441,2016.0,2018.0,2,6,,DC,,,Underground Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1442,2016.0,2018.0,2,6,,AC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1443,2016.0,2018.0,2,6,,AC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1444,2016.0,2018.0,2,6,,AC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1445,2016.0,2018.0,2,6,,AC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1446,2016.0,2018.0,2,6,,AC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1447,2016.0,2018.0,2,6,,DC,,,Underground Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1448,2016.0,2018.0,2,6,,AC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1449,2016.0,2018.0,2,6,,AC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1450,2016.0,2018.0,2,6,,AC,,,Subsea Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,0
+1452,2016.0,2018.0,1,6,130.0,AC,500.0,400.0,Overhead Line,BGR;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,0
+1453,2016.0,2018.0,1,6,,DC,,,Subsea Cable,IRL,1.0,EU,Cross-border,New,Cable/Line,Offshore,0,0
+1454,2016.0,2018.0,1,6,,DC,,,Underground Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,0
+1455,2016.0,2018.0,2,3,169.0,AC,,400.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,0
+1455,2018.0,2020.0,3,6,169.0,AC,,400.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,1
+1456,2016.0,2020.0,1,3,90.0,AC,,380.0,Overhead Line,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,0
+1456,2020.0,2022.0,3,6,90.0,AC,,380.0,Overhead Line,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1457,2016.0,2020.0,1,6,,DC,,380.0,Overhead Line,CHE;DEU,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,0,0
+1458,2016.0,2024.0,3,4,410.0,DC,400.0,200.0,DCTransmissionLine,FRA;ITA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,0
+1458,2024.0,2026.0,4,4,410.0,DC,400.0,200.0,DCTransmissionLine,FRA;ITA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1460,2018.0,2020.0,3,6,,AC,,380.0,Overhead Line,DEU,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,1
+1472,2018.0,2020.0,3,4,128.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1472,2020.0,2026.0,4,5,128.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1473,2018.0,2026.0,3,3,90.0,AC,0.0,380.0,ACTransmissionLine,AUT;DEU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1475,2018.0,2020.0,2,6,,AC,,380.0,Overhead Line,,,Unknown,Internal,New,Cable/Line,Onshore,0,1
+1476,2018.0,2022.0,3,2,95.0,AC,0.0,380.0,ACTransmissionLine,AUT;CHE;DEU,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1476,2022.0,2024.0,2,6,95.0,AC,0.0,380.0,ACTransmissionLine,AUT;CHE;DEU,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1477,2018.0,2020.0,2,6,,AC,,380.0,Overhead Line,AUT;DEU,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,1
+1478,2018.0,2026.0,3,3,11.0,AC,0.0,110.0,ACTransmissionLine,ITA;SVN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1482,2018.0,2026.0,3,3,22.5,AC,0.0,110.0,ACTransmissionLine,ITA;SVN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1483,2018.0,2026.0,1,1,70.0,AC,0.0,380.0,ACTransmissionLine,AUT;SVN,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1485,2018.0,2020.0,2,6,,DC,,380.0,Subsea Cable,,,Unknown,Internal,New,Cable/Line,Offshore,0,1
+1487,2018.0,2022.0,4,5,69.0,DC,1000.0,380.0,Underground Cable,FRA;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1488,2018.0,2024.0,4,5,75.0,AC,0.0,380.0,ACTransmissionLine,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1490,2018.0,2020.0,2,3,32.0,AC,0.0,380.0,ACTransmissionLine,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,1
+1490,2020.0,2022.0,3,4,32.0,AC,0.0,380.0,ACTransmissionLine,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1490,2022.0,2024.0,4,5,32.0,AC,0.0,380.0,ACTransmissionLine,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1493,2018.0,2026.0,4,5,0.0,AC,0.0,400.0,PhaseShiftingTransformer,DEU;POL,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+1496,2018.0,2024.0,1,6,0.0,AC,0.0,220.0,PhaseShiftingTransformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1498,2018.0,2026.0,1,2,78.0,AC,0.0,400.0,ACTransmissionLine,CZE;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1499,2018.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,CZE;SVK,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1500,2018.0,2020.0,3,4,110.0,AC,,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1500,2020.0,2022.0,4,5,110.0,AC,,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1501,2018.0,2020.0,3,4,48.0,AC,,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1501,2020.0,2022.0,4,5,48.0,AC,,400.0,Overhead Line,HUN;SVK,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1503,2018.0,2026.0,4,4,445.0,DC,600.0,500.0,OffshoreDCTransmissionCable,ITA;MNE,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1504,2018.0,2026.0,1,6,0.0,AC,0.0,0.0,OffshoreSubstation,DEU;DNK;NLD,3.0,EU,Cross-border,New,Nodal Infrastructure,Offshore,1,1
+1505,2018.0,2026.0,1,6,256.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1506,2018.0,2026.0,1,6,356.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1507,2018.0,2026.0,1,6,356.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1508,2018.0,2026.0,1,6,348.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1509,2018.0,2026.0,1,6,423.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1510,2018.0,2020.0,2,6,,AC,,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1511,2018.0,2026.0,1,6,369.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1512,2018.0,2020.0,2,6,,AC,,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1513,2018.0,2020.0,4,5,,DC,,380.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+1514,2018.0,2024.0,2,3,0.0,AC,0.0,400.0,PhaseShiftingTransformer,DEU;FRA,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+1514,2024.0,2026.0,3,3,0.0,AC,0.0,400.0,PhaseShiftingTransformer,DEU;FRA,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+1515,2018.0,2020.0,1,2,60.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,1
+1515,2020.0,2024.0,2,6,60.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1516,2018.0,2020.0,1,2,47.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,1
+1516,2020.0,2024.0,2,6,47.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1517,2018.0,2020.0,1,2,16.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,1
+1517,2020.0,2022.0,2,3,16.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1517,2022.0,2024.0,3,6,16.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1518,2018.0,2020.0,1,2,82.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1518,2020.0,2022.0,2,3,82.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1518,2022.0,2026.0,3,3,82.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1519,2018.0,2020.0,1,2,90.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1519,2020.0,2022.0,2,3,90.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1519,2022.0,2026.0,3,3,90.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1520,2018.0,2020.0,1,2,123.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,1
+1520,2020.0,2026.0,2,2,123.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1521,2018.0,2020.0,1,2,560.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+1521,2020.0,2024.0,2,3,560.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1521,2024.0,2026.0,3,4,560.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1522,2018.0,2020.0,1,2,72.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,1
+1522,2020.0,2026.0,2,2,72.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1523,2018.0,2020.0,1,2,0.0,AC,0.0,400.0,OnshoreSubstation,BGR;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+1523,2020.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,BGR;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1524,2018.0,2020.0,1,2,48.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,1
+1524,2020.0,2026.0,2,2,48.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1525,2018.0,2020.0,1,2,70.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,1
+1525,2020.0,2026.0,2,2,70.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1526,2018.0,2026.0,4,4,151.0,AC,0.0,400.0,ACTransmissionLine,BIH;MNE;SRB,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1527,2018.0,2024.0,4,5,59.4,AC,0.0,400.0,ACTransmissionLine,BIH;ITA;MNE;SRB,4.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1528,2018.0,2024.0,4,5,0.0,AC,0.0,400.0,OnshoreSubstation,BIH;ITA;MNE;SRB,4.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1529,2018.0,2020.0,1,6,,AC,,380.0,Phase Shift Transformer,DEU;NLD,2.0,EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,0,1
+1530,2018.0,2022.0,1,6,47.8,AC,,400.0,Overhead Line,BIH;HRV,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1531,2018.0,2022.0,1,6,0.0,AC,,400.0,Substation,BIH;HRV,2.0,Extra-EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,1
+1532,2018.0,2026.0,2,2,180.0,AC,0.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1533,2018.0,2024.0,2,3,68.0,AC,0.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1533,2024.0,2026.0,3,3,68.0,AC,0.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1534,2018.0,2024.0,2,3,203.0,AC,0.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1534,2024.0,2026.0,3,3,203.0,AC,0.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1535,2018.0,2024.0,2,3,0.0,AC,0.0,400.0,OnshoreSubstation,BIH;HRV,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1535,2024.0,2026.0,3,3,0.0,AC,0.0,400.0,OnshoreSubstation,BIH;HRV,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1536,2018.0,2022.0,1,2,2.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1536,2022.0,2026.0,2,2,2.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1537,2018.0,2022.0,1,2,0.0,AC,0.0,400.0,Transformer,ROU;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1537,2022.0,2024.0,2,3,0.0,AC,0.0,400.0,Transformer,ROU;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1537,2024.0,2026.0,3,3,0.0,AC,0.0,400.0,Transformer,ROU;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1538,2018.0,2022.0,1,2,83.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1538,2022.0,2024.0,2,3,83.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1538,2024.0,2026.0,3,3,83.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1539,2018.0,2022.0,3,4,35.0,AC,0.0,380.0,ACTransmissionLine,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1539,2022.0,2024.0,4,5,35.0,AC,0.0,380.0,ACTransmissionLine,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1540,2018.0,2022.0,3,4,50.0,AC,0.0,380.0,ACTransmissionLine,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1540,2022.0,2024.0,4,6,50.0,AC,0.0,380.0,ACTransmissionLine,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1541,2018.0,2022.0,1,6,165.0,AC,,380.0,Overhead Line,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1542,2018.0,2020.0,1,6,,AC,,0.0,Overhead Line,NLD,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1543,2018.0,2020.0,4,6,,AC,,380.0,Overhead Line,NLD,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1544,2018.0,2026.0,3,4,80.0,AC,0.0,380.0,ACTransmissionLine,BEL;NLD,2.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1545,2018.0,2020.0,1,6,,AC,,0.0,Overhead Line,NLD,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1546,2018.0,2022.0,4,6,40.0,AC,2645.0,380.0,Overhead Line,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1547,2018.0,2020.0,1,6,,DC,,500.0,Subsea Cable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,0,1
+1555,2018.0,2020.0,3,2,140.0,AC,0.0,220.0,ACTransmissionLine,AUT;ITA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,0,1
+1555,2020.0,2026.0,2,2,140.0,AC,0.0,220.0,ACTransmissionLine,AUT;ITA,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1556,2018.0,2022.0,4,6,139.0,AC,,132.0,Overhead Line,AUT;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1557,2018.0,2020.0,1,2,900.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+1557,2020.0,2022.0,2,3,900.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1557,2022.0,2024.0,3,4,900.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1557,2024.0,2026.0,4,4,900.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1558,2018.0,2020.0,3,4,80.0,AC,,400.0,Overhead Line,HRV;HUN;SVN,3.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1558,2020.0,2022.0,4,5,80.0,AC,,400.0,Overhead Line,HRV;HUN;SVN,3.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1559,2018.0,2026.0,1,1,35.512,AC,0.0,400.0,ACTransmissionLine,GRC;MKD,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1560,2018.0,2020.0,4,5,,AC,,380.0,Overhead Line,NLD,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,0,1
+1561,2018.0,2026.0,1,1,12.0,AC,0.0,380.0,ACTransmissionLine,BEL;NLD,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1564,2018.0,2020.0,4,5,,AC,,110.0,Overhead Line,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1565,2018.0,2020.0,4,5,40.9,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1566,2018.0,2022.0,4,5,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1567,2018.0,2020.0,2,6,,AC,,110.0,Overhead Line,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,0,1
+1568,2018.0,2020.0,2,4,0.0,AC,0.0,400.0,Transformer,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+1568,2020.0,2022.0,4,5,0.0,AC,0.0,400.0,Transformer,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1569,2018.0,2020.0,2,6,,DC,,0.0,Substation,,,Unknown,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+1570,2018.0,2020.0,2,6,,DC,,0.0,Substation,,,Unknown,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+1571,2018.0,2020.0,2,1,0.0,AC,0.0,0.0,ReactiveCompensationDevice,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+1571,2020.0,2022.0,1,4,0.0,AC,0.0,0.0,ReactiveCompensationDevice,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1571,2022.0,2024.0,4,6,0.0,AC,0.0,0.0,ReactiveCompensationDevice,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1572,2018.0,2024.0,2,4,0.0,AC,0.0,0.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1572,2024.0,2026.0,4,4,0.0,AC,0.0,0.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1583,2018.0,2024.0,1,6,1.0,AC,0.0,380.0,ACTransmissionLine,AUT;CHE;DEU,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1584,2018.0,2026.0,2,6,0.0,AC,0.0,220.0,OnshoreSubstation,ESP,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1593,2018.0,2022.0,1,2,38.8,AC,0.0,400.0,ACTransmissionLine,ESP,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1593,2022.0,2026.0,2,5,38.8,AC,0.0,400.0,ACTransmissionLine,ESP,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1595,2018.0,2022.0,1,2,69.12,AC,0.0,400.0,ACTransmissionLine,ESP,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1595,2022.0,2026.0,2,5,69.12,AC,0.0,400.0,ACTransmissionLine,ESP,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1597,2018.0,2022.0,1,2,57.0,AC,0.0,400.0,ACTransmissionLine,ESP,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1597,2022.0,2026.0,2,5,57.0,AC,0.0,400.0,ACTransmissionLine,ESP,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1613,2018.0,2020.0,2,6,,DC,,320.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+1614,2018.0,2020.0,1,6,,AC,,500.0,Overhead Line,,,Unknown,Internal,Upgrade,Cable/Line,Onshore,0,1
+1615,2018.0,2020.0,1,6,,AC,,500.0,Overhead Line,,,Unknown,Internal,Upgrade,Cable/Line,Onshore,0,1
+1616,2018.0,2020.0,1,6,,DC,,500.0,Underground Cable,SVN,1.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1617,2018.0,2020.0,1,6,,AC,,400.0,Overhead Line,,,Unknown,Internal,Upgrade,Cable/Line,Onshore,0,1
+1619,2018.0,2022.0,2,6,370.0,DC,2000.0,525.0,Subsea Cable,EGY;GRC;LBY,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1620,2018.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,DEU;LUX,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1622,2018.0,2020.0,3,4,151.0,AC,0.0,400.0,ACTransmissionLine,ALB;MKD,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,0,1
+1622,2020.0,2026.0,4,4,151.0,AC,0.0,400.0,ACTransmissionLine,ALB;MKD,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1623,2018.0,2020.0,3,4,0.0,AC,0.0,400.0,OnshoreSubstation,ALB;MKD,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+1623,2020.0,2026.0,4,4,0.0,AC,0.0,400.0,OnshoreSubstation,ALB;MKD,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1624,2018.0,2020.0,1,6,,AC,,400.0,Substation,,,Unknown,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+1625,2018.0,2020.0,1,2,360.0,AC,0.0,220.0,OffshoreSubstation,BEL,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,0,1
+1625,2020.0,2024.0,2,3,360.0,AC,0.0,220.0,OffshoreSubstation,BEL,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1625,2024.0,2026.0,3,4,360.0,AC,0.0,220.0,OffshoreSubstation,BEL,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1627,2018.0,2020.0,2,6,,AC,,220.0,Subsea Cable,DEU,1.0,EU,Internal,New,Cable/Line,Offshore,0,1
+1628,2018.0,2020.0,2,3,720.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,DEU;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,0,1
+1628,2020.0,2024.0,3,4,720.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,DEU;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1628,2024.0,2026.0,4,4,720.0,DC,1400.0,500.0,OffshoreDCTransmissionCable,DEU;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1629,2018.0,2022.0,2,3,0.0,AC,0.0,400.0,OnshoreSubstation,DEU;LUX,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1629,2022.0,2026.0,3,3,0.0,AC,0.0,400.0,OnshoreSubstation,DEU;LUX,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1630,2018.0,2022.0,2,3,40.0,AC,0.0,400.0,ACTransmissionLine,DEU;LUX,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1630,2022.0,2026.0,3,3,40.0,AC,0.0,400.0,ACTransmissionLine,DEU;LUX,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1631,2018.0,2020.0,1,6,,AC,,380.0,Overhead Line,AUT;ITA;SVN,3.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1632,2018.0,2020.0,2,3,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,0,1
+1632,2020.0,2024.0,3,4,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1632,2024.0,2026.0,4,4,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1633,2018.0,2020.0,2,6,,AC,,330.0,Overhead Line,,,Unknown,Cross-border,New,Cable/Line,Onshore,0,1
+1634,2018.0,2020.0,2,3,211.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1634,2020.0,2024.0,3,4,211.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1634,2024.0,2026.0,4,4,211.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1635,2018.0,2020.0,2,6,,AC,,330.0,Overhead Line,,,Unknown,Cross-border,New,Cable/Line,Onshore,0,1
+1636,2018.0,2020.0,2,6,,AC,,380.0,Overhead Line,AUT,1.0,EU,Cross-border,New,Cable/Line,Onshore,0,1
+1638,2020.0,2024.0,2,3,245.0,DC,750.0,320.0,DCTransmissionLine,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1638,2024.0,2026.0,3,3,245.0,DC,750.0,320.0,DCTransmissionLine,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1639,2020.0,2022.0,2,6,160.0,AC,800.0,275.0,Overhead Line,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1640,2020.0,2022.0,2,6,255.0,DC,750.0,320.0,Underground Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1641,2020.0,2022.0,2,6,0.0,DC,750.0,320.0,Substation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1642,2020.0,2024.0,2,3,0.0,DC,750.0,320.0,OnshoreSubstation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1642,2024.0,2026.0,3,3,0.0,DC,750.0,320.0,OnshoreSubstation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1646,2020.0,2024.0,2,3,0.0,DC,750.0,320.0,OnshoreSubstation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1646,2024.0,2026.0,3,3,0.0,DC,750.0,320.0,OnshoreSubstation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1647,2020.0,2022.0,2,6,25.0,AC,400.0,245.0,Underground Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1648,2020.0,2022.0,2,6,25.0,AC,400.0,245.0,Underground Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1649,2020.0,2022.0,2,6,25.0,AC,400.0,245.0,Phase Shift Transformer,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1650,2020.0,2022.0,2,6,20.0,AC,400.0,245.0,Underground Cable,GBR;IRL,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1651,2020.0,2022.0,2,6,0.0,AC,,245.0,Substation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1652,2020.0,2024.0,2,3,1.0,AC,0.0,400.0,OnshoreSubstation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1652,2024.0,2026.0,3,3,1.0,AC,0.0,400.0,OnshoreSubstation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1653,2020.0,2024.0,2,3,1.0,AC,0.0,245.0,OnshoreSubstation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1653,2024.0,2026.0,3,3,1.0,AC,0.0,245.0,OnshoreSubstation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1654,2020.0,2022.0,2,6,0.0,AC,,245.0,Substation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1655,2020.0,2022.0,2,6,0.0,AC,,400.0,Substation,GBR;IRL,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1659,2020.0,2024.0,3,4,137.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1659,2024.0,2026.0,4,5,137.0,AC,0.0,330.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1660,2020.0,2024.0,3,4,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1660,2024.0,2026.0,4,4,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1661,2020.0,2022.0,2,3,57.11,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1661,2022.0,2024.0,3,4,57.11,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1661,2024.0,2026.0,4,4,57.11,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1662,2020.0,2022.0,2,3,119.0,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1662,2022.0,2024.0,3,4,119.0,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1662,2024.0,2026.0,4,4,119.0,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1663,2020.0,2022.0,2,4,41.5,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1663,2022.0,2024.0,4,5,41.5,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1664,2020.0,2024.0,2,4,288.5,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1664,2024.0,2026.0,4,4,288.5,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1665,2020.0,2024.0,2,4,77.0,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1665,2024.0,2026.0,4,4,77.0,AC,0.0,400.0,ACTransmissionLine,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1669,2020.0,2024.0,3,4,0.0,AC,0.0,0.0,ReactiveCompensationDevice,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1669,2024.0,2026.0,4,4,0.0,AC,0.0,0.0,ReactiveCompensationDevice,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1670,2020.0,2024.0,2,3,75.0,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1670,2024.0,2026.0,3,3,75.0,AC,0.0,400.0,ACTransmissionLine,PRT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1673,2020.0,2022.0,1,6,90.0,AC,,400.0,Overhead Line,DEU;POL,2.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1674,2020.0,2022.0,1,6,80.0,AC,,400.0,Overhead Line,DEU;POL,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1675,2020.0,2026.0,1,6,475.0,AC,0.0,400.0,ACTransmissionLine,SWE,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1676,2020.0,2024.0,2,6,36.0,AC,0.0,380.0,ACTransmissionLine,BEL,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1677,2020.0,2026.0,1,1,142.0,DC,700.0,320.0,OffshoreDCTransmissionCable,GBR,1.0,Extra-EU,Internal,New,Cable/Line,Offshore,1,1
+1682,2020.0,2026.0,1,1,954.0,DC,3000.0,525.0,DCTransmissionLine,EGY;GRC,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1684,2020.0,2022.0,4,5,35.0,AC,,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1685,2020.0,2022.0,4,5,14.0,AC,,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1686,2020.0,2022.0,4,6,210.0,AC,,380.0,Overhead Line,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1687,2020.0,2022.0,1,6,420.0,AC,,500.0,Overhead Line,EGY;GRC,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1688,2020.0,2022.0,3,2,290.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1688,2022.0,2024.0,2,4,290.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1688,2024.0,2026.0,4,5,290.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1689,2020.0,2026.0,3,6,215.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1690,2020.0,2022.0,1,6,220.0,AC,,500.0,Overhead Line,EGY;GRC,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1691,2020.0,2024.0,1,6,31.0,AC,0.0,380.0,OffshoreACTransmissionCable,DEU;NLD,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1692,2020.0,2026.0,2,2,270.0,DC,2000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1693,2020.0,2026.0,2,2,440.0,DC,2000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1694,2020.0,2022.0,1,6,170.0,AC,,330.0,Overhead Line,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1695,2020.0,2022.0,1,6,72.0,AC,,330.0,Overhead Line,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1697,2020.0,2024.0,2,3,175.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1697,2024.0,2026.0,3,3,175.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1698,2020.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,BGR;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1699,2020.0,2026.0,2,2,77.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1700,2020.0,2026.0,2,2,50.0,AC,0.0,400.0,ACTransmissionLine,BGR;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1701,2020.0,2024.0,2,6,65.0,AC,0.0,400.0,ACTransmissionLine,BGR;BIH;MNE;SRB,4.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1702,2020.0,2024.0,2,6,0.0,AC,0.0,0.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1703,2020.0,2024.0,2,4,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1703,2024.0,2026.0,4,4,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LTU;LVA;POL,4.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1704,2020.0,2024.0,1,6,60.0,AC,0.0,220.0,OffshoreACTransmissionCable,GRC,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1706,2020.0,2026.0,1,1,202.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,BEL;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1707,2020.0,2026.0,1,1,610.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,DEU;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1708,2020.0,2024.0,1,6,640.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,DNK;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1709,2020.0,2026.0,1,6,450.0,DC,600.0,600.0,OffshoreDCTransmissionCable,EGY;GRC,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1710,2020.0,2026.0,3,5,153.0,AC,0.0,400.0,ACTransmissionLine,FIN;SWE,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1711,2020.0,2022.0,4,6,0.0,AC,,400.0,Substation,CZE,1.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,1
+1712,2020.0,2022.0,4,5,0.0,AC,,400.0,Substation,CZE,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1713,2020.0,2026.0,2,2,202.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1715,2020.0,2026.0,2,2,104.0,AC,0.0,220.0,ACTransmissionLine,AUT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1716,2020.0,2022.0,4,5,179.0,AC,0.0,150.0,ACTransmissionLine,GRC,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1717,2020.0,2022.0,3,4,373.0,DC,1000.0,500.0,DCTransmissionLine,GRC,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1717,2022.0,2026.0,4,5,373.0,DC,1000.0,500.0,DCTransmissionLine,GRC,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1718,2020.0,2022.0,1,6,0.0,AC,,400.0,Substation,HRV,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1719,2020.0,2022.0,1,6,0.0,AC,,400.0,Substation,HRV,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1721,2020.0,2022.0,2,6,0.0,AC,,380.0,Substation,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1722,2020.0,2022.0,1,6,700.0,DC,2000.0,,Underground Cable,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1723,2020.0,2022.0,1,6,90.0,AC,,400.0,Overhead Line,HRV,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1724,2020.0,2022.0,1,6,105.0,AC,,220.0,Overhead Line,HRV,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1725,2020.0,2022.0,1,6,0.0,AC,,220.0,Substation,HRV,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1726,2020.0,2026.0,1,1,214.0,DC,1000.0,525.0,DCTransmissionLine,CHE;DEU,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1727,2020.0,2026.0,3,3,0.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1729,2020.0,2022.0,1,5,0.0,AC,,,Reactive Compensation Device,FIN,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1730,2020.0,2022.0,1,6,0.0,AC,,,Reactive Compensation Device,FIN,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1731,2020.0,2022.0,4,5,40.0,AC,,380.0,Overhead Line,NLD,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1733,2020.0,2022.0,3,6,106.6,AC,,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1734,2020.0,2022.0,4,5,30.0,AC,,380.0,Overhead Line,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,1,1
+1736,2020.0,2026.0,1,1,150.0,AC,0.0,400.0,ACTransmissionLine,BGR;TUR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1738,2020.0,2024.0,1,2,130.0,AC,0.0,400.0,ACTransmissionLine,GRC;TUR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1738,2024.0,2026.0,2,2,130.0,AC,0.0,400.0,ACTransmissionLine,GRC;TUR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1740,2020.0,2026.0,1,6,195.0,DC,500.0,320.0,OffshoreDCTransmissionCable,LVA;SWE,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1741,2020.0,2026.0,1,6,125.0,DC,700.0,320.0,OffshoreDCTransmissionCable,LVA;SWE,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1742,2020.0,2024.0,1,2,50.6,AC,0.0,400.0,ACTransmissionLine,HUN;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1742,2024.0,2026.0,2,2,50.6,AC,0.0,400.0,ACTransmissionLine,HUN;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1743,2020.0,2024.0,1,2,80.0,AC,0.0,400.0,ACTransmissionLine,HUN;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1743,2024.0,2026.0,2,2,80.0,AC,0.0,400.0,ACTransmissionLine,HUN;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1744,2020.0,2024.0,1,2,60.0,AC,0.0,400.0,ACTransmissionLine,HUN;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1744,2024.0,2026.0,2,2,60.0,AC,0.0,400.0,ACTransmissionLine,HUN;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1745,2020.0,2022.0,1,6,1070.0,DC,2000.0,400.0,Subsea Cable,ALB;GRC;LBY,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1746,2020.0,2022.0,1,6,600.0,DC,2000.0,525.0,Subsea Cable,BGR;GRC;MKD,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1747,2020.0,2022.0,1,6,110.0,DC,2000.0,525.0,Overhead Line,BGR;GRC;MKD,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1748,2020.0,2022.0,1,6,170.0,DC,2000.0,525.0,Overhead Line,BGR;GRC;MKD,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1749,2020.0,2022.0,1,6,180.0,DC,2000.0,400.0,Underground Cable,ALB;GRC;LBY,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1750,2020.0,2024.0,1,6,40.0,AC,0.0,220.0,OffshoreSubstation,IRL,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1751,2022.0,2024.0,1,3,122.0,AC,0.0,220.0,OffshoreACTransmissionCable,ITA;MLT,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1751,2024.0,2026.0,3,4,122.0,AC,0.0,220.0,OffshoreACTransmissionCable,ITA;MLT,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1752,2022.0,2024.0,2,4,87.0,AC,0.0,330.0,ACTransmissionLine,EST,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1752,2024.0,2026.0,4,4,87.0,AC,0.0,330.0,ACTransmissionLine,EST,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1753,2022.0,2024.0,2,4,70.0,AC,0.0,330.0,ACTransmissionLine,EST,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1753,2024.0,2026.0,4,4,70.0,AC,0.0,330.0,ACTransmissionLine,EST,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1754,2022.0,2024.0,2,4,0.0,AC,0.0,330.0,OnshoreSubstation,EST,1.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,1
+1754,2024.0,2026.0,4,4,0.0,AC,0.0,330.0,OnshoreSubstation,EST,1.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,1
+1755,2022.0,2026.0,1,2,150.0,AC,1000.0,220.0,OffshoreACTransmissionCable,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1756,2022.0,2024.0,1,6,85.0,AC,0.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1757,2022.0,2024.0,1,6,90.0,AC,0.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1758,2022.0,2026.0,1,2,95.0,AC,0.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1759,2022.0,2024.0,1,2,773.0,DC,2000.0,1050.0,OffshoreDCTransmissionCable,BEL;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1759,2024.0,2026.0,2,2,773.0,DC,2000.0,1050.0,OffshoreDCTransmissionCable,BEL;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1760,2022.0,2024.0,1,2,120.0,DC,700.0,450.0,OffshoreDCTransmissionCable,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1760,2024.0,2026.0,2,2,120.0,DC,700.0,450.0,OffshoreDCTransmissionCable,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1761,2022.0,2026.0,1,2,0.0,AC,1000.0,220.0,OffshoreSubstation,EST;LVA,2.0,EU,Cross-border,New,Nodal Infrastructure,Offshore,1,1
+1762,2022.0,2024.0,1,2,250.0,AC,0.0,400.0,ACTransmissionLine,FIN;SWE,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1762,2024.0,2026.0,2,2,250.0,AC,0.0,400.0,ACTransmissionLine,FIN;SWE,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1763,2022.0,2026.0,3,3,1.0,AC,0.0,380.0,ACTransmissionLine,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,1,1
+1764,2022.0,2026.0,1,6,475.0,AC,0.0,400.0,ACTransmissionLine,SWE,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1765,2022.0,2026.0,1,2,160.0,DC,700.0,525.0,OffshoreDCTransmissionCable,DNK;SWE,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1766,2022.0,2026.0,3,3,81.5,AC,0.0,400.0,ACTransmissionLine,CZE;DEU,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1767,2022.0,2026.0,3,3,1.0,AC,0.0,220.0,ACTransmissionLine,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,1,1
+1768,2022.0,2026.0,3,3,1.0,AC,0.0,380.0,ACTransmissionLine,CHE,1.0,Extra-EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1769,2022.0,2026.0,2,6,66.3,AC,0.0,330.0,ACTransmissionLine,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1770,2022.0,2026.0,2,6,28.7,AC,0.0,330.0,ACTransmissionLine,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1771,2022.0,2026.0,2,2,107.8,AC,0.0,330.0,ACTransmissionLine,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1772,2022.0,2024.0,2,5,27.8,AC,0.0,220.0,ACTransmissionLine,DEU;LUX,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1773,2022.0,2026.0,2,2,20.3,AC,0.0,220.0,ACTransmissionLine,DEU;LUX,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1774,2022.0,2026.0,2,2,57.7,AC,0.0,330.0,ACTransmissionLine,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1775,2022.0,2026.0,2,2,41.0,AC,0.0,330.0,ACTransmissionLine,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1777,2022.0,2024.0,1,2,215.0,DC,2000.0,1050.0,OffshoreDCTransmissionCable,BEL;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1777,2024.0,2026.0,2,2,215.0,DC,2000.0,1050.0,OffshoreDCTransmissionCable,BEL;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1778,2022.0,2024.0,1,2,0.0,AC,0.0,330.0,OnshoreSubstation,LTU,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1778,2024.0,2026.0,2,2,0.0,AC,0.0,330.0,OnshoreSubstation,LTU,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1779,2022.0,2024.0,2,6,70.0,AC,0.0,220.0,OnshoreSubstation,LTU,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1780,2022.0,2024.0,2,3,300.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1780,2024.0,2026.0,3,3,300.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1781,2022.0,2024.0,2,3,290.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1781,2024.0,2026.0,3,3,290.0,AC,0.0,400.0,ACTransmissionLine,FIN,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1782,2022.0,2026.0,1,1,1155.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,GEO;ROU,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1783,2022.0,2026.0,4,5,90.0,AC,0.0,400.0,ACTransmissionLine,LTU;LVA;SWE,3.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1784,2022.0,2026.0,3,6,98.0,AC,0.0,400.0,ACTransmissionLine,LTU;LVA;SWE,3.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1785,2022.0,2024.0,1,2,100.0,AC,0.0,400.0,ACTransmissionLine,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1785,2024.0,2026.0,2,2,100.0,AC,0.0,400.0,ACTransmissionLine,EST;FIN,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1787,2022.0,2026.0,2,2,140.0,AC,0.0,400.0,ACTransmissionLine,GRC;TUR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1788,2022.0,2024.0,1,6,170.0,AC,0.0,330.0,ACTransmissionLine,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1789,2022.0,2024.0,1,6,72.0,AC,0.0,330.0,ACTransmissionLine,LTU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1791,2022.0,2024.0,2,3,60.0,DC,1400.0,1050.0,OffshoreSubstation,BEL,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1791,2024.0,2026.0,3,3,60.0,DC,1400.0,1050.0,OffshoreSubstation,BEL,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1792,2022.0,2024.0,3,6,512.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,CYP;EGY,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1793,2022.0,2026.0,1,2,229.0,DC,1200.0,525.0,OffshoreDCTransmissionCable,DEU;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1794,2022.0,2026.0,1,2,193.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1795,2022.0,2024.0,3,4,424.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1795,2024.0,2026.0,4,4,424.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1796,2022.0,2026.0,2,2,116.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1797,2022.0,2026.0,2,2,42.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1798,2022.0,2024.0,2,3,9.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1798,2024.0,2026.0,3,3,9.0,AC,0.0,400.0,ACTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1799,2022.0,2024.0,1,2,275.0,DC,1000.0,400.0,OffshoreDCTransmissionCable,GRC;ITA,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1799,2024.0,2026.0,2,2,275.0,DC,1000.0,400.0,OffshoreDCTransmissionCable,GRC;ITA,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1804,2022.0,2024.0,1,6,85.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1805,2022.0,2026.0,2,2,71.0,AC,0.0,220.0,ACTransmissionLine,AUT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1806,2022.0,2024.0,1,6,156.0,AC,0.0,220.0,ACTransmissionLine,AUT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1808,2022.0,2024.0,1,2,60.0,AC,0.0,225.0,OffshoreACTransmissionCable,FRA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1808,2024.0,2026.0,2,2,60.0,AC,0.0,225.0,OffshoreACTransmissionCable,FRA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1809,2022.0,2024.0,1,2,60.0,AC,0.0,225.0,OffshoreACTransmissionCable,FRA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1809,2024.0,2026.0,2,2,60.0,AC,0.0,225.0,OffshoreACTransmissionCable,FRA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1810,2022.0,2024.0,1,2,100.0,DC,1250.0,320.0,DCTransmissionLine,FRA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1810,2024.0,2026.0,2,2,100.0,DC,1250.0,320.0,DCTransmissionLine,FRA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1811,2022.0,2024.0,1,2,100.0,DC,1250.0,320.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1811,2024.0,2026.0,2,2,100.0,DC,1250.0,320.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1812,2022.0,2024.0,1,2,80.0,AC,0.0,225.0,OffshoreACTransmissionCable,FRA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1812,2024.0,2026.0,2,2,80.0,AC,0.0,225.0,OffshoreACTransmissionCable,FRA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1813,2022.0,2024.0,1,2,140.0,DC,0.0,320.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1813,2024.0,2026.0,2,2,140.0,DC,0.0,320.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1815,2022.0,2026.0,1,6,0.0,AC,0.0,0.0,OffshoreSubstation,DEU;DNK;NLD,3.0,EU,Cross-border,New,Nodal Infrastructure,Offshore,1,1
+1816,2022.0,2026.0,1,6,0.0,AC,0.0,0.0,OffshoreSubstation,DEU;DNK;NLD,3.0,EU,Cross-border,New,Nodal Infrastructure,Offshore,1,1
+1817,2022.0,2026.0,1,6,351.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1818,2022.0,2026.0,1,6,226.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1819,2022.0,2026.0,1,6,125.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;DNK;NLD,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1827,2022.0,2026.0,3,4,109.0,AC,0.0,400.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1832,2022.0,2026.0,2,2,0.0,AC,0.0,0.0,Transformer,HUN;ROU,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1833,2022.0,2026.0,2,2,22.0,AC,0.0,220.0,ACTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1834,2022.0,2026.0,2,2,38.0,AC,0.0,220.0,ACTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1835,2022.0,2026.0,2,2,20.2,AC,0.0,220.0,ACTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1836,2022.0,2026.0,2,2,43.9,AC,0.0,400.0,ACTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1838,2024.0,2026.0,1,1,400.0,DC,1200.0,320.0,DCTransmissionLine,FRA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1839,2024.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,BGR;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1840,2024.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,HUN;SRB,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1844,2024.0,2026.0,1,1,119.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1846,2024.0,2026.0,3,3,111.0,AC,0.0,400.0,ACTransmissionLine,BIH;HRV,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1847,2024.0,2026.0,4,4,1.0,AC,0.0,380.0,Transformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1854,2024.0,2026.0,1,1,125.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1855,2024.0,2026.0,1,1,276.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1856,2024.0,2026.0,1,1,1.0,AC,0.0,220.0,PhaseShiftingTransformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1857,2024.0,2026.0,1,1,1.0,AC,0.0,380.0,PhaseShiftingTransformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1858,2024.0,2026.0,1,1,1.0,AC,0.0,220.0,PhaseShiftingTransformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1859,2024.0,2026.0,1,1,1.0,AC,0.0,380.0,PhaseShiftingTransformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1860,2024.0,2026.0,3,3,148.0,AC,0.0,400.0,ACTransmissionLine,MDA;ROU,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1861,2024.0,2026.0,2,2,0.0,AC,0.0,0.0,OnshoreSubstation,MDA;ROU,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1862,2024.0,2026.0,2,2,62.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1863,2024.0,2026.0,2,2,176.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1864,2024.0,2026.0,2,2,116.55,AC,0.0,220.0,ACTransmissionLine,ROU;SRB,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1865,2024.0,2026.0,2,2,59.62,AC,0.0,400.0,ACTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1868,2024.0,2026.0,2,2,38.0,AC,0.0,220.0,ACTransmissionLine,AUT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1869,2024.0,2026.0,1,1,48.0,AC,0.0,380.0,ACTransmissionLine,AUT,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1878,2024.0,2026.0,1,1,20.0,DC,1200.0,320.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1879,2024.0,2026.0,1,1,0.0,DC,2000.0,525.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1881,2024.0,2026.0,1,1,0.0,DC,2000.0,525.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1883,2024.0,2026.0,1,1,0.0,DC,2000.0,525.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1885,2024.0,2026.0,1,1,20.0,DC,1200.0,320.0,OffshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1886,2024.0,2026.0,1,2,160.0,AC,0.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1887,2024.0,2026.0,1,2,90.0,AC,0.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1888,2024.0,2026.0,3,6,91.0,AC,0.0,400.0,ACTransmissionLine,BIH;MNE;SRB,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1889,2024.0,2026.0,2,2,440.0,DC,2000.0,500.0,DCTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1913,2024.0,2026.0,2,2,500.0,DC,2000.0,500.0,DCTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1917,2024.0,2026.0,2,2,150.0,AC,0.0,220.0,DCTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1918,2024.0,2026.0,2,2,425.0,DC,1000.0,500.0,DCTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1919,2024.0,2026.0,2,2,345.0,DC,2000.0,500.0,DCTransmissionLine,ITA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1921,2024.0,2026.0,2,2,500.0,DC,1000.0,500.0,OffshoreDCTransmissionCable,ITA,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1934,2024.0,2026.0,1,6,330.0,DC,1200.0,525.0,OffshoreDCTransmissionCable,GBR;NLD,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1935,2024.0,2026.0,1,2,124.0,AC,0.0,220.0,OffshoreSubstation,IRL,1.0,EU,Internal,New,Nodal Infrastructure,Offshore,1,1
+1936,2024.0,2026.0,1,1,250.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,BEL;DEU;DNK;NOR,4.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1937,2024.0,2026.0,1,1,200.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,BEL;DEU;DNK;NOR,4.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1938,2024.0,2026.0,1,1,350.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,BEL;DEU;DNK;NOR,4.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1939,2024.0,2026.0,1,1,780.0,DC,1400.0,525.0,OffshoreDCTransmissionCable,BEL;DEU;DNK;NOR,4.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1940,2024.0,2026.0,2,2,249.0,DC,700.0,525.0,OffshoreDCTransmissionCable,DNK;NOR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1941,2024.0,2026.0,2,1,0.0,DC,150.0,420.0,BackToBackSubstation,FIN;NOR,2.0,Extra-EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1942,2024.0,2026.0,4,4,1.0,AC,0.0,380.0,Transformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1943,2024.0,2026.0,1,1,810.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1944,2024.0,2026.0,2,2,72.4,AC,0.0,380.0,ACTransmissionLine,DEU;LUX,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+1945,2024.0,2026.0,1,2,940.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DZA;ITA;TUN,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1946,2024.0,2026.0,1,2,590.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DZA;ITA;TUN,3.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1947,2024.0,2026.0,1,2,600.0,AC,0.0,400.0,ACTransmissionLine,DZA;ITA;TUN,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1948,2024.0,2026.0,1,2,500.0,AC,0.0,400.0,ACTransmissionLine,DZA;ITA;TUN,3.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1953,2024.0,2026.0,1,2,50.0,AC,0.0,330.0,ACTransmissionLine,LTU;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1954,2024.0,2026.0,1,2,65.0,AC,0.0,330.0,ACTransmissionLine,LTU;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1955,2024.0,2026.0,1,1,1.0,AC,0.0,220.0,PhaseShiftingTransformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1956,2024.0,2026.0,1,1,1.0,AC,0.0,220.0,PhaseShiftingTransformer,CHE,1.0,Extra-EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1957,2024.0,2026.0,1,1,700.0,DC,2091.0,525.0,DCTransmissionLine,ESP;ITA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1958,2024.0,2026.0,1,1,800.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;EST;LVA,3.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1960,2024.0,2026.0,1,1,30.0,DC,2000.0,525.0,DCTransmissionLine,DEU;NLD,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1962,2024.0,2026.0,2,2,80.0,AC,0.0,400.0,ACTransmissionLine,CHE;ITA,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1963,2024.0,2026.0,1,1,100.0,DC,2000.0,525.0,OffshoreDCTransmissionCable,DEU;GBR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1964,2024.0,2026.0,1,1,1000.0,DC,3000.0,525.0,Subsea Cable,DEU;DNK,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1965,2024.0,2026.0,4,5,0.0,AC,0.0,400.0,OnshoreSubstation,PRT,1.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,1
+1966,2024.0,2026.0,1,6,0.0,AC,0.0,220.0,ReactiveCompensationDevice,EST;LVA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1967,2024.0,2026.0,1,2,170.0,AC,0.0,330.0,ACTransmissionLine,LTU;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1968,2024.0,2026.0,1,2,72.0,AC,0.0,330.0,ACTransmissionLine,LTU;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1969,2024.0,2026.0,1,2,0.0,AC,0.0,330.0,OnshoreSubstation,LTU;LVA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1970,2024.0,2026.0,1,6,0.0,AC,0.0,330.0,ReactiveCompensationDevice,LTU;LVA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1971,2024.0,2026.0,1,2,0.0,AC,0.0,330.0,ReactiveCompensationDevice,LTU;LVA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1972,2024.0,2026.0,1,1,310.0,DC,2000.0,1050.0,OffshoreDCTransmissionCable,BEL,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1973,2024.0,2026.0,1,1,503.0,DC,2000.0,1050.0,OffshoreDCTransmissionCable,BEL;NLD,2.0,EU,Cross-border,New,Cable/Line,Offshore,1,1
+1974,2024.0,2026.0,2,2,20.0,AC,0.0,380.0,ACTransmissionLine,DEU;LUX,2.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+1975,2024.0,2026.0,2,2,0.0,AC,0.0,380.0,OnshoreSubstation,DEU;LUX,2.0,EU,Internal,Upgrade,Nodal Infrastructure,Onshore,1,1
+1976,2024.0,2026.0,1,2,0.0,AC,0.0,330.0,OnshoreSubstation,EST;LVA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1977,2024.0,2026.0,1,2,0.0,AC,0.0,330.0,OnshoreSubstation,LTU;LVA,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1978,2024.0,2026.0,1,2,40.0,AC,0.0,330.0,ACTransmissionLine,EST;LVA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1979,2024.0,2026.0,2,2,0.0,AC,0.0,330.0,OnshoreSubstation,EST;FIN,2.0,EU,Cross-border,New,Nodal Infrastructure,Onshore,1,1
+1980,2024.0,2026.0,1,1,0.0,AC,0.0,0.0,OffshoreDCTransmissionCable,PRT,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1981,2024.0,2026.0,1,1,0.0,DC,1200.0,320.0,OnshoreSubstation,FRA,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1983,2024.0,2026.0,2,2,258.8,AC,0.0,400.0,ACTransmissionLine,MDA;ROU,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1984,2024.0,2026.0,2,2,523.0,DC,2000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1985,2024.0,2026.0,2,2,461.0,DC,2000.0,525.0,DCTransmissionLine,DEU,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1986,2024.0,2026.0,1,1,238.0,DC,2500.0,525.0,DCTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1987,2024.0,2026.0,1,1,830.0,DC,2500.0,525.0,DCTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1988,2024.0,2026.0,2,2,170.0,AC,0.0,400.0,ACTransmissionLine,ALB;GRC,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1989,2024.0,2026.0,1,1,0.0,AC,0.0,0.0,OffshoreDCTransmissionCable,PRT,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1991,2024.0,2026.0,1,1,4800.0,DC,3600.0,525.0,OffshoreDCTransmissionCable,DEU;MAR,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1992,2024.0,2026.0,1,1,654.0,DC,500.0,320.0,OffshoreDCTransmissionCable,MLT;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Offshore,1,1
+1993,2024.0,2026.0,1,1,4.0,AC,0.0,220.0,OnshoreACTransmissionCable,MLT;TUN,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+1994,2024.0,2026.0,1,1,1400.0,DC,3000.0,525.0,DCTransmissionLine,DEU;GRC,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+1996,2024.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,GRC,1.0,EU,Internal,New,Nodal Infrastructure,Onshore,1,1
+1997,2024.0,2026.0,2,2,65.0,AC,0.0,400.0,ACTransmissionLine,GRC,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+1998,2024.0,2026.0,1,1,0.0,AC,0.0,0.0,OffshoreDCTransmissionCable,PRT,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+1999,2024.0,2026.0,1,1,0.0,AC,0.0,0.0,OffshoreDCTransmissionCable,PRT,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+2000,2024.0,2026.0,1,6,0.0,AC,0.0,0.0,OffshoreACTransmissionCable,PRT,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+2001,2024.0,2026.0,1,1,16.0,AC,0.0,380.0,ACTransmissionLine,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,1,1
+2002,2024.0,2026.0,1,1,42.0,AC,0.0,380.0,ACTransmissionLine,CHE,1.0,Extra-EU,Internal,New,Cable/Line,Onshore,1,1
+2003,2024.0,2026.0,1,1,586.0,DC,2500.0,525.0,DCTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+2004,2024.0,2026.0,3,3,73.0,AC,0.0,220.0,ACTransmissionLine,AUT,1.0,EU,Internal,Upgrade,Cable/Line,Onshore,1,1
+2006,2024.0,2026.0,1,1,0.0,AC,0.0,0.0,OffshoreDCTransmissionCable,PRT,1.0,EU,Internal,New,Cable/Line,Offshore,1,1
+2007,2024.0,2026.0,1,1,51.057,AC,0.0,400.0,ACTransmissionLine,HUN;SVK,2.0,EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+2008,2024.0,2026.0,1,1,344.0,DC,2500.0,525.0,DCTransmissionLine,HUN;ROU,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
+2011,2024.0,2026.0,1,6,153.0,AC,0.0,400.0,ACTransmissionLine,BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK,8.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+2013,2024.0,2026.0,1,6,161.0,AC,0.0,400.0,ACTransmissionLine,BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK,8.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+2014,2024.0,2026.0,1,6,153.0,AC,0.0,400.0,ACTransmissionLine,BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK,8.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+2015,2024.0,2026.0,1,6,147.0,AC,0.0,400.0,ACTransmissionLine,BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK,8.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+2016,2024.0,2026.0,1,6,0.0,AC,0.0,400.0,ACTransmissionLine,BGR;CZE;GRC;HUN;MKD;POL;ROU;SVK,8.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+2017,2024.0,2026.0,3,3,52.0,AC,0.0,400.0,ACTransmissionLine,SVK;UKR,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+2018,2024.0,2026.0,2,2,0.0,AC,0.0,400.0,OnshoreSubstation,SVK;UKR,2.0,Extra-EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+2019,2024.0,2026.0,2,2,1.0,AC,0.0,400.0,OnshoreSubstation,SVK;UKR,2.0,Extra-EU,Cross-border,Upgrade,Nodal Infrastructure,Onshore,1,1
+2020,2024.0,2026.0,2,2,47.0,AC,0.0,400.0,ACTransmissionLine,SVK;UKR,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+2021,2024.0,2026.0,2,2,23.0,AC,0.0,400.0,ACTransmissionLine,SVK;UKR,2.0,Extra-EU,Cross-border,Upgrade,Cable/Line,Onshore,1,1
+2022,2024.0,2026.0,2,2,130.0,AC,0.0,400.0,ACTransmissionLine,ROU;UKR,2.0,Extra-EU,Cross-border,New,Cable/Line,Onshore,1,1
+2023,2024.0,2026.0,1,1,1.0,DC,1200.0,320.0,DCTransmissionLine,FRA,1.0,EU,Internal,New,Cable/Line,Onshore,1,1
+2024,2024.0,2026.0,1,1,80.0,AC,0.0,400.0,ACTransmissionLine,ESP;FRA,2.0,EU,Cross-border,New,Cable/Line,Onshore,1,1
