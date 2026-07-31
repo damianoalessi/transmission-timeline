@@ -1,8 +1,8 @@
-# Grid-infrastructure-pipelines-overstate-net-zero-delivery
+# A delivery gap in electricity grid expansion
 
 Replication data and code for:
 
-> Alessi, D., Zakeri, B., & Surana, K. *Grid infrastructure pipelines overstate net-zero delivery*. (in review)
+> Alessi, D., Zakeri, B., & Surana, K. *A delivery gap in electricity grid expansion*. (in review)
 > Institute for Data, Energy and Sustainability, Vienna University of Economics and Business (WU Vienna)
 
 <!-- TODO: DOI Zenodo + badge licenza quando il repo è archiviato -->
