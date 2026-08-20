@@ -76,7 +76,6 @@ nrow(df); table(df$event_mstate)
 ##### PART 1: MAIN MODEL FOR PAPER TABLE (COEFFICIENTS) ###
 ###########################################################
 
-# 1. Fit the main multi-state model to extract your coefficients for the paper
 cox_ts_full <- coxph(
   Surv(Duration, event_mstate) ~ strata(from, Inv_Environment) +
     from:is_EU +                     
@@ -93,7 +92,6 @@ cox_ts_full <- coxph(
   model = TRUE, x = TRUE, y = TRUE
 )
 
-# Export main model results
 model_summary <- as.data.frame(summary(cox_ts_full)$coefficients)
 model_summary$Variable <- rownames(model_summary)
 write.csv(model_summary, "Results/R_Cox_main_model_results.csv", row.names = FALSE)
@@ -115,16 +113,13 @@ cox_success <- coxph(
   data = df, id = spell_id, ties = "efron", model = TRUE, x = TRUE, y = TRUE
 )
 
-# Print the full summary for the 'success' transition model
 print("--- SUMMARY: SUCCESS TRANSITION ---")
 print(summary(cox_success))
 
-# Optional: Export these cause-specific results to CSV files for your appendix
 summary_success_df <- as.data.frame(summary(cox_success)$coefficients)
 summary_success_df$Variable <- rownames(summary_success_df)
 write.csv(summary_success_df, "Results/R_Cox_success_model.csv", row.names = FALSE)
 
-# Print diagnostics explicitly avoiding the multi-state bug
 print("--- ZPH TEST: SUCCESS ---")
 print(cox.zph(cox_success))
 
@@ -163,7 +158,6 @@ for (target_var in vars_to_simulate) {
     for (evt in target_events) {
       if (!(evt %in% df_sub$event_mstate)) next
       
-      # 1. Fine-Gray data con la variabile standard (corregge l'errore precedente)
       fg_data <- finegray(
         Surv(Duration, event_mstate) ~ is_EU + Project_Jurisdiction + 
           Infr_Type + Inv_Element_Category + Inv_Environment + 
@@ -171,7 +165,6 @@ for (target_var in vars_to_simulate) {
         data = df_sub, etype = evt
       )
       
-      # 2. Fit del modello mantenendo lo strata() per isolare l'effetto dell'ambiente
       cox_fg <- coxph(
         Surv(fgstart, fgstop, fgstatus) ~ is_EU + Project_Jurisdiction + 
           Infr_Type + Inv_Element_Category + strata(Inv_Environment) + 
@@ -183,7 +176,6 @@ for (target_var in vars_to_simulate) {
       
       for (lev in var_levels) {
         
-        # 3. Baseline bilanciata per le predizioni
         sim_row <- data.frame(
           is_EU = as.numeric(get_mode(df$is_EU)),
           Project_Jurisdiction = factor(get_mode(df$Project_Jurisdiction), levels = levels(df$Project_Jurisdiction)),
@@ -201,10 +193,8 @@ for (target_var in vars_to_simulate) {
           sim_row[[target_var]] <- as.numeric(lev)
         }
         
-        # 4. Calcolo della curva sopravvivenza / incidenza
         fit <- survfit(cox_fg, newdata = sim_row)
         
-        # 5. Salvataggio dei risultati per il plot in Python
         temp_df <- data.frame(
           Time = fit$time,
           Starting_State = st,
@@ -222,7 +212,7 @@ for (target_var in vars_to_simulate) {
   }
 }
 
-# Esporta il file definitivo
+
 write.csv(all_simulations, "Results/R_Cox_cif_combined.csv", row.names = FALSE)
 print("True CIF extracted successfully. Ready for Python!")
 
@@ -253,8 +243,7 @@ df <- df %>%
     Length_Cat   = relevel(factor(Length_Cat),   ref = "Long")
   )
 
-# Robustness sul rischio cause-specific 'success' (come la Table 1),
-# scala fisica come effetti principali, niente element category (collineare con Length=Zero)
+
 cox_robust <- coxph(
   Surv(Duration, event_success) ~ strata(from, Inv_Environment) +
     from:is_EU + from:Project_Jurisdiction +
@@ -264,7 +253,7 @@ cox_robust <- coxph(
     cluster(Inv_index),
   data = df, id = spell_id, ties = "efron"
 )
-summary(cox_robust)     # n deve restare 1082, niente coef infiniti
+summary(cox_robust)     
 
 cox.zph(cox_robust)
 
@@ -273,8 +262,6 @@ cox.zph(cox_robust)
 ### Test ###
 ############
 
-# opzione A: LRT sui modelli NON clusterizzati (il test di nested è sulla verosimiglianza,
-# che non dipende dagli SE robusti; il clustering serve agli SE, non al LRT)
 cox_base_nc <- coxph(Surv(Duration, event_success) ~ strata(from, Inv_Environment) +
                        from:is_EU + from:Project_Jurisdiction + from:Infr_Type +
                        from:Inv_Technology + from:Covid19 + from:NewDirective,
@@ -289,7 +276,6 @@ cox_robust_nc <- coxph(Surv(Duration, event_success) ~ strata(from, Inv_Environm
 anova(cox_base_nc, cox_robust_nc)   # H0: capacity+length non aggiungono nulla
 
 
-# opzione B: Wald test robusto congiunto sui soli termini fisici (usa gli SE clusterizzati)
 library(car)
 linearHypothesis(cox_robust,
                  c("Capacity_CatLow=0","Capacity_CatMissing=0","Capacity_CatZero=0",
