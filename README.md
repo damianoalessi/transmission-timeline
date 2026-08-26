@@ -50,11 +50,10 @@ git clone https://github.com/damianoalessi/transmission-timeline.git
 cd transmission-timeline
 ```
 
-2. Create the Python environment (conda):
+2. Install the Python dependencies:
 
 ```bash
 pip install -r requirements.txt
-conda activate transmission-timeline
 ```
 
 3. Install the R packages, from an R session:
@@ -219,8 +218,8 @@ Textual statuses are mapped to an ordinal scale: 1 Consideration, 2 Planned but 
 
 Investments frequently disappear from a report without an explicit status update. For an investment present in report `R_y` and absent from `R_{y+2}`, status is imputed deterministically from the expected commissioning year `E_i(y)`:
 
-- `Commissioned` if `E_i(y) < y + 2`
-- `Cancelled` if `E_i(y) >= y + 2`
+- `Commissioned` if `E_i(y) <= y + 2`
+- `Cancelled` if `E_i(y) > y + 2`
 
 This yields 181 commissioned, 447 cancelled and 337 ongoing investments, validated against the official Draft Portfolio flags (SI, case studies 1–4).
 
@@ -257,7 +256,7 @@ This yields 181 commissioned, 447 cancelled and 337 ongoing investments, validat
 | Fig. 4 — Sankey of status transitions | `G_4_Delay-Cancel_Sankey` |
 | Table 1 — multi-state Cox | `AZ_R_Cox_Model` |
 | Table 2 — reported reasons for schedule deviations | `A_5_Clustering_summary` |
-| SI Tables 5–8 — Cox robustness and PH diagnostics | `AZ_R_Cox_Model` |
+| SI Tables 3–5 — Cox robustness and PH diagnostics | `AZ_R_Cox_Model` |
 | SI Tables 6-7 — taxonomies | `A_4_3_LLM_for_Clustering`, `A_5_Clustering_summary` |
 | SI Table 8 — cancellation drivers | `A_4_4_Cancelled_Clustering` |
 | SI Table 9 — impact under substitution scenarios | `A_6_CO2_Impact` |
