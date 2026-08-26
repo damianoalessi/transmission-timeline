@@ -38,11 +38,45 @@ Headline results: an expected **14.1 years** (95% CI 13.1–15.2) from Considera
 ├── Images/                        # figures
 ├── 0_Clustering_Manual_Revision/  # manually reviewed NLP labels (see "Human-in-the-loop")
 └── 0_Results_Excel_Format/        # results transcribed to Excel
+
+
+## Installation guide
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/damianoalessi/transmission-timeline.git
+cd transmission-timeline
 ```
 
-<!-- TODO: rinominare "2018 Webscraping" senza spazio e correggere "Excell" → "Excel" -->
+2. Create the Python environment (conda):
 
----
+```bash
+conda env create -f environment.yml
+conda activate transmission-timeline
+```
+
+3. Install the R packages, from an R session:
+
+```r
+install.packages(c("survival", "dplyr", "forcats", "car"))
+```
+
+4. *Optional — only to re-run `A_4_3`:* install [Ollama](https://ollama.com/)
+   and pull the model with `ollama pull llama3.2`.
+
+**Typical install time:** ~X minutes on a normal desktop computer with a broadband
+connection (the conda environment dominates; `geopandas` and
+`sentence-transformers` are the largest downloads). Cloning the repository
+downloads ~X MB, since all intermediate outputs are committed.
+
+No compilation is required.
+
+
+
+
+
+
 
 ## Demo
 
