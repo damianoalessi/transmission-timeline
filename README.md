@@ -62,7 +62,7 @@ shipped panel — no need to rebuild the dataset from the raw TYNDP files.
 | `A_6_CO2_Impact` | substitution-scenario impacts of Table 3                                |
 
 **Expected run time:** ~15 min in total on a normal desktop (8-core CPU, 16 GB
-RAM, no GPU); the 1,000-iteration bootstrap in `A_1` dominates.
+RAM, no GPU).
 
 `A_4_*` (clustering and LLM classification) are not part of the demo: `A_5` reads
 the manually reviewed labels in `0_Clustering_Manual_Revision/`, and `A_4_3`
