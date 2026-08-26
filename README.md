@@ -236,6 +236,9 @@ This yields 181 commissioned, 447 cancelled and 337 ongoing investments, validat
 
 ## Software environment and system requirements
 
+**Operating system.** Developed and tested on Windows 11.
+No other OS has been tested.
+
 Developed on Python 3.13.5 (conda) and R <!-- TODO: versione -->.
 
 **Python** — `pandas`, `numpy`, `openpyxl`, `scipy`, `statsmodels`, `scikit-learn`, `nltk`, `thefuzz`, `pycountry`, `geopy`, `tqdm`, `selenium`, `beautifulsoup4`, `lxml`, `webdriver-manager`, `matplotlib`, `seaborn`, `plotly`, `kaleido`, `ptitprince`, `geopandas`, `sentence-transformers`, `umap-learn`, `hdbscan`, `requests`.
