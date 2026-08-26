@@ -206,7 +206,7 @@ This yields 181 commissioned, 447 cancelled and 337 ongoing investments, validat
 
 ---
 
-## Software environment
+## Software environment and system requirements
 
 Developed on Python 3.13.5 (conda) and R <!-- TODO: versione -->.
 
@@ -216,7 +216,18 @@ Developed on Python 3.13.5 (conda) and R <!-- TODO: versione -->.
 
 **LLM** — Llama 3.2 served locally through the [Ollama](https://ollama.com/) API, temperature 0, fixed seed.
 
-<!-- TODO: aggiungere requirements.txt e renv.lock con le versioni bloccate -->
+**Hardware.** No non-standard hardware is required.
+
+**Full-pipeline run time:** ~1 hour end to end on a normal desktop
+(8-core CPU, 16 GB RAM, no GPU), *excluding* the LLM classification step.
+Geocoding (`06A`) is the main bottleneck of that hour.
+
+`A_4_3_LLM_for_Clustering` was run on institutional server hardware and has not
+been benchmarked on a desktop machine. Llama 3.2 (3B, 4-bit) fits within 16 GB
+of RAM and runs on CPU through Ollama, but inference over the ~800 promoter
+justifications will be substantially slower than reported here. This step is not
+required to reproduce the published numbers: `A_5` reads the manually reviewed
+labels in `0_Clustering_Manual_Revision/`, which are shipped with the repository.
 
 ---
 
