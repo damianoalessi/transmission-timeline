@@ -53,9 +53,8 @@ cd transmission-timeline
 2. Create the Python environment (conda):
 
 ```bash
-conda env create -f environment.yml
-conda activate transmission-timeline
 pip install -r requirements.txt
+conda activate transmission-timeline
 ```
 
 3. Install the R packages, from an R session:
@@ -95,7 +94,7 @@ shipped panel — no need to rebuild the dataset from the raw TYNDP files.
 | `A_3a_Delay`   | delay statistics: 55% of investments delayed, mean 4.7 years              |
 | `A_3b_Cancelled` | final outcome counts: 181 commissioned, 447 cancelled, 337 ongoing      |
 | `A_5_Clustering_summary` | category shares of Table 2                                       |
-| `A_6_CO2_Impact` | substitution-scenario impacts of Table 3                                |
+| `A_6_CO2_Impact` | substitution-scenario impacts of SI Table 9                                |
 
 **Expected run time:** ~15 min in total on a normal desktop (8-core CPU, 16 GB
 RAM, no GPU).
@@ -179,7 +178,7 @@ Figures are exported with `pdf.fonttype = 42` and Arial so that text remains edi
 
 The NLP classification is **not fully automated**, and this matters for replication.
 
-`A_4_3` produces LLM labels; one author then reviewed every assignment against the promoter's original text (65 delay and 26 rescheduling assignments were reassigned). The reviewed files live in `0_Clustering_Manual_Revision/`:
+`A_4_3` produces LLM labels; one author then reviewed every assignment against the promoter's original text ( 74 delay and 26 rescheduling assignments were reassigned). The reviewed files live in `0_Clustering_Manual_Revision/`:
 
 - `Delayed_Reviewed.xlsx`
 - `Rescheduled_Reviewed.xlsx`
@@ -258,13 +257,13 @@ This yields 181 commissioned, 447 cancelled and 337 ongoing investments, validat
 | Fig. 4 — Sankey of status transitions | `G_4_Delay-Cancel_Sankey` |
 | Table 1 — multi-state Cox | `AZ_R_Cox_Model` |
 | Table 2 — reported reasons for schedule deviations | `A_5_Clustering_summary` |
-| Table 3 — impact under substitution scenarios | `A_6_CO2_Impact` |
-| SI Table 3 — funnel cohort | `A_1_Duration` |
-| SI Table 4 — all observed state transitions | `A_1_Duration` |
 | SI Tables 5–8 — Cox robustness and PH diagnostics | `AZ_R_Cox_Model` |
-| SI Table 9 — OLS on delay magnitude | `A_3a_Delay` |
-| SI Tables 10–12 — taxonomies | `A_4_3_LLM_for_Clustering`, `A_5_Clustering_summary` |
-| SI Table 13 — cancellation drivers | `A_4_4_Cancelled_Clustering` |
+| SI Tables 6-7 — taxonomies | `A_4_3_LLM_for_Clustering`, `A_5_Clustering_summary` |
+| SI Table 8 — cancellation drivers | `A_4_4_Cancelled_Clustering` |
+| SI Table 9 — impact under substitution scenarios | `A_6_CO2_Impact` |
+| SI Table 10 — funnel cohort | `A_1_Duration` |
+| SI Table 11 — all observed state transitions | `A_1_Duration` |
+| SI Table 12 — OLS on delay magnitude | `A_3a_Delay` |
 | SI Figs 1–2 — K-means inertia curves | `A_4_1_Clustering_Kmeans` (`Images/Kmeans_delay.png`, `Images/Kmeans_rescheduled.png`) |
 | SI Figs 3–4 — UMAP projections | `A_4_2_Clustering_dbscan` |
 
