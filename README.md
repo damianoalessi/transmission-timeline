@@ -44,6 +44,34 @@ Headline results: an expected **14.1 years** (95% CI 13.1–15.2) from Considera
 
 ---
 
+## Demo
+
+Every intermediate output is committed, so the analysis runs directly on the
+shipped panel — no need to rebuild the dataset from the raw TYNDP files.
+
+**Input:** `Results/08.csv` and `Results/07.xlsx` (both shipped).
+
+**Run:** open the `A_*` notebooks and run all cells, in this order:
+
+| Notebook       | Expected output                                                          |
+| -------------- | ------------------------------------------------------------------------ |
+| `A_1_Duration` | 14.1-year expected duration (95% CI 13.1–15.2), 12.2% success probability |
+| `A_3a_Delay`   | delay statistics: 55% of investments delayed, mean 4.7 years              |
+| `A_3b_Cancelled` | final outcome counts: 181 commissioned, 447 cancelled, 337 ongoing      |
+| `A_5_Clustering_summary` | category shares of Table 2                                       |
+| `A_6_CO2_Impact` | substitution-scenario impacts of Table 3                                |
+
+**Expected run time:** ~15 min in total on a normal desktop (8-core CPU, 16 GB
+RAM, no GPU); the 1,000-iteration bootstrap in `A_1` dominates.
+
+`A_4_*` (clustering and LLM classification) are not part of the demo: `A_5` reads
+the manually reviewed labels in `0_Clustering_Manual_Revision/`, and `A_4_3`
+requires a local Ollama instance (see System requirements).
+
+The R survival models can be run in the same way from the
+shipped inputs
+
+
 ## Pipeline
 
 Run in the order below. Each step reads the previous step's output from `Results/`, so the sequence is not optional.
