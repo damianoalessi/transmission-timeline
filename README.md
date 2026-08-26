@@ -38,8 +38,9 @@ Headline results: an expected **14.1 years** (95% CI 13.1–15.2) from Considera
 ├── Images/                        # figures
 ├── 0_Clustering_Manual_Revision/  # manually reviewed NLP labels (see "Human-in-the-loop")
 └── 0_Results_Excel_Format/        # results transcribed to Excel
+```
 
-
+---
 ## Installation guide
 
 1. Clone the repository:
