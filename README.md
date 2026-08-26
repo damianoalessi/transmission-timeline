@@ -240,7 +240,7 @@ Developed on Python 3.13.5 (conda) and R <!-- TODO: versione -->.
 
 ```bibtex
 @article{alessi_grid_pipelines,
-  title   = {Grid infrastructure pipelines overstate net-zero delivery},
+  title   = {A delivery gap in electricity grid expansion},
   author  = {Alessi, Damiano and Zakeri, Behnam and Surana, Kavita},
   year    = {2026},
   note    = {in review}
