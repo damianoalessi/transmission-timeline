@@ -252,7 +252,7 @@ Developed on Python 3.13.5 (conda) and R <!-- TODO: versione -->.
 ## License
 
 <!-- TODO: scegliere. Convenzione comune: codice MIT o Apache-2.0, dati derivati CC BY 4.0 -->
-Code is released under [TBD]. Derived data are released under [TBD], subject to the terms of the original ENTSO-E publications and, for geographic coordinates, the OpenStreetMap ODbL.
+The repository code is released under the MIT License; see LICENSE. Derived data are released under MIT License, subject to the terms of the original ENTSO-E publications and, for geographic coordinates, the OpenStreetMap ODbL.
 
 ## Contact
 
