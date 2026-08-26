@@ -273,7 +273,7 @@ This yields 181 commissioned, 447 cancelled and 337 ongoing investments, validat
 **Operating system.** Developed and tested on Windows 11 x64.
 No other OS has been tested.
 
-Developed on Python 3.13.5 (conda) and R 4.6.0** (2026-04-24 ucrt).
+Developed on Python 3.13.5 (conda) and R 4.6.0 (2026-04-24 ucrt).
 
 **Python** — `pandas`, `numpy`, `openpyxl`, `scipy`, `statsmodels`, `scikit-learn`, `nltk`, `thefuzz`, `pycountry`, `geopy`, `tqdm`, `selenium`, `beautifulsoup4`, `lxml`, `webdriver-manager`, `matplotlib`, `seaborn`, `plotly`, `kaleido`, `ptitprince`, `geopandas`, `sentence-transformers`, `umap-learn`, `hdbscan`, `requests`. Exact pinned versions in `requirements.txt`.
 
