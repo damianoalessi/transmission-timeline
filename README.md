@@ -55,6 +55,7 @@ cd transmission-timeline
 ```bash
 conda env create -f environment.yml
 conda activate transmission-timeline
+pip install -r requirements.txt
 ```
 
 3. Install the R packages, from an R session:
@@ -276,7 +277,7 @@ No other OS has been tested.
 
 Developed on Python 3.13.5 (conda) and R 4.6.0** (2026-04-24 ucrt).
 
-**Python** — `pandas`, `numpy`, `openpyxl`, `scipy`, `statsmodels`, `scikit-learn`, `nltk`, `thefuzz`, `pycountry`, `geopy`, `tqdm`, `selenium`, `beautifulsoup4`, `lxml`, `webdriver-manager`, `matplotlib`, `seaborn`, `plotly`, `kaleido`, `ptitprince`, `geopandas`, `sentence-transformers`, `umap-learn`, `hdbscan`, `requests`.
+**Python** — `pandas`, `numpy`, `openpyxl`, `scipy`, `statsmodels`, `scikit-learn`, `nltk`, `thefuzz`, `pycountry`, `geopy`, `tqdm`, `selenium`, `beautifulsoup4`, `lxml`, `webdriver-manager`, `matplotlib`, `seaborn`, `plotly`, `kaleido`, `ptitprince`, `geopandas`, `sentence-transformers`, `umap-learn`, `hdbscan`, `requests`. Exact pinned versions in `requirements.txt`.
 
 **R** — `survival` 3.8-6, `dplyr` 1.2.1, `forcats` 1.0.1, `car` 3.1-5 (with `carData` 3.0-6). Full session details, including
 indirect dependencies, in `sessionInfo.txt`.
