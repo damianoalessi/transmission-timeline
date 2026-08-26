@@ -68,7 +68,7 @@ install.packages(c("survival", "dplyr", "forcats", "car"))
 **Typical install time:** ~20 minutes on a normal desktop computer with a broadband
 connection (the conda environment dominates; `geopandas` and
 `sentence-transformers` are the largest downloads). Cloning the repository
-downloads ~X MB, since all intermediate outputs are committed.
+downloads ~52 MB, since all intermediate outputs are committed.
 
 No compilation is required.
 
