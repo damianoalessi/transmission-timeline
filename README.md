@@ -271,14 +271,14 @@ This yields 181 commissioned, 447 cancelled and 337 ongoing investments, validat
 
 ## Software environment and system requirements
 
-**Operating system.** Developed and tested on Windows 11.
+**Operating system.** Developed and tested on Windows 11 x64.
 No other OS has been tested.
 
-Developed on Python 3.13.5 (conda) and R <!-- TODO: versione -->.
+Developed on Python 3.13.5 (conda) and R 4.6.0** (2026-04-24 ucrt).
 
 **Python** — `pandas`, `numpy`, `openpyxl`, `scipy`, `statsmodels`, `scikit-learn`, `nltk`, `thefuzz`, `pycountry`, `geopy`, `tqdm`, `selenium`, `beautifulsoup4`, `lxml`, `webdriver-manager`, `matplotlib`, `seaborn`, `plotly`, `kaleido`, `ptitprince`, `geopandas`, `sentence-transformers`, `umap-learn`, `hdbscan`, `requests`.
 
-**R** — `survival`, `dplyr`, `forcats`, `car`.
+**R** — `survival` 3.8-6, `dplyr` 1.2.1, `forcats` 1.0.1, `car` 3.1-5 (with `carData` 3.0-6).
 
 **LLM** — Llama 3.2 served locally through the [Ollama](https://ollama.com/) API, temperature 0, fixed seed.
 
