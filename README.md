@@ -278,7 +278,8 @@ Developed on Python 3.13.5 (conda) and R 4.6.0** (2026-04-24 ucrt).
 
 **Python** — `pandas`, `numpy`, `openpyxl`, `scipy`, `statsmodels`, `scikit-learn`, `nltk`, `thefuzz`, `pycountry`, `geopy`, `tqdm`, `selenium`, `beautifulsoup4`, `lxml`, `webdriver-manager`, `matplotlib`, `seaborn`, `plotly`, `kaleido`, `ptitprince`, `geopandas`, `sentence-transformers`, `umap-learn`, `hdbscan`, `requests`.
 
-**R** — `survival` 3.8-6, `dplyr` 1.2.1, `forcats` 1.0.1, `car` 3.1-5 (with `carData` 3.0-6).
+**R** — `survival` 3.8-6, `dplyr` 1.2.1, `forcats` 1.0.1, `car` 3.1-5 (with `carData` 3.0-6). Full session details, including
+indirect dependencies, in `sessionInfo.txt`.
 
 **LLM** — Llama 3.2 served locally through the [Ollama](https://ollama.com/) API, temperature 0, fixed seed.
 
